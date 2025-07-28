@@ -1,5 +1,16 @@
 # 🛠 Bank Statement Backend - Git Workflow Guide for Interns
 
+
+Donut Model Uses datasets  'naver-clova-ix/donut-base-finetuned-cord-v2'
+
+git clone https://huggingface.co/naver-clova-ix/donut-base-finetuned-cord-v2
+
+clone it in project root directory
+
+
+
+
+
 Welcome! This document explains the Git workflow and rules for contributing to this repository. Please **read carefully** and follow each step while working on your assigned tasks.
 
 ---
