@@ -1,0 +1,289 @@
+{
+    "pages": [
+        {
+            "page_number": 1,
+            "lines": [
+                {
+                    "text": "INVOICE",
+                    "average_ocr_confidence": 0.890604555606842,
+                    "named_entities": []
+                },
+                {
+                    "text": "REALHANDY",
+                    "average_ocr_confidence": 0.9554454386234283,
+                    "named_entities": [
+                        {
+                            "text": "R",
+                            "type": "LOC",
+                            "ner_confidence": 0.8490993976593018
+                        },
+                        {
+                            "text": "##EA",
+                            "type": "LOC",
+                            "ner_confidence": 0.7896631360054016
+                        },
+                        {
+                            "text": "##L",
+                            "type": "ORG",
+                            "ner_confidence": 0.5424959063529968
+                        },
+                        {
+                            "text": "##HA",
+                            "type": "LOC",
+                            "ner_confidence": 0.4360699951648712
+                        },
+                        {
+                            "text": "##ND",
+                            "type": "ORG",
+                            "ner_confidence": 0.42200765013694763
+                        }
+                    ]
+                },
+                {
+                    "text": "Invoice number: 100-13",
+                    "average_ocr_confidence": 0.845452070236206,
+                    "named_entities": []
+                },
+                {
+                    "text": "Invoice date:: 24/08/2021",
+                    "average_ocr_confidence": 0.8043301701545715,
+                    "named_entities": []
+                },
+                {
+                    "text": "Mr. Peter McDonald",
+                    "average_ocr_confidence": 0.9955059687296549,
+                    "named_entities": [
+                        {
+                            "text": "Peter McDonald",
+                            "type": "PER",
+                            "ner_confidence": 0.9995400905609131
+                        }
+                    ]
+                },
+                {
+                    "text": "17 Springdale Rd",
+                    "average_ocr_confidence": 0.8737716873486837,
+                    "named_entities": [
+                        {
+                            "text": "Springdale Rd",
+                            "type": "LOC",
+                            "ner_confidence": 0.9530606269836426
+                        }
+                    ]
+                },
+                {
+                    "text": "Payment terms: 30 days",
+                    "average_ocr_confidence": 0.9509777277708054,
+                    "named_entities": []
+                },
+                {
+                    "text": "London",
+                    "average_ocr_confidence": 0.9894172549247742,
+                    "named_entities": [
+                        {
+                            "text": "London",
+                            "type": "LOC",
+                            "ner_confidence": 0.9994006156921387
+                        }
+                    ]
+                },
+                {
+                    "text": "Due date: 23/09/2021",
+                    "average_ocr_confidence": 0.8630261818567911,
+                    "named_entities": []
+                },
+                {
+                    "text": "N16 9NS",
+                    "average_ocr_confidence": 0.9264946579933167,
+                    "named_entities": []
+                },
+                {
+                    "text": "Customer number: 2",
+                    "average_ocr_confidence": 0.9879876772562662,
+                    "named_entities": []
+                },
+                {
+                    "text": "Thank yout for your business!",
+                    "average_ocr_confidence": 0.9639816164970398,
+                    "named_entities": []
+                },
+                {
+                    "text": "Description",
+                    "average_ocr_confidence": 0.8910150527954102,
+                    "named_entities": []
+                },
+                {
+                    "text": "Date Qty Unit Unit price VAT %",
+                    "average_ocr_confidence": 0.9809621827942985,
+                    "named_entities": [
+                        {
+                            "text": "Q",
+                            "type": "ORG",
+                            "ner_confidence": 0.622697114944458
+                        },
+                        {
+                            "text": "Unit Unit",
+                            "type": "ORG",
+                            "ner_confidence": 0.9725428223609924
+                        }
+                    ]
+                },
+                {
+                    "text": "Total",
+                    "average_ocr_confidence": 0.9884904623031616,
+                    "named_entities": []
+                },
+                {
+                    "text": "Installation of new kitchen sink",
+                    "average_ocr_confidence": 0.8011343955993653,
+                    "named_entities": []
+                },
+                {
+                    "text": "24/08/2021 2.00 h 70.00 GBP 20.0% 168.00 GBP",
+                    "average_ocr_confidence": 0.8789570406079292,
+                    "named_entities": []
+                },
+                {
+                    "text": "Bathroom Refurbishment",
+                    "average_ocr_confidence": 0.963072806596756,
+                    "named_entities": []
+                },
+                {
+                    "text": "24/08/2021 4.00 h 120.00 GBP 20.0% 576.00 GBP",
+                    "average_ocr_confidence": 0.9514857679605484,
+                    "named_entities": []
+                },
+                {
+                    "text": "Total excl. VAT",
+                    "average_ocr_confidence": 0.8407340049743652,
+                    "named_entities": []
+                },
+                {
+                    "text": "620.00 GBP",
+                    "average_ocr_confidence": 0.9727467000484467,
+                    "named_entities": []
+                },
+                {
+                    "text": "VAT 20.01 %",
+                    "average_ocr_confidence": 0.827630360921224,
+                    "named_entities": []
+                },
+                {
+                    "text": "124.00 GBP",
+                    "average_ocr_confidence": 0.9941205978393555,
+                    "named_entities": []
+                },
+                {
+                    "text": "Total amount due 744.00 GBP",
+                    "average_ocr_confidence": 0.9815325736999512,
+                    "named_entities": []
+                },
+                {
+                    "text": "RealHandy Home repair &",
+                    "average_ocr_confidence": 0.991875410079956,
+                    "named_entities": [
+                        {
+                            "text": "##Hand",
+                            "type": "ORG",
+                            "ner_confidence": 0.7042965888977051
+                        }
+                    ]
+                },
+                {
+                    "text": "Contact information",
+                    "average_ocr_confidence": 0.929347425699234,
+                    "named_entities": []
+                },
+                {
+                    "text": "Payment details",
+                    "average_ocr_confidence": 0.9312928020954132,
+                    "named_entities": []
+                },
+                {
+                    "text": "Maintenance",
+                    "average_ocr_confidence": 0.9832749962806702,
+                    "named_entities": []
+                },
+                {
+                    "text": "Benj johnson",
+                    "average_ocr_confidence": 0.8451354503631592,
+                    "named_entities": []
+                },
+                {
+                    "text": "Bank Barclays",
+                    "average_ocr_confidence": 0.8358120620250702,
+                    "named_entities": [
+                        {
+                            "text": "Bank Barclays",
+                            "type": "ORG",
+                            "ner_confidence": 0.9878751635551453
+                        }
+                    ]
+                },
+                {
+                    "text": "30 Galloway Rd",
+                    "average_ocr_confidence": 0.9532736539840698,
+                    "named_entities": [
+                        {
+                            "text": "Galloway Rd",
+                            "type": "LOC",
+                            "ner_confidence": 0.8636010885238647
+                        }
+                    ]
+                },
+                {
+                    "text": "+447911123456.",
+                    "average_ocr_confidence": 0.9775940179824829,
+                    "named_entities": []
+                },
+                {
+                    "text": "IBAN: GB29 NWBKI 6016 1331 9268 19",
+                    "average_ocr_confidence": 0.8451503642967769,
+                    "named_entities": [
+                        {
+                            "text": "NWBKI",
+                            "type": "ORG",
+                            "ner_confidence": 0.9235309362411499
+                        }
+                    ]
+                },
+                {
+                    "text": "W120 OPH London",
+                    "average_ocr_confidence": 0.9292610088984171,
+                    "named_entities": [
+                        {
+                            "text": "OP",
+                            "type": "ORG",
+                            "ner_confidence": 0.928876519203186
+                        },
+                        {
+                            "text": "London",
+                            "type": "ORG",
+                            "ner_confidence": 0.923988401889801
+                        }
+                    ]
+                },
+                {
+                    "text": "benjohnson@realhandy.uk",
+                    "average_ocr_confidence": 0.7010573744773865,
+                    "named_entities": []
+                },
+                {
+                    "text": "Company registration number:",
+                    "average_ocr_confidence": 0.8186598221460978,
+                    "named_entities": []
+                },
+                {
+                    "text": "17845123",
+                    "average_ocr_confidence": 0.9991361498832703,
+                    "named_entities": []
+                },
+                {
+                    "text": "VAT number: GB123456789.",
+                    "average_ocr_confidence": 0.9427770972251892,
+                    "named_entities": []
+                }
+            ]
+        }
+    ]
+}

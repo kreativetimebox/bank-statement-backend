@@ -1,108 +1,14 @@
-# 🛠 Bank Statement Backend - Git Workflow Guide for Interns
-
-Welcome! This document explains the Git workflow and rules for contributing to this repository. Please **read carefully** and follow each step while working on your assigned tasks.
-
----
-
-## Branch Structure
-
-| Branch                        | Purpose                                              |
-|-------------------------------|------------------------------------------------------|
-| `main`                        | Production-ready code. **Protected.**                |
-| `feature/*`                   | feature-branch                                       |
-
----
-
-## 🔐 Branch Protection Rules
-
-- 🔒 `master`: **No direct pushes.** All updates via approved pull requests.
-- ✅ You can create and push `feature/*` branches freely under your respective team branches.
-
----
-## Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/kreativetimebox/bank-statement-categorization-model.git
-cd bank-statement-categorization-model
-```
-
-### 2. Create and switch to a new feature branch
-Always base your work on the latest `main` branch.
-
-```bash
-git checkout main
-git pull origin main
-
-# Create a feature branch:
-git checkout -b feature/yourname-taskname
-```
-
----
-
-## Working on Your Task
-
-1. Make your code changes
-2. Add and commit with a clear message:
-
-```bash
-git add .
-git commit -m "Add: [Short Description of Your Feature]"
-```
-
-3. Push to your branch:
-
-```bash
-git push origin feature/yourname-taskname
-```
-
----
-
-## Create a Pull Request (PR)
-
-Go to the repository on GitHub and:
-
-- Click **“Compare & Pull Request”**
-- Base branch: `main`
-- Head branch: `feature/yourname-taskname`
-- Add a meaningful PR title and description
-- Click **“Create Pull Request”**
-
----
-
-## ✅ After Review
-
-- Your PR will be reviewed and merged into `main`
-
----
-
-## 🧪 Testing Setup (Do Not Skip)
-
-Before you submit your PR:
-
-- ✅ Pull the latest `main` changes:  
-  ```bash
-  git pull origin main --rebase
-  ```
-- ✅ Test your code locally
-- ✅ Ensure your changes do not break existing features
-
----
-
-## ❌ Don’t Do
-
-- 🚫 Do **not** push to `main`
-- 🚫 Do **not** work on `main` directly
-- 🚫 Do **not** merge your own PRs unless told
-
----
-
-## 👥 Need Help?
-
-Contact your project lead if:
-- You can't push your branch
-- You’re unsure about the workflow
-- You need feedback on your PR
-
-Happy coding!
-
+Document OCR and Named Entity Recognition (NER)
+This project uses deep learning models to perform Optical Character Recognition (OCR) on an image and then runs Named Entity Recognition (NER) on the extracted text. It processes a document image line-by-line, identifies text, and then extracts entities like names of people, organizations, and locations from that text.
+The final, structured output is saved as a unique JSON file.
+Features
+High-Performance OCR: Utilizes the doctr library to accurately detect and recognize text from an image.
+Named Entity Recognition: Employs a pre-trained transformers model from Hugging Face (dslim/bert-base-NER) to identify entities.
+Structured JSON Output: Saves the results in a clean, human-readable JSON format.
+Unique Filenames: Automatically generates a unique filename for each run based on the input image's name and a timestamp, preventing overwrites.
+Requirements
+This project requires Python 3.8+ and the following libraries:
+python-doctr (with a PyTorch backend)
+transformers
+torch (PyTorch)
+scipy

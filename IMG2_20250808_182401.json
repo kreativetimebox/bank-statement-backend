@@ -1,0 +1,295 @@
+{
+    "pages": [
+        {
+            "page_number": 1,
+            "lines": [
+                {
+                    "text": "Invoice",
+                    "average_ocr_confidence": 0.9239909648895264,
+                    "named_entities": []
+                },
+                {
+                    "text": "Logo",
+                    "average_ocr_confidence": 0.99935382604599,
+                    "named_entities": []
+                },
+                {
+                    "text": "Your Company Name",
+                    "average_ocr_confidence": 0.9626326958338419,
+                    "named_entities": []
+                },
+                {
+                    "text": "Address. line 1",
+                    "average_ocr_confidence": 0.7253813743591309,
+                    "named_entities": []
+                },
+                {
+                    "text": "Address line 2",
+                    "average_ocr_confidence": 0.8214109043280283,
+                    "named_entities": []
+                },
+                {
+                    "text": "City: Postcode",
+                    "average_ocr_confidence": 0.6828226894140244,
+                    "named_entities": []
+                },
+                {
+                    "text": "Phoner 1234 567 890",
+                    "average_ocr_confidence": 0.9538860321044922,
+                    "named_entities": []
+                },
+                {
+                    "text": "Invoice Date:",
+                    "average_ocr_confidence": 0.9664325714111328,
+                    "named_entities": []
+                },
+                {
+                    "text": "18/03/2021",
+                    "average_ocr_confidence": 0.9350261688232422,
+                    "named_entities": []
+                },
+                {
+                    "text": "Invoice Number: 1234",
+                    "average_ocr_confidence": 0.9937114914258321,
+                    "named_entities": []
+                },
+                {
+                    "text": "Client Reference:",
+                    "average_ocr_confidence": 0.9718413949012756,
+                    "named_entities": []
+                },
+                {
+                    "text": "To",
+                    "average_ocr_confidence": 0.9915251135826111,
+                    "named_entities": []
+                },
+                {
+                    "text": "Purchase Order:",
+                    "average_ocr_confidence": 0.9868223071098328,
+                    "named_entities": []
+                },
+                {
+                    "text": "Customer Company",
+                    "average_ocr_confidence": 0.9352776408195496,
+                    "named_entities": []
+                },
+                {
+                    "text": "DUE DATE:",
+                    "average_ocr_confidence": 0.9998753368854523,
+                    "named_entities": []
+                },
+                {
+                    "text": "18/03/2021",
+                    "average_ocr_confidence": 0.5920177698135376,
+                    "named_entities": []
+                },
+                {
+                    "text": "Customer Name",
+                    "average_ocr_confidence": 0.756326824426651,
+                    "named_entities": []
+                },
+                {
+                    "text": "Address line",
+                    "average_ocr_confidence": 0.8264320194721222,
+                    "named_entities": []
+                },
+                {
+                    "text": "City. Postcode",
+                    "average_ocr_confidence": 0.7521316409111023,
+                    "named_entities": []
+                },
+                {
+                    "text": "Additional information",
+                    "average_ocr_confidence": 0.7705709636211395,
+                    "named_entities": []
+                },
+                {
+                    "text": "Add: any additional instructions or terms here",
+                    "average_ocr_confidence": 0.8560562985283988,
+                    "named_entities": []
+                },
+                {
+                    "text": "Description",
+                    "average_ocr_confidence": 0.9994568228721619,
+                    "named_entities": []
+                },
+                {
+                    "text": "Qty",
+                    "average_ocr_confidence": 0.6046478152275085,
+                    "named_entities": []
+                },
+                {
+                    "text": "Unit",
+                    "average_ocr_confidence": 0.9937596917152405,
+                    "named_entities": []
+                },
+                {
+                    "text": "Unit Price VAT' %",
+                    "average_ocr_confidence": 0.8855538815259933,
+                    "named_entities": []
+                },
+                {
+                    "text": "VAT",
+                    "average_ocr_confidence": 0.9989408850669861,
+                    "named_entities": []
+                },
+                {
+                    "text": "Total",
+                    "average_ocr_confidence": 0.9974918365478516,
+                    "named_entities": []
+                },
+                {
+                    "text": "Example product",
+                    "average_ocr_confidence": 0.8149697780609131,
+                    "named_entities": []
+                },
+                {
+                    "text": "5",
+                    "average_ocr_confidence": 0.9999573230743408,
+                    "named_entities": []
+                },
+                {
+                    "text": "pcs",
+                    "average_ocr_confidence": 0.9770871996879578,
+                    "named_entities": []
+                },
+                {
+                    "text": "£60",
+                    "average_ocr_confidence": 0.9914363026618958,
+                    "named_entities": []
+                },
+                {
+                    "text": "20%",
+                    "average_ocr_confidence": 0.9975581169128418,
+                    "named_entities": []
+                },
+                {
+                    "text": "£ 60,00",
+                    "average_ocr_confidence": 0.9988197386264801,
+                    "named_entities": []
+                },
+                {
+                    "text": "£ 300,00",
+                    "average_ocr_confidence": 0.9982985556125641,
+                    "named_entities": []
+                },
+                {
+                    "text": "Example work",
+                    "average_ocr_confidence": 0.9741829633712769,
+                    "named_entities": []
+                },
+                {
+                    "text": "10",
+                    "average_ocr_confidence": 0.7102294564247131,
+                    "named_entities": []
+                },
+                {
+                    "text": "h",
+                    "average_ocr_confidence": 0.9992243051528931,
+                    "named_entities": []
+                },
+                {
+                    "text": "£105",
+                    "average_ocr_confidence": 0.983373761177063,
+                    "named_entities": []
+                },
+                {
+                    "text": "20%",
+                    "average_ocr_confidence": 0.9971529245376587,
+                    "named_entities": []
+                },
+                {
+                    "text": "£ 210,00 £1 050,00",
+                    "average_ocr_confidence": 0.9976079016923904,
+                    "named_entities": []
+                },
+                {
+                    "text": "Sub Total £1 350,00",
+                    "average_ocr_confidence": 0.8955687135457993,
+                    "named_entities": []
+                },
+                {
+                    "text": "Total VAT £ 270,00",
+                    "average_ocr_confidence": 0.9106689244508743,
+                    "named_entities": []
+                },
+                {
+                    "text": "Total amount due £1 620,00",
+                    "average_ocr_confidence": 0.9943925380706787,
+                    "named_entities": []
+                },
+                {
+                    "text": "Registered Address",
+                    "average_ocr_confidence": 0.9899275004863739,
+                    "named_entities": []
+                },
+                {
+                    "text": "Contact information",
+                    "average_ocr_confidence": 0.8645220100879669,
+                    "named_entities": []
+                },
+                {
+                    "text": "Payment Details",
+                    "average_ocr_confidence": 0.9811483025550842,
+                    "named_entities": []
+                },
+                {
+                    "text": "Address Line 1",
+                    "average_ocr_confidence": 0.9509840607643127,
+                    "named_entities": []
+                },
+                {
+                    "text": "Contact Name",
+                    "average_ocr_confidence": 0.9923957586288452,
+                    "named_entities": []
+                },
+                {
+                    "text": "Bank Name Barclays PLC",
+                    "average_ocr_confidence": 0.9126101434230804,
+                    "named_entities": [
+                        {
+                            "text": "Barclays PLC",
+                            "type": "ORG",
+                            "ner_confidence": 0.9985872507095337
+                        }
+                    ]
+                },
+                {
+                    "text": "Address Line 2",
+                    "average_ocr_confidence": 0.9459320505460104,
+                    "named_entities": []
+                },
+                {
+                    "text": "Phone: 1234 567 890",
+                    "average_ocr_confidence": 0.9779657423496246,
+                    "named_entities": []
+                },
+                {
+                    "text": "Sort-Code",
+                    "average_ocr_confidence": 0.8690898418426514,
+                    "named_entities": []
+                },
+                {
+                    "text": "00-00-00",
+                    "average_ocr_confidence": 0.9335955381393433,
+                    "named_entities": []
+                },
+                {
+                    "text": "Cly. Postcode",
+                    "average_ocr_confidence": 0.8122726380825043,
+                    "named_entities": []
+                },
+                {
+                    "text": "Email: Mistlest@company.couk",
+                    "average_ocr_confidence": 0.3712159991264343,
+                    "named_entities": []
+                },
+                {
+                    "text": "Account No. 123456789",
+                    "average_ocr_confidence": 0.977964182694753,
+                    "named_entities": []
+                }
+            ]
+        }
+    ]
+}
