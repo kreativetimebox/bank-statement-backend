@@ -1,0 +1,345 @@
+{
+    "pages": [
+        {
+            "page_number": 1,
+            "lines": [
+                {
+                    "text": "THEATRE",
+                    "average_ocr_confidence": 0.9972162246704102,
+                    "named_entities": []
+                },
+                {
+                    "text": "DIOS",
+                    "average_ocr_confidence": 0.6643545031547546,
+                    "named_entities": [
+                        {
+                            "text": "DIOS",
+                            "type": "ORG",
+                            "ner_confidence": 0.9929280877113342
+                        }
+                    ]
+                },
+                {
+                    "text": "BOOKER",
+                    "average_ocr_confidence": 0.9998192191123962,
+                    "named_entities": []
+                },
+                {
+                    "text": "Booking commission VAT Receipt",
+                    "average_ocr_confidence": 0.9312981069087982,
+                    "named_entities": []
+                },
+                {
+                    "text": "Invoice Date",
+                    "average_ocr_confidence": 0.9989475309848785,
+                    "named_entities": []
+                },
+                {
+                    "text": "Theatre Digs Booker Limited",
+                    "average_ocr_confidence": 0.9948586672544479,
+                    "named_entities": [
+                        {
+                            "text": "Theatre Digs Booker Limited",
+                            "type": "ORG",
+                            "ner_confidence": 0.9956781268119812
+                        }
+                    ]
+                },
+                {
+                    "text": "26 May 2018",
+                    "average_ocr_confidence": 0.9858229160308838,
+                    "named_entities": []
+                },
+                {
+                    "text": "95 Lime Tree Road",
+                    "average_ocr_confidence": 0.9857062250375748,
+                    "named_entities": [
+                        {
+                            "text": "Lime",
+                            "type": "LOC",
+                            "ner_confidence": 0.7272471785545349
+                        },
+                        {
+                            "text": "Tree",
+                            "type": "ORG",
+                            "ner_confidence": 0.5846784710884094
+                        },
+                        {
+                            "text": "Road",
+                            "type": "LOC",
+                            "ner_confidence": 0.5179998278617859
+                        }
+                    ]
+                },
+                {
+                    "text": "Example TDB Host",
+                    "average_ocr_confidence": 0.9758153557777405,
+                    "named_entities": [
+                        {
+                            "text": "TD",
+                            "type": "MISC",
+                            "ner_confidence": 0.8751007318496704
+                        }
+                    ]
+                },
+                {
+                    "text": "Invoice Number",
+                    "average_ocr_confidence": 0.9969697296619415,
+                    "named_entities": []
+                },
+                {
+                    "text": "Matlock",
+                    "average_ocr_confidence": 0.9986079335212708,
+                    "named_entities": [
+                        {
+                            "text": "Mat",
+                            "type": "PER",
+                            "ner_confidence": 0.9918600916862488
+                        },
+                        {
+                            "text": "##lock",
+                            "type": "PER",
+                            "ner_confidence": 0.4197511374950409
+                        }
+                    ]
+                },
+                {
+                    "text": "67 Falmouth Road",
+                    "average_ocr_confidence": 0.9935459891955057,
+                    "named_entities": [
+                        {
+                            "text": "Falmouth Road",
+                            "type": "LOC",
+                            "ner_confidence": 0.882298469543457
+                        }
+                    ]
+                },
+                {
+                    "text": "#53073",
+                    "average_ocr_confidence": 0.9995239973068237,
+                    "named_entities": []
+                },
+                {
+                    "text": "Derbyshire",
+                    "average_ocr_confidence": 0.5108656287193298,
+                    "named_entities": [
+                        {
+                            "text": "Derbyshire",
+                            "type": "ORG",
+                            "ner_confidence": 0.9995328187942505
+                        }
+                    ]
+                },
+                {
+                    "text": "Derby",
+                    "average_ocr_confidence": 0.5062909126281738,
+                    "named_entities": [
+                        {
+                            "text": "Derby",
+                            "type": "ORG",
+                            "ner_confidence": 0.9802093505859375
+                        }
+                    ]
+                },
+                {
+                    "text": "DE4 3DU",
+                    "average_ocr_confidence": 0.9981875419616699,
+                    "named_entities": [
+                        {
+                            "text": "DE4 3D",
+                            "type": "ORG",
+                            "ner_confidence": 0.877030611038208
+                        }
+                    ]
+                },
+                {
+                    "text": "DE24 OLY",
+                    "average_ocr_confidence": 0.9997325837612152,
+                    "named_entities": [
+                        {
+                            "text": "DE24 OL",
+                            "type": "ORG",
+                            "ner_confidence": 0.8532416820526123
+                        }
+                    ]
+                },
+                {
+                    "text": "Reference",
+                    "average_ocr_confidence": 0.9988296627998352,
+                    "named_entities": []
+                },
+                {
+                    "text": "UNITED KINGDOM",
+                    "average_ocr_confidence": 0.9980334639549255,
+                    "named_entities": [
+                        {
+                            "text": "UNITED KINGDOM",
+                            "type": "ORG",
+                            "ner_confidence": 0.961780846118927
+                        }
+                    ]
+                },
+                {
+                    "text": "United Kingdom",
+                    "average_ocr_confidence": 0.9980637729167938,
+                    "named_entities": [
+                        {
+                            "text": "United Kingdom",
+                            "type": "LOC",
+                            "ner_confidence": 0.9993745684623718
+                        }
+                    ]
+                },
+                {
+                    "text": "GUEST",
+                    "average_ocr_confidence": 0.5687239766120911,
+                    "named_entities": []
+                },
+                {
+                    "text": "VAT Number",
+                    "average_ocr_confidence": 0.9247251451015472,
+                    "named_entities": []
+                },
+                {
+                    "text": "225908010",
+                    "average_ocr_confidence": 0.9969243407249451,
+                    "named_entities": []
+                },
+                {
+                    "text": "ITEM DESCRIPTION",
+                    "average_ocr_confidence": 0.8587777316570282,
+                    "named_entities": [
+                        {
+                            "text": "ITEM DESCRIP",
+                            "type": "MISC",
+                            "ner_confidence": 0.9336606860160828
+                        },
+                        {
+                            "text": "##ON",
+                            "type": "MISC",
+                            "ner_confidence": 0.6816103458404541
+                        }
+                    ]
+                },
+                {
+                    "text": "QUANTITY",
+                    "average_ocr_confidence": 0.8389608263969421,
+                    "named_entities": [
+                        {
+                            "text": "QUANTI",
+                            "type": "ORG",
+                            "ner_confidence": 0.5323145985603333
+                        },
+                        {
+                            "text": "##TY",
+                            "type": "MISC",
+                            "ner_confidence": 0.422724187374115
+                        }
+                    ]
+                },
+                {
+                    "text": "UNIT PRICE",
+                    "average_ocr_confidence": 0.9293791651725769,
+                    "named_entities": [
+                        {
+                            "text": "UNIT",
+                            "type": "ORG",
+                            "ner_confidence": 0.9945380687713623
+                        }
+                    ]
+                },
+                {
+                    "text": "VAT",
+                    "average_ocr_confidence": 0.9861874580383301,
+                    "named_entities": []
+                },
+                {
+                    "text": "AMOUNT GBP",
+                    "average_ocr_confidence": 0.9351498484611511,
+                    "named_entities": []
+                },
+                {
+                    "text": "COMMISSION FROMI BOOKING #53073",
+                    "average_ocr_confidence": 0.9463220238685608,
+                    "named_entities": []
+                },
+                {
+                    "text": "1.00",
+                    "average_ocr_confidence": 0.9993552565574646,
+                    "named_entities": []
+                },
+                {
+                    "text": "£2.50",
+                    "average_ocr_confidence": 0.9983718991279602,
+                    "named_entities": []
+                },
+                {
+                    "text": "20%",
+                    "average_ocr_confidence": 0.9893982410430908,
+                    "named_entities": []
+                },
+                {
+                    "text": "£2.50",
+                    "average_ocr_confidence": 0.9987965822219849,
+                    "named_entities": []
+                },
+                {
+                    "text": "(TOTAL FEE £30.00)",
+                    "average_ocr_confidence": 0.9800681273142496,
+                    "named_entities": []
+                },
+                {
+                    "text": "Subtotal",
+                    "average_ocr_confidence": 0.9989618062973022,
+                    "named_entities": []
+                },
+                {
+                    "text": "£2.50",
+                    "average_ocr_confidence": 0.9778763651847839,
+                    "named_entities": []
+                },
+                {
+                    "text": "TOTAL VAT 20%",
+                    "average_ocr_confidence": 0.9750117460886637,
+                    "named_entities": []
+                },
+                {
+                    "text": "£0.50",
+                    "average_ocr_confidence": 0.9938982725143433,
+                    "named_entities": []
+                },
+                {
+                    "text": "TOTAL GBP",
+                    "average_ocr_confidence": 0.9419794380664825,
+                    "named_entities": []
+                },
+                {
+                    "text": "£3.00",
+                    "average_ocr_confidence": 0.9967367053031921,
+                    "named_entities": []
+                },
+                {
+                    "text": "Paid: 26 May 2018",
+                    "average_ocr_confidence": 0.9908673763275146,
+                    "named_entities": []
+                },
+                {
+                    "text": "This receipt is for the deposit retained by TheatreDigsBooker for the booking listed above, and relates to cost of marketing",
+                    "average_ocr_confidence": 0.9663135349750519,
+                    "named_entities": [
+                        {
+                            "text": "TheatreDigsBooker",
+                            "type": "ORG",
+                            "ner_confidence": 0.9833685159683228
+                        }
+                    ]
+                },
+                {
+                    "text": "services provided.",
+                    "average_ocr_confidence": 0.7569407522678375,
+                    "named_entities": []
+                }
+            ]
+        }
+    ]
+}
