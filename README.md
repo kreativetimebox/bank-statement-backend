@@ -1,108 +1,31 @@
-# 🛠 Bank Statement Backend - Git Workflow Guide for Interns
+This document explains why the current Named Entity Recognition (NER)–assisted invoice extraction is failing on some files and returning null values, what we’ve verified, and the immediate remediations and next steps.
 
-Welcome! This document explains the Git workflow and rules for contributing to this repository. Please **read carefully** and follow each step while working on your assigned tasks.
+The pipeline sometimes returns nulls for vendor/buyer and header fields because the upstream OCR-to-text structuring is inconsistent across invoices, leaving the NER and regex stages with little or no usable context.
 
----
+Even when OCR returns text, generic NER is not layout-aware and can miss or mis-rank organization names on noisy/scanned receipts, leading to empty or incorrect parties.
 
-## Branch Structure
+As a result, key fields (vendor/buyer, invoice number/date, totals) can be null when anchors aren’t found and NER fails to supply reliable candidates.
 
-| Branch                        | Purpose                                              |
-|-------------------------------|------------------------------------------------------|
-| `main`                        | Production-ready code. **Protected.**                |
-| `feature/*`                   | feature-branch                                       |
+What’s failing
+Null/empty vendor and buyer names on receipts and mixed-layout invoices.
 
----
+Header fields remain null where labels differ (e.g., “Ref No.”, “Amount Payable”) or where the pipeline can’t find text lines due to OCR structuring differences.
 
-## 🔐 Branch Protection Rules
+On some images, items/lines parse poorly; however, this README focuses on the NER-related party/header failures.
 
-- 🔒 `master`: **No direct pushes.** All updates via approved pull requests.
-- ✅ You can create and push `feature/*` branches freely under your respective team branches.
+What is working
+On clean, templated invoices with standard labels, regex recovers invoice_number/date/total.
 
----
-## Getting Started
+On clear layouts, NER contributes helpful ORG tags to pick the supplier, and anchors retrieve buyer.
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/kreativetimebox/bank-statement-categorization-model.git
-cd bank-statement-categorization-model
-```
+This images contains the ouput of this code using Doctr , ner , regex the most values we are getting in structured json format are null 
+(image.png)
+(image-1.png)
+(image-2.png)
+(image-3.png)
+(image-4.png)
 
-### 2. Create and switch to a new feature branch
-Always base your work on the latest `main` branch.
+This ner model can only give us small output which is also not correct around 30-40 percent time when used with regex 
+(image-5.png)
 
-```bash
-git checkout main
-git pull origin main
-
-# Create a feature branch:
-git checkout -b feature/yourname-taskname
-```
-
----
-
-## Working on Your Task
-
-1. Make your code changes
-2. Add and commit with a clear message:
-
-```bash
-git add .
-git commit -m "Add: [Short Description of Your Feature]"
-```
-
-3. Push to your branch:
-
-```bash
-git push origin feature/yourname-taskname
-```
-
----
-
-## Create a Pull Request (PR)
-
-Go to the repository on GitHub and:
-
-- Click **“Compare & Pull Request”**
-- Base branch: `main`
-- Head branch: `feature/yourname-taskname`
-- Add a meaningful PR title and description
-- Click **“Create Pull Request”**
-
----
-
-## ✅ After Review
-
-- Your PR will be reviewed and merged into `main`
-
----
-
-## 🧪 Testing Setup (Do Not Skip)
-
-Before you submit your PR:
-
-- ✅ Pull the latest `main` changes:  
-  ```bash
-  git pull origin main --rebase
-  ```
-- ✅ Test your code locally
-- ✅ Ensure your changes do not break existing features
-
----
-
-## ❌ Don’t Do
-
-- 🚫 Do **not** push to `main`
-- 🚫 Do **not** work on `main` directly
-- 🚫 Do **not** merge your own PRs unless told
-
----
-
-## 👥 Need Help?
-
-Contact your project lead if:
-- You can't push your branch
-- You’re unsure about the workflow
-- You need feedback on your PR
-
-Happy coding!
-
+I am adding both the files one with regex(ner_invoice1.py) and one without regex(ner_invoice.py)
