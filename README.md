@@ -27,7 +27,7 @@ This images contains the ouput of this code using Doctr , ner , regex the most v
 
 
 
-This ner model can only give us small output which is also not correct around 30-40 percent time when used with regex 
+This ner model can only give us small output which is also not correct around 30-40 percent time when used without regex 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c35ab500-1475-4f3e-9bcc-5b17c4ecd306" />
 
 
