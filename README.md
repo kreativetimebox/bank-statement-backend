@@ -19,13 +19,17 @@ On clean, templated invoices with standard labels, regex recovers invoice_number
 On clear layouts, NER contributes helpful ORG tags to pick the supplier, and anchors retrieve buyer.
 
 This images contains the ouput of this code using Doctr , ner , regex the most values we are getting in structured json format are null 
-(image.png)
-(image-1.png)
-(image-2.png)
-(image-3.png)
-(image-4.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2936fe2d-9b95-4691-9d60-ec2bf6b1e789" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/05833eb4-62af-4a7d-8640-7aaceec72863" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e8816481-3c26-4861-afb4-fa6bb5b39ead" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9c728ceb-5699-43bc-b07a-9ec6c5b2a5f2" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b97ec8d0-80f7-42a5-bc2b-6c42a322f9d9" />
+
+
 
 This ner model can only give us small output which is also not correct around 30-40 percent time when used with regex 
-(image-5.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c35ab500-1475-4f3e-9bcc-5b17c4ecd306" />
+
+
 
 I am adding both the files one with regex(ner_invoice1.py) and one without regex(ner_invoice.py)
