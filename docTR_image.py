@@ -10,8 +10,8 @@ from doctr.models import ocr_predictor
 from doctr.io import DocumentFile
 
 # Configuration
-INPUT_FOLDER = "scaned_output_image"
-OUTPUT_FOLDER = "scan_output"
+INPUT_FOLDER = "receipts_images"
+OUTPUT_FOLDER = "annotate_receipt_output"
 JSON_OUTPUT_PATH = os.path.join(OUTPUT_FOLDER, "annotations.json")
 WEB_SERVER_BASE_URL = "http://localhost:8000/"
 PORT = 8000
