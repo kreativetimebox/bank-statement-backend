@@ -26,202 +26,179 @@ class Entity:
 class ReceiptParser:
     def __init__(self):
         self.patterns = {
-            'vendor': [
-                r'^([A-Z][A-Za-z0-9&\s.,-]+(?:\s+[A-Z][A-Za-z0-9&\s.,-]+)*)\s*$',
-                r'^[A-Z0-9\s&.,-]+(?:\s+[A-Z0-9\s&.,-]+)*$',
+            'store': [
+                (r'^([A-Z][A-Za-z0-9\s&.-]+?)\s*(?:STORE|MARKET|SHOP|SUPERMARKET|TESCO|SAINSBURY|ASDA|MORRISONS|WAITROSE|M&S|MARKS[\s&]*SPENCER)', 0.95),
+                (r'^([A-Z][A-Za-z0-9\s&.-]+?)(?:\s*\n\s*[A-Z0-9\s]+)?\s*\n\s*(?:\d+[\s\w,.-]+\n)?\s*[A-Z0-9\s-]+\s*\n\s*[A-Z0-9\s-]+\s*$', 0.90),
             ],
             'date': [
-                r'(\d{1,2}[/-]\d{1,2}[/-]\d{2,4})',
-                r'(\d{4}[-/]\d{1,2}[-/]\d{1,2})',
-            ],
-            'tax_code': [
-                r'VAT\s*[Nn]o[.:]?\s*([A-Z0-9]+)',
-                r'GST\s*[Nn]o[.:]?\s*([A-Z0-9]+)',
-                r'TAX\s*[Nn]o[.:]?\s*([A-Z0-9]+)',
-            ],
-            'total': [
-                r'(?:total|balance\s+to\s+pay|amount\s+due)[^\d]*([£$€]?\s*\d+[.,]\d{2})',
-                r'([£$€]?\s*\d+[.,]\d{2})\s*(?:total|balance|amount)',
-            ],
-            'tax_amount': [
-                r'(?:tax|vat|gst)[^\d]*([£$€]?\s*\d+[.,]\d{2})',
-                r'([£$€]?\s*\d+[.,]\d{2})\s*(?:tax|vat|gst)',
+                (r'(\d{1,2}[-/]\d{1,2}[-/]\d{2,4})', 0.95),
+                (r'(\d{1,2}\s+(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\s+\d{2,4})', 0.90),
             ],
             'item': [
-                # Format: ITEM PRICE
-                r'^\s*([A-Z][A-Za-z0-9\s&.-]+?)\s+([£$€]?\s*\d+[.,]\d{2})\s*$',
-                # Format: QTY ITEM PRICE
-                r'^\s*(\d+)\s+([A-Za-z0-9\s&.-]+?)\s+([£$€]?\s*\d+[.,]\d{2})\s*$',
+                (r'^\s*([A-Z][A-Za-z0-9\s&.-]+?)\s+([£$€]?\s*\d+[.,]\d{2})\s*$', 0.90),  # Item with price
+                (r'^\s*([A-Z][A-Za-z0-9\s&.-]+?)\s*[xX]?\s*(\d+)\s*[xX]?\s*([£$€]?\s*\d+[.,]\d{2})\s*$', 0.90),  # Item with quantity and price
+            ],
+            'total': [
+                (r'(?:TOTAL|AMOUNT DUE|BALANCE|GRAND TOTAL)[^\d£$€]*(?:[£$€]?\s*\d+[.,]\d{2})', 0.95),
+                (r'(?:[£$€]?\s*\d+[.,]\d{2})\s*$', 0.90),  # Last number in receipt
+            ],
+            'vat': [
+                (r'VAT\s*(?:NO\.?|NUMBER|#)?\s*[:]?\s*([A-Z0-9\s-]+)', 0.95),
+                (r'(GB\d{9})|(\d{11})', 0.90),  # UK VAT number format
+            ],
+            'tax_amount': [
+                (r'VAT\s*(?:AMOUNT)?[^\d£$€]*([£$€]?\s*\d+[.,]\d{2})', 0.90),
+                (r'TAX\s*(?:AMOUNT)?[^\d£$€]*([£$€]?\s*\d+[.,]\d{2})', 0.90),
             ]
         }
         self.currency_symbols = ['£', '$', '€']
-        self.seen_values = set()
 
-    def clean_amount(self, amount: str) -> str:
-        """Clean and format currency amount."""
-        if not amount:
-            return ""
-        # Remove any non-digit except decimal point/comma
-        cleaned = re.sub(r'[^\d,.]', '', amount)
-        # Replace comma with dot if it's used as decimal separator
-        if ',' in cleaned and '.' in cleaned:
-            if cleaned.find(',') < cleaned.find('.'):
-                cleaned = cleaned.replace(',', '')
-            else:
-                cleaned = cleaned.replace('.', '').replace(',', '.')
-        elif ',' in cleaned:
-            cleaned = cleaned.replace(',', '.')
-        return cleaned
-
-    def extract_entity(self, field: str, text: str, confidence: float = 0.95) -> List[Entity]:
+    def extract_entity(self, entity_type: str, text: str, min_confidence: float = 0.8) -> List[Entity]:
         """Extract entities using predefined patterns."""
         entities = []
-        for pattern in self.patterns.get(field, []):
-            matches = re.finditer(pattern, text, re.IGNORECASE | re.MULTILINE)
-            for match in matches:
-                groups = match.groups()
-                if not groups:
-                    continue
-                    
-                value = groups[-1]  # Last group is typically the value we want
-                if not value:
-                    continue
-
-                # Clean up the value
-                if field in ['total', 'tax_amount', 'item']:
-                    value = self.clean_amount(value)
-                
-                # Skip duplicates
-                if value in self.seen_values:
-                    continue
-                    
-                self.seen_values.add(value)
-                
-                entities.append(Entity(
-                    type=field.upper(),
-                    text=match.group(0).strip(),
-                    value=value,
-                    confidence=confidence,
-                    metadata={'pattern': pattern}
-                ))
-                
-        return entities
-
-    def extract_items(self, text: str) -> List[Entity]:
-        """Extract line items from receipt."""
-        items = []
-        lines = [line.strip() for line in text.split('\n') if line.strip()]
+        patterns = self.patterns.get(entity_type, [])
         
-        # First try to find items with prices
-        for i in range(len(lines)):
-            line = lines[i]
-            
-            # Skip lines that are too short or look like headers/totals
-            if len(line) < 3 or any(term in line.lower() for term in ['total', 'subtotal', 'tax', 'balance', 'amount']):
+        for pattern, confidence in patterns:
+            if confidence < min_confidence:
                 continue
                 
-            # Try to match item patterns
-            for pattern in self.patterns['item']:
-                match = re.match(pattern, line, re.IGNORECASE)
-                if match:
-                    groups = match.groups()
-                    if len(groups) == 2:  # ITEM PRICE
-                        item_name, price = groups
-                        quantity = '1'
-                    else:  # QTY ITEM PRICE
-                        quantity, item_name, price = groups
+            matches = re.finditer(pattern, text, re.MULTILINE | re.IGNORECASE)
+            
+            for match in matches:
+                if not match:
+                    continue
                     
-                    # Clean up values
-                    item_name = item_name.strip()
-                    quantity = quantity.strip()
-                    price = self.clean_amount(price)
+                try:
+                    # Handle both group(1) and group(0) cases safely
+                    if match.groups():
+                        value = match.group(1) if match.group(1) is not None else match.group(0)
+                    else:
+                        value = match.group(0)
+                        
+                    if value is None:
+                        continue
+                        
+                    value = str(value).strip()
+                    if not value or len(value) < 2:  # Filter out very short matches
+                        continue
+                        
+                    entities.append(Entity(
+                        type=entity_type.upper(),
+                        text=match.group(0).strip(),
+                        value=value,
+                        confidence=confidence
+                    ))
                     
-                    # Calculate total if not provided
-                    try:
-                        total = str(float(price) * int(quantity))
-                    except:
-                        total = price
+                except (AttributeError, IndexError) as e:
+                    # Skip any problematic matches
+                    continue
                     
-                    # Add item and its components
-                    items.extend([
-                        Entity('ITEM', item_name, item_name, 0.90),
-                        Entity('QUANTITY', quantity, quantity, 0.95),
-                        Entity('PRICE', price, price, 0.95),
-                        Entity('ITEM_TOTAL', total, total, 0.95)
-                    ])
-                    break
+        return entities
+
+    def extract_items(self, lines: List[str]) -> List[Dict[str, Any]]:
+        """Extract items with quantity and price from receipt lines."""
+        items = []
+        current_item = None
         
+        for line in lines:
+            line = line.strip()
+            if not line or len(line) < 3:
+                continue
+                
+            # Check for price patterns
+            price_match = re.search(r'([£$€]?\s*\d+[.,]\d{2})\s*$', line)
+            
+            if price_match and current_item:
+                # If we have a current item and found a price, add it
+                current_item['price'] = price_match.group(1).replace(' ', '').replace(',', '.')
+                current_item['total'] = current_item['price']  # Default total to price if no quantity
+                items.append(current_item)
+                current_item = None
+                continue
+                
+            # Check for item patterns
+            item_match = re.match(r'^\s*([A-Z][A-Za-z0-9\s&.-]+?)\s+([£$€]?\s*\d+[.,]\d{2})\s*$', line, re.IGNORECASE)
+            if item_match:
+                current_item = {
+                    'name': item_match.group(1).strip(),
+                    'quantity': '1',
+                    'price': item_match.group(2).replace(' ', '').replace(',', '.'),
+                    'total': item_match.group(2).replace(' ', '').replace(',', '.'),
+                    'confidence': 0.90
+                }
+                items.append(current_item)
+                current_item = None
+                continue
+                
+            # If no price pattern but looks like an item, start a new item
+            if re.match(r'^[A-Z][A-Za-z0-9\s&.-]+$', line) and not any(term in line.lower() for term in ['total', 'subtotal', 'tax', 'vat', 'change', 'card', 'cash', 'balance']):
+                current_item = {
+                    'name': line.strip(),
+                    'quantity': '1',
+                    'price': None,
+                    'total': None,
+                    'confidence': 0.85
+                }
+                
         return items
 
     def parse(self, text: str) -> Dict[str, Any]:
-        """Parse text and extract all entities into a structured format."""
-        self.seen_values = set()  # Reset seen values for each parse
-        
-        # Initialize result structure
+        """Parse receipt text and extract structured data."""
         result = {
             'vendor': '',
             'date': '',
-            'tax_code': '',
             'items': [],
-            'subtotal': '',
-            'tax_amount': '',
             'total': '',
+            'tax_code': '',
+            'tax_amount': '',
             'currency': '£',  # Default to GBP
-            'raw_text': text
+            'vendor_confidence': 0,
+            'date_confidence': 0,
+            'total_confidence': 0,
+            'tax_code_confidence': 0,
+            'tax_amount_confidence': 0
         }
         
-        # Extract basic entities
-        vendor_matches = self.extract_entity('vendor', text, 0.90)
-        if vendor_matches:
-            # Prefer longer vendor names (more likely to be correct)
-            result['vendor'] = max(vendor_matches, key=lambda x: len(x.text)).text
-            result['vendor_confidence'] = max(vendor_matches, key=lambda x: len(x.text)).confidence
+        # Split text into lines for line-by-line processing
+        lines = [line.strip() for line in text.split('\n') if line.strip()]
         
-        date_matches = self.extract_entity('date', text, 0.95)
+        # Extract vendor (store name) - usually at the top of the receipt
+        for i, line in enumerate(lines[:5]):  # Check first 5 lines for store name
+            if len(line) > 5 and line.isupper() and not any(c.isdigit() for c in line):
+                result['vendor'] = line
+                result['vendor_confidence'] = 0.95
+                break
+        
+        # Extract date
+        date_matches = self.extract_entity('date', text)
         if date_matches:
             result['date'] = date_matches[0].value
             result['date_confidence'] = date_matches[0].confidence
         
-        tax_code_matches = self.extract_entity('tax_code', text, 0.90)
-        if tax_code_matches:
-            result['tax_code'] = tax_code_matches[0].value
-            result['tax_code_confidence'] = tax_code_matches[0].confidence
-        
         # Extract items
-        items = self.extract_items(text)
-        item_entities = {}
+        result['items'] = self.extract_items(lines)
         
-        # Group items by their position
-        for item in items:
-            if item.type not in item_entities:
-                item_entities[item.type] = []
-            item_entities[item.type].append(item)
-        
-        # Pair up items with their quantities and prices
-        item_count = len(item_entities.get('ITEM', []))
-        for i in range(item_count):
-            item = {
-                'name': item_entities.get('ITEM', [{}] * (i+1))[i].value,
-                'quantity': item_entities.get('QUANTITY', [{}] * (i+1))[i].value if 'QUANTITY' in item_entities else '1',
-                'price': item_entities.get('PRICE', [{}] * (i+1))[i].value,
-                'total': item_entities.get('ITEM_TOTAL', [{}] * (i+1))[i].value,
-                'confidence': item_entities.get('ITEM', [{}] * (i+1))[i].confidence
-            }
-            result['items'].append(item)
-        
-        # Extract totals
-        total_matches = self.extract_entity('total', text, 0.95)
+        # Extract total amount
+        total_matches = self.extract_entity('total', text)
         if total_matches:
-            result['total'] = total_matches[0].value
-            result['total_confidence'] = total_matches[0].confidence
+            # Get the highest confidence total match
+            best_total = max(total_matches, key=lambda x: x.confidence)
+            result['total'] = best_total.value
+            result['total_confidence'] = best_total.confidence
+            
             # Try to determine currency from total
             for symbol in self.currency_symbols:
-                if symbol in total_matches[0].text:
+                if symbol in best_total.text:
                     result['currency'] = symbol
                     break
         
-        # Extract tax amount
-        tax_matches = self.extract_entity('tax_amount', text, 0.90)
+        # Extract tax information
+        vat_matches = self.extract_entity('vat', text)
+        if vat_matches:
+            result['tax_code'] = vat_matches[0].value
+            result['tax_code_confidence'] = vat_matches[0].confidence
+        
+        tax_matches = self.extract_entity('tax_amount', text)
         if tax_matches:
             result['tax_amount'] = tax_matches[0].value
             result['tax_amount_confidence'] = tax_matches[0].confidence
