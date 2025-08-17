@@ -104,7 +104,8 @@ def main():
                        help='Recognition architecture (default: crnn_vgg16_bn)')
     
     args = parser.parse_args()
-    
+    # current_directory = os.getcwd()
+    # print("Current Working Directory:", current_directory)
     try:
         # Initialize OCR
         ocr = DocTR_OCR(det_arch=args.det, reco_arch=args.reco)
