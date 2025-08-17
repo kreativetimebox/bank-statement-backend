@@ -1,0 +1,69 @@
+Analysis Type,File Name,Label,Value,Is VAT/Tax Related
+All Labels,ABC 2.png,Currency,N/A,No
+All Labels,ABC 2.png,Invoice Date,N/A,No
+All Labels,ABC 2.png,Invoice ID,N/A,No
+All Labels,ABC 2.png,Item,N/A,No
+All Labels,ABC 2.png,Item Amount,N/A,No
+All Labels,ABC 2.png,Item Quantity,N/A,No
+All Labels,ABC 2.png,Supplier Name,N/A,No
+All Labels,ABC 2.png,Tax Amount,N/A,Yes
+All Labels,ABC 2.png,Total Amount,N/A,No
+All Labels,ABC 2.png,VAT/Tax Code,N/A,Yes
+All Labels,ABC 2.png,unit price,N/A,No
+All Labels,IMG0264_638882805886603164.jpg,Invoice Date,N/A,No
+All Labels,IMG0264_638882805886603164.jpg,Invoice ID,N/A,No
+All Labels,IMG0264_638882805886603164.jpg,Item,N/A,No
+All Labels,IMG0264_638882805886603164.jpg,Item Amount,N/A,No
+All Labels,IMG0264_638882805886603164.jpg,Item Quantity,N/A,No
+All Labels,IMG0264_638882805886603164.jpg,Supplier Name,N/A,No
+All Labels,IMG0264_638882805886603164.jpg,Tax Amount,N/A,Yes
+All Labels,IMG0264_638882805886603164.jpg,Total Amount,N/A,No
+All Labels,IMG0264_638882805886603164.jpg,VAT/Tax Code,N/A,Yes
+All Labels,IMG0264_638882805886603164.jpg,unit price,N/A,No
+All Labels,IMG0265_638882805887603264.jpg,Currency,N/A,No
+All Labels,IMG0265_638882805887603264.jpg,Invoice Date,N/A,No
+All Labels,IMG0265_638882805887603264.jpg,Invoice ID,N/A,No
+All Labels,IMG0265_638882805887603264.jpg,Item,N/A,No
+All Labels,IMG0265_638882805887603264.jpg,Item Amount,N/A,No
+All Labels,IMG0265_638882805887603264.jpg,Item Quantity,N/A,No
+All Labels,IMG0265_638882805887603264.jpg,Supplier Name,N/A,No
+All Labels,IMG0265_638882805887603264.jpg,Tax Amount,N/A,Yes
+All Labels,IMG0265_638882805887603264.jpg,Total Amount,N/A,No
+All Labels,IMG0265_638882805887603264.jpg,VAT/Tax Code,N/A,Yes
+All Labels,IMG0265_638882805887603264.jpg,unit price,N/A,No
+All Labels,download 1.png,Currency,N/A,No
+All Labels,download 1.png,Due Date,N/A,No
+All Labels,download 1.png,Invoice Date,N/A,No
+All Labels,download 1.png,Invoice ID,N/A,No
+All Labels,download 1.png,Item,N/A,No
+All Labels,download 1.png,Item Amount,N/A,No
+All Labels,download 1.png,Item Quantity,N/A,No
+All Labels,download 1.png,Supplier Name,N/A,No
+All Labels,download 1.png,Tax Amount,N/A,Yes
+All Labels,download 1.png,Total Amount,N/A,No
+All Labels,download 1.png,unit price,N/A,No
+All Labels,efe09c10-bf30-4af9-9de9-bb1003d8d941.png,Currency,N/A,No
+All Labels,efe09c10-bf30-4af9-9de9-bb1003d8d941.png,Due Date,N/A,No
+All Labels,efe09c10-bf30-4af9-9de9-bb1003d8d941.png,Invoice Date,N/A,No
+All Labels,efe09c10-bf30-4af9-9de9-bb1003d8d941.png,Invoice ID,N/A,No
+All Labels,efe09c10-bf30-4af9-9de9-bb1003d8d941.png,Item,N/A,No
+All Labels,efe09c10-bf30-4af9-9de9-bb1003d8d941.png,Item Amount,N/A,No
+All Labels,efe09c10-bf30-4af9-9de9-bb1003d8d941.png,Item Quantity,N/A,No
+All Labels,efe09c10-bf30-4af9-9de9-bb1003d8d941.png,Supplier Name,N/A,No
+All Labels,efe09c10-bf30-4af9-9de9-bb1003d8d941.png,Tax Amount,N/A,Yes
+All Labels,efe09c10-bf30-4af9-9de9-bb1003d8d941.png,Total Amount,N/A,No
+All Labels,efe09c10-bf30-4af9-9de9-bb1003d8d941.png,unit price,N/A,No
+VAT/Tax Only,ABC 2.png,Tax Amount,N/A,Yes
+VAT/Tax Only,ABC 2.png,VAT/Tax Code,N/A,Yes
+VAT/Tax Only,IMG0264_638882805886603164.jpg,Tax Amount,N/A,Yes
+VAT/Tax Only,IMG0264_638882805886603164.jpg,VAT/Tax Code,N/A,Yes
+VAT/Tax Only,IMG0265_638882805887603264.jpg,Tax Amount,N/A,Yes
+VAT/Tax Only,IMG0265_638882805887603264.jpg,VAT/Tax Code,N/A,Yes
+VAT/Tax Only,download 1.png,Tax Amount,N/A,Yes
+VAT/Tax Only,efe09c10-bf30-4af9-9de9-bb1003d8d941.png,Tax Amount,N/A,Yes
+
+SUMMARY STATISTICS
+Total Image Files,48,,,
+Total Labels,12,,,
+Common Labels,9,,,
+VAT/Tax Labels,2,,,

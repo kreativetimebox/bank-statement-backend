@@ -195,7 +195,7 @@ class LabelStudioAnalyzer:
             for label, value in sorted(labels.items()):
                 print(f"     {label}: {value}")
     
-    def export_to_csv(self, output_file: str = "annotation_analysis.csv"):
+    def export_to_csv(self, output_file: str = "yogesh_annotation_analysis.csv"):
         """Export analysis results to CSV file"""
         try:
             with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
@@ -240,7 +240,7 @@ class LabelStudioAnalyzer:
 def main():
     """Main function"""
     # Initialize analyzer with your JSON file
-    analyzer = LabelStudioAnalyzer("exported_json_58_img.json")
+    analyzer = LabelStudioAnalyzer("yogesh/61Receipt json.json")
     
     # Run the complete analysis
     analyzer.run_analysis()

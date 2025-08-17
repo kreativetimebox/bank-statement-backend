@@ -9,12 +9,30 @@ of all extracted VAT percentages and their distribution.
 import json
 from collections import Counter, defaultdict
 
+def has_valid_bounding_box(item):
+    """Check if item has valid bounding box coordinates"""
+    if 'value' not in item:
+        return False
+    
+    value = item['value']
+    required_coords = ['x', 'y', 'width', 'height']
+    
+    return all(coord in value and isinstance(value[coord], (int, float)) for coord in required_coords)
+
 def analyze_vat_percentages(json_file_path: str):
     """Analyze VAT percentages in the updated JSON file"""
     
-    # Load the updated JSON data
-    with open(json_file_path, 'r', encoding='utf-8') as f:
-        data = json.load(f)
+    try:
+        # Load the updated JSON data
+        with open(json_file_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+    except FileNotFoundError:
+        print(f"Error: File '{json_file_path}' not found.")
+        print("Please check the file path and try again.")
+        return
+    except Exception as e:
+        print(f"Error loading JSON file: {e}")
+        return
     
     print("VAT PERCENTAGE EXTRACTION SUMMARY REPORT")
     print("=" * 60)
@@ -60,15 +78,33 @@ def analyze_vat_percentages(json_file_path: str):
     print(f"\nTotal VAT Percentage Fields Found: {len(vat_percentages)}")
     print(f"Files with VAT Percentages: {len([f for f, p in file_vat_data.items() if p])}")
     
+    if not vat_percentages:
+        print("\nNo VAT percentage fields found in the file.")
+        print("This could mean:")
+        print("1. The file hasn't been processed by the VAT percentage extractor yet")
+        print("2. The file doesn't contain VAT percentage values")
+        print("3. The file structure is different from expected")
+        return
+    
     # Count unique percentage values
     percentage_counts = Counter(vat_percentages)
     print(f"\nUnique VAT Percentage Values: {len(percentage_counts)}")
     
     print("\nVAT Percentage Distribution:")
     print("-" * 40)
-    for percentage, count in sorted(percentage_counts.items(), 
-                                  key=lambda x: (x[0] == 'N/A', 
-                                               float(x[0].replace('%', '')) if x[0] != 'N/A' and x[0].replace('%', '').replace('.', '').isdigit() else 0)):
+    
+    # Sort percentages, handling non-numeric values gracefully
+    def sort_key(x):
+        if x[0] == 'N/A':
+            return (True, 0)  # N/A comes first
+        try:
+            # Try to extract numeric value for sorting
+            numeric_val = float(x[0].replace('%', '').replace('(', '').replace(')', ''))
+            return (False, numeric_val)
+        except (ValueError, AttributeError):
+            return (False, 0)  # Non-numeric values come after N/A
+    
+    for percentage, count in sorted(percentage_counts.items(), key=sort_key):
         print(f"  {percentage}: {count} occurrences")
     
     # Show files with their VAT percentages
@@ -83,7 +119,9 @@ def analyze_vat_percentages(json_file_path: str):
     for p in vat_percentages:
         if p != 'N/A':
             try:
-                numeric_percentages.append(float(p.replace('%', '')))
+                # Clean the percentage string and convert to float
+                clean_p = p.replace('%', '').replace('(', '').replace(')', '')
+                numeric_percentages.append(float(clean_p))
             except ValueError:
                 continue
     
@@ -122,6 +160,10 @@ def bounding_boxes_match(item1, item2):
     if 'value' not in item1 or 'value' not in item2:
         return False
     
+    # Check if both items have valid bounding box coordinates
+    if not has_valid_bounding_box(item1) or not has_valid_bounding_box(item2):
+        return False
+    
     val1 = item1['value']
     val2 = item2['value']
     
@@ -137,5 +179,5 @@ def bounding_boxes_match(item1, item2):
     return True
 
 if __name__ == "__main__":
-    # Analyze the updated JSON file
-    analyze_vat_percentages("exported_json_58_img_updated.json")
+    # Analyze the updated JSON file from the manish directory
+    analyze_vat_percentages("yogesh/61Receipt json_updated.json")

@@ -67,6 +67,16 @@ class VATPercentageExtractor:
         
         return ""
     
+    def has_valid_bounding_box(self, item: Dict[str, Any]) -> bool:
+        """Check if item has valid bounding box coordinates"""
+        if 'value' not in item:
+            return False
+        
+        value = item['value']
+        required_coords = ['x', 'y', 'width', 'height']
+        
+        return all(coord in value and isinstance(value[coord], (int, float)) for coord in required_coords)
+    
     def create_vat_percent_annotation(self, original_item: Dict[str, Any], percentage_value: str, 
                                     transcription_item: Dict[str, Any] = None) -> Dict[str, Any]:
         """Create a new vat_percent annotation based on the original item"""
@@ -184,36 +194,40 @@ class VATPercentageExtractor:
                         if text_values:
                             percentage_value = self.extract_percentage_value(text_values[0])
                             if percentage_value:
-                                # Create a new label item for this percentage
-                                new_label_item = {
-                                    "original_width": transcription_item.get('original_width', 1512),
-                                    "original_height": transcription_item.get('original_height', 2016),
-                                    "image_rotation": transcription_item.get('image_rotation', 0),
-                                    "value": {
-                                        "x": transcription_item['value']['x'],
-                                        "y": transcription_item['value']['y'],
-                                        "width": transcription_item['value']['width'],
-                                        "height": transcription_item['value']['height'],
-                                        "rotation": transcription_item['value'].get('rotation', 0),
-                                        "labels": ["vat_percent"]
-                                    },
-                                    "id": str(uuid.uuid4()),
-                                    "from_name": "label",
-                                    "to_name": "image",
-                                    "type": "labels",
-                                    "origin": "manual"
-                                }
-                                
-                                # Create a new transcription item for the percentage
-                                new_transcription_item = copy.deepcopy(transcription_item)
-                                new_transcription_item['id'] = str(uuid.uuid4())
-                                new_transcription_item['value']['text'] = [percentage_value]
-                                
-                                new_result_items.append(new_label_item)
-                                new_result_items.append(new_transcription_item)
-                                total_percentages_extracted += 1
-                                
-                                print(f"  Created new VAT percentage label: {percentage_value} from '{text_values[0]}'")
+                                # Only create new label if transcription has valid bounding box
+                                if self.has_valid_bounding_box(transcription_item):
+                                    # Create a new label item for this percentage
+                                    new_label_item = {
+                                        "original_width": transcription_item.get('original_width', 1512),
+                                        "original_height": transcription_item.get('original_height', 2016),
+                                        "image_rotation": transcription_item.get('image_rotation', 0),
+                                        "value": {
+                                            "x": transcription_item['value']['x'],
+                                            "y": transcription_item['value']['y'],
+                                            "width": transcription_item['value']['width'],
+                                            "height": transcription_item['value']['height'],
+                                            "rotation": transcription_item['value'].get('rotation', 0),
+                                            "labels": ["vat_percent"]
+                                        },
+                                        "id": str(uuid.uuid4()),
+                                        "from_name": "label",
+                                        "to_name": "image",
+                                        "type": "labels",
+                                        "origin": "manual"
+                                    }
+                                    
+                                    # Create a new transcription item for the percentage
+                                    new_transcription_item = copy.deepcopy(transcription_item)
+                                    new_transcription_item['id'] = str(uuid.uuid4())
+                                    new_transcription_item['value']['text'] = [percentage_value]
+                                    
+                                    new_result_items.append(new_label_item)
+                                    new_result_items.append(new_transcription_item)
+                                    total_percentages_extracted += 1
+                                    
+                                    print(f"  Created new VAT percentage label: {percentage_value} from '{text_values[0]}'")
+                                else:
+                                    print(f"  Skipping VAT percentage '{percentage_value}' - no valid bounding box coordinates")
                 
                 # Update the annotation result
                 annotation['result'] = new_result_items
@@ -227,6 +241,10 @@ class VATPercentageExtractor:
         
         val1 = item1['value']
         val2 = item2['value']
+        
+        # Check if both items have valid bounding box coordinates
+        if not self.has_valid_bounding_box(item1) or not self.has_valid_bounding_box(item2):
+            return False
         
         # Check if coordinates are within a small tolerance
         tolerance = 2.0  # 2% tolerance for coordinate matching
@@ -270,8 +288,8 @@ class VATPercentageExtractor:
 
 def main():
     """Main function"""
-    input_file = "exported_json_58_img.json"
-    output_file = "exported_json_58_img_updated.json"
+    input_file = "yogesh/61Receipt json.json"
+    output_file = "yogesh/61Receipt json_updated.json"
     
     # Initialize extractor
     extractor = VATPercentageExtractor(input_file, output_file)
