@@ -1,0 +1,596 @@
+[
+  {
+    "page_number": 1,
+    "cells": [
+      {
+        "cell_index": 0,
+        "text": "Date 7 Jun",
+        "merged": true,
+        "components": [
+          0,
+          5
+        ],
+        "box": [
+          230,
+          1342,
+          327,
+          1461
+        ]
+      },
+      {
+        "cell_index": 1,
+        "text": "Description",
+        "merged": false,
+        "components": [
+          1
+        ],
+        "box": [
+          375,
+          1342,
+          546,
+          1379
+        ]
+      },
+      {
+        "cell_index": 2,
+        "text": "Money out £",
+        "merged": false,
+        "components": [
+          2
+        ],
+        "box": [
+          1067,
+          1342,
+          1259,
+          1380
+        ]
+      },
+      {
+        "cell_index": 3,
+        "text": "Money in £",
+        "merged": false,
+        "components": [
+          3
+        ],
+        "box": [
+          1343,
+          1342,
+          1513,
+          1380
+        ]
+      },
+      {
+        "cell_index": 4,
+        "text": "Balance £",
+        "merged": false,
+        "components": [
+          4
+        ],
+        "box": [
+          1619,
+          1343,
+          1764,
+          1375
+        ]
+      },
+      {
+        "cell_index": 5,
+        "text": "Start Balance",
+        "merged": false,
+        "components": [
+          6
+        ],
+        "box": [
+          368,
+          1414,
+          589,
+          1454
+        ]
+      },
+      {
+        "cell_index": 6,
+        "text": "23,207.69",
+        "merged": false,
+        "components": [
+          7
+        ],
+        "box": [
+          1600,
+          1413,
+          1771,
+          1454
+        ]
+      },
+      {
+        "cell_index": 7,
+        "text": "10 Jun",
+        "merged": false,
+        "components": [
+          8
+        ],
+        "box": [
+          234,
+          1490,
+          344,
+          1530
+        ]
+      },
+      {
+        "cell_index": 8,
+        "text": "On-Line Banking Bill Payment to Vinita Nagare Ref: Link Commu",
+        "merged": true,
+        "components": [
+          9,
+          12,
+          13
+        ],
+        "box": [
+          438,
+          1487,
+          966,
+          1610
+        ]
+      },
+      {
+        "cell_index": 9,
+        "text": "2,000.00",
+        "merged": false,
+        "components": [
+          10
+        ],
+        "box": [
+          1111,
+          1489,
+          1266,
+          1531
+        ]
+      },
+      {
+        "cell_index": 10,
+        "text": "21,207.69",
+        "merged": false,
+        "components": [
+          11
+        ],
+        "box": [
+          1602,
+          1491,
+          1774,
+          1529
+        ]
+      },
+      {
+        "cell_index": 11,
+        "text": "11 Jun",
+        "merged": false,
+        "components": [
+          14
+        ],
+        "box": [
+          232,
+          1642,
+          344,
+          1684
+        ]
+      },
+      {
+        "cell_index": 12,
+        "text": "Card Payment to Royal Mail Redirec On 10 Jun",
+        "merged": true,
+        "components": [
+          15,
+          18
+        ],
+        "box": [
+          440,
+          1644,
+          893,
+          1728
+        ]
+      },
+      {
+        "cell_index": 13,
+        "text": "506.00",
+        "merged": false,
+        "components": [
+          16
+        ],
+        "box": [
+          1141,
+          1644,
+          1264,
+          1684
+        ]
+      },
+      {
+        "cell_index": 14,
+        "text": "20,701.69",
+        "merged": false,
+        "components": [
+          17
+        ],
+        "box": [
+          1603,
+          1646,
+          1773,
+          1681
+        ]
+      },
+      {
+        "cell_index": 15,
+        "text": ") Card Payment to Tesco PFS 3988 On 10 Jun",
+        "merged": true,
+        "components": [
+          19,
+          20,
+          23
+        ],
+        "box": [
+          369,
+          1759,
+          986,
+          1848
+        ]
+      },
+      {
+        "cell_index": 16,
+        "text": "11.84",
+        "merged": false,
+        "components": [
+          21
+        ],
+        "box": [
+          1161,
+          1761,
+          1265,
+          1805
+        ]
+      },
+      {
+        "cell_index": 17,
+        "text": "20,689.85",
+        "merged": false,
+        "components": [
+          22
+        ],
+        "box": [
+          1603,
+          1765,
+          1772,
+          1800
+        ]
+      },
+      {
+        "cell_index": 18,
+        "text": "Giro Direct Credit From Tech Mahindra Ltd Ref: ADV-TM-007",
+        "merged": true,
+        "components": [
+          24,
+          25,
+          28,
+          29
+        ],
+        "box": [
+          369,
+          1886,
+          994,
+          2001
+        ]
+      },
+      {
+        "cell_index": 19,
+        "text": "19.81",
+        "merged": false,
+        "components": [
+          26
+        ],
+        "box": [
+          1418,
+          1885,
+          1515,
+          1921
+        ]
+      },
+      {
+        "cell_index": 20,
+        "text": "20,709.66",
+        "merged": false,
+        "components": [
+          27
+        ],
+        "box": [
+          1603,
+          1886,
+          1772,
+          1921
+        ]
+      },
+      {
+        "cell_index": 21,
+        "text": "Direct Credit From Tech Mahindra Giro Ltd Ref: ADV-TM-008",
+        "merged": true,
+        "components": [
+          30,
+          32,
+          34,
+          35
+        ],
+        "box": [
+          371,
+          2039,
+          994,
+          2154
+        ]
+      },
+      {
+        "cell_index": 22,
+        "text": "25.83",
+        "merged": false,
+        "components": [
+          31
+        ],
+        "box": [
+          1418,
+          2039,
+          1518,
+          2074
+        ]
+      },
+      {
+        "cell_index": 23,
+        "text": "20,735.49",
+        "merged": false,
+        "components": [
+          33
+        ],
+        "box": [
+          1603,
+          2040,
+          1772,
+          2074
+        ]
+      },
+      {
+        "cell_index": 24,
+        "text": "Giro Direct Credit From Tech Mahindra Ltd Ref: ADV-TM-003",
+        "merged": true,
+        "components": [
+          36,
+          37,
+          40,
+          41
+        ],
+        "box": [
+          367,
+          2192,
+          994,
+          2308
+        ]
+      },
+      {
+        "cell_index": 25,
+        "text": "Direct Credit From Tech Mahindra Giro Ltd Ref: ADV-TM-009",
+        "merged": true,
+        "components": [
+          42,
+          45,
+          46,
+          47
+        ],
+        "box": [
+          370,
+          2344,
+          995,
+          2460
+        ]
+      },
+      {
+        "cell_index": 26,
+        "text": "90.00",
+        "merged": false,
+        "components": [
+          38
+        ],
+        "box": [
+          1416,
+          2191,
+          1519,
+          2230
+        ]
+      },
+      {
+        "cell_index": 27,
+        "text": "20,915.49",
+        "merged": false,
+        "components": [
+          44
+        ],
+        "box": [
+          1601,
+          2345,
+          1773,
+          2383
+        ]
+      },
+      {
+        "cell_index": 28,
+        "text": "Giro Direct Credit From Tech Mahindra Ltd Ref: ADV-TM-005",
+        "merged": true,
+        "components": [
+          48,
+          49,
+          52,
+          53
+        ],
+        "box": [
+          370,
+          2499,
+          994,
+          2615
+        ]
+      },
+      {
+        "cell_index": 29,
+        "text": "95.00",
+        "merged": false,
+        "components": [
+          50
+        ],
+        "box": [
+          1417,
+          2499,
+          1517,
+          2535
+        ]
+      },
+      {
+        "cell_index": 30,
+        "text": "21,010.49",
+        "merged": false,
+        "components": [
+          51
+        ],
+        "box": [
+          1602,
+          2500,
+          1771,
+          2535
+        ]
+      },
+      {
+        "cell_index": 31,
+        "text": "Giro Direct Credit From Tech Mahindra Ltd Ref: ADV-TM-012",
+        "merged": true,
+        "components": [
+          54,
+          55,
+          58,
+          59
+        ],
+        "box": [
+          370,
+          2650,
+          995,
+          2767
+        ]
+      },
+      {
+        "cell_index": 32,
+        "text": "110.05",
+        "merged": false,
+        "components": [
+          56
+        ],
+        "box": [
+          1399,
+          2653,
+          1518,
+          2688
+        ]
+      },
+      {
+        "cell_index": 33,
+        "text": "21,120.54",
+        "merged": false,
+        "components": [
+          57
+        ],
+        "box": [
+          1602,
+          2654,
+          1772,
+          2688
+        ]
+      },
+      {
+        "cell_index": 34,
+        "text": "Giro Direct Credit From Tech Mahindra Ltd Ref: ADV-TM-004",
+        "merged": true,
+        "components": [
+          60,
+          61,
+          64,
+          65
+        ],
+        "box": [
+          369,
+          2807,
+          994,
+          2921
+        ]
+      },
+      {
+        "cell_index": 35,
+        "text": "214.72",
+        "merged": false,
+        "components": [
+          62
+        ],
+        "box": [
+          1398,
+          2805,
+          1518,
+          2841
+        ]
+      },
+      {
+        "cell_index": 36,
+        "text": "21,335.26",
+        "merged": false,
+        "components": [
+          63
+        ],
+        "box": [
+          1602,
+          2806,
+          1772,
+          2841
+        ]
+      },
+      {
+        "cell_index": 37,
+        "text": "Direct Credit From Tech Mahindra Giro Ltd",
+        "merged": true,
+        "components": [
+          66,
+          68,
+          70
+        ],
+        "box": [
+          370,
+          2958,
+          995,
+          3042
+        ]
+      },
+      {
+        "cell_index": 38,
+        "text": "362.69",
+        "merged": false,
+        "components": [
+          67
+        ],
+        "box": [
+          1397,
+          2958,
+          1519,
+          2997
+        ]
+      },
+      {
+        "cell_index": 39,
+        "text": "21,697.95",
+        "merged": false,
+        "components": [
+          69
+        ],
+        "box": [
+          1601,
+          2959,
+          1772,
+          2997
+        ]
+      }
+    ]
+  }
+]

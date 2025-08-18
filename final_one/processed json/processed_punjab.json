@@ -1,0 +1,10262 @@
+[
+  {
+    "page_number": 1,
+    "cells": [
+      {
+        "cell_index": 0,
+        "text": "Transaction Date",
+        "merged": true,
+        "components": [
+          0,
+          6
+        ],
+        "box": [
+          173,
+          1324,
+          433,
+          1426
+        ]
+      },
+      {
+        "cell_index": 1,
+        "text": "Value Date",
+        "merged": false,
+        "components": [
+          1
+        ],
+        "box": [
+          480,
+          1321,
+          733,
+          1369
+        ]
+      },
+      {
+        "cell_index": 2,
+        "text": "Narration",
+        "merged": false,
+        "components": [
+          2
+        ],
+        "box": [
+          1186,
+          1349,
+          1395,
+          1400
+        ]
+      },
+      {
+        "cell_index": 3,
+        "text": "Withdrawal",
+        "merged": false,
+        "components": [
+          3
+        ],
+        "box": [
+          1928,
+          1350,
+          2174,
+          1397
+        ]
+      },
+      {
+        "cell_index": 4,
+        "text": "Deposit",
+        "merged": false,
+        "components": [
+          4
+        ],
+        "box": [
+          2421,
+          1348,
+          2599,
+          1405
+        ]
+      },
+      {
+        "cell_index": 5,
+        "text": "Balance",
+        "merged": false,
+        "components": [
+          5
+        ],
+        "box": [
+          2872,
+          1350,
+          3056,
+          1399
+        ]
+      },
+      {
+        "cell_index": 6,
+        "text": "28/01/2019",
+        "merged": false,
+        "components": [
+          7
+        ],
+        "box": [
+          197,
+          1472,
+          413,
+          1510
+        ]
+      },
+      {
+        "cell_index": 7,
+        "text": "26/01/2019",
+        "merged": false,
+        "components": [
+          8
+        ],
+        "box": [
+          498,
+          1470,
+          718,
+          1511
+        ]
+      },
+      {
+        "cell_index": 8,
+        "text": "LONDON BOROUGH OF HARR HAR",
+        "merged": true,
+        "components": [
+          9,
+          10
+        ],
+        "box": [
+          907,
+          1469,
+          1680,
+          1513
+        ]
+      },
+      {
+        "cell_index": 9,
+        "text": "4.30",
+        "merged": false,
+        "components": [
+          11
+        ],
+        "box": [
+          2175,
+          1468,
+          2269,
+          1513
+        ]
+      },
+      {
+        "cell_index": 10,
+        "text": "82,788.28",
+        "merged": false,
+        "components": [
+          12
+        ],
+        "box": [
+          2984,
+          1470,
+          3180,
+          1512
+        ]
+      },
+      {
+        "cell_index": 11,
+        "text": "26/01/2019",
+        "merged": false,
+        "components": [
+          13
+        ],
+        "box": [
+          197,
+          1545,
+          412,
+          1583
+        ]
+      },
+      {
+        "cell_index": 12,
+        "text": "26/01/2019",
+        "merged": false,
+        "components": [
+          14
+        ],
+        "box": [
+          500,
+          1545,
+          716,
+          1583
+        ]
+      },
+      {
+        "cell_index": 13,
+        "text": "TRTR/000000405311/26-01-2019 06:31:09/BWY",
+        "merged": false,
+        "components": [
+          15
+        ],
+        "box": [
+          828,
+          1542,
+          1758,
+          1585
+        ]
+      },
+      {
+        "cell_index": 14,
+        "text": "1,350.00",
+        "merged": false,
+        "components": [
+          16
+        ],
+        "box": [
+          2099,
+          1543,
+          2267,
+          1585
+        ]
+      },
+      {
+        "cell_index": 15,
+        "text": "82,792.58",
+        "merged": false,
+        "components": [
+          17
+        ],
+        "box": [
+          2983,
+          1543,
+          3180,
+          1585
+        ]
+      },
+      {
+        "cell_index": 16,
+        "text": "21/01/2019",
+        "merged": false,
+        "components": [
+          18
+        ],
+        "box": [
+          195,
+          1616,
+          414,
+          1657
+        ]
+      },
+      {
+        "cell_index": 17,
+        "text": "20/01/2019",
+        "merged": false,
+        "components": [
+          19
+        ],
+        "box": [
+          499,
+          1616,
+          718,
+          1657
+        ]
+      },
+      {
+        "cell_index": 18,
+        "text": "GODADDY COM EUROPE 020",
+        "merged": true,
+        "components": [
+          20,
+          21
+        ],
+        "box": [
+          946,
+          1612,
+          1647,
+          1662
+        ]
+      },
+      {
+        "cell_index": 19,
+        "text": "7.19",
+        "merged": false,
+        "components": [
+          22
+        ],
+        "box": [
+          2176,
+          1614,
+          2270,
+          1659
+        ]
+      },
+      {
+        "cell_index": 20,
+        "text": "84,142.58",
+        "merged": false,
+        "components": [
+          23
+        ],
+        "box": [
+          2984,
+          1616,
+          3180,
+          1658
+        ]
+      },
+      {
+        "cell_index": 21,
+        "text": "21/01/2019",
+        "merged": false,
+        "components": [
+          24
+        ],
+        "box": [
+          196,
+          1691,
+          413,
+          1729
+        ]
+      },
+      {
+        "cell_index": 22,
+        "text": "15/01/2019",
+        "merged": false,
+        "components": [
+          25
+        ],
+        "box": [
+          503,
+          1691,
+          717,
+          1729
+        ]
+      },
+      {
+        "cell_index": 23,
+        "text": "WP-BGP TECHNO LTD LON",
+        "merged": true,
+        "components": [
+          26,
+          27
+        ],
+        "box": [
+          959,
+          1686,
+          1629,
+          1734
+        ]
+      },
+      {
+        "cell_index": 24,
+        "text": "13.43",
+        "merged": false,
+        "components": [
+          28
+        ],
+        "box": [
+          2157,
+          1689,
+          2268,
+          1729
+        ]
+      },
+      {
+        "cell_index": 25,
+        "text": "84,149.77",
+        "merged": false,
+        "components": [
+          29
+        ],
+        "box": [
+          2984,
+          1689,
+          3179,
+          1731
+        ]
+      },
+      {
+        "cell_index": 26,
+        "text": "21/01/2019",
+        "merged": false,
+        "components": [
+          30
+        ],
+        "box": [
+          197,
+          1764,
+          412,
+          1802
+        ]
+      },
+      {
+        "cell_index": 27,
+        "text": "21/01/2019",
+        "merged": false,
+        "components": [
+          31
+        ],
+        "box": [
+          500,
+          1764,
+          716,
+          1802
+        ]
+      },
+      {
+        "cell_index": 28,
+        "text": "DD/H3G",
+        "merged": false,
+        "components": [
+          32
+        ],
+        "box": [
+          1210,
+          1762,
+          1376,
+          1804
+        ]
+      },
+      {
+        "cell_index": 29,
+        "text": "36.28",
+        "merged": false,
+        "components": [
+          33
+        ],
+        "box": [
+          2154,
+          1760,
+          2269,
+          1803
+        ]
+      },
+      {
+        "cell_index": 30,
+        "text": "84,163.20",
+        "merged": false,
+        "components": [
+          34
+        ],
+        "box": [
+          2984,
+          1762,
+          3180,
+          1804
+        ]
+      },
+      {
+        "cell_index": 31,
+        "text": "21/01/2019",
+        "merged": false,
+        "components": [
+          35
+        ],
+        "box": [
+          195,
+          1835,
+          414,
+          1876
+        ]
+      },
+      {
+        "cell_index": 32,
+        "text": "21/01/2019",
+        "merged": false,
+        "components": [
+          36
+        ],
+        "box": [
+          499,
+          1837,
+          717,
+          1875
+        ]
+      },
+      {
+        "cell_index": 33,
+        "text": "DD/H3G",
+        "merged": false,
+        "components": [
+          37
+        ],
+        "box": [
+          1210,
+          1835,
+          1377,
+          1877
+        ]
+      },
+      {
+        "cell_index": 34,
+        "text": "49.92",
+        "merged": false,
+        "components": [
+          38
+        ],
+        "box": [
+          2153,
+          1833,
+          2269,
+          1876
+        ]
+      },
+      {
+        "cell_index": 35,
+        "text": "84,199.48",
+        "merged": false,
+        "components": [
+          39
+        ],
+        "box": [
+          2984,
+          1835,
+          3180,
+          1877
+        ]
+      },
+      {
+        "cell_index": 36,
+        "text": "21/01/2019",
+        "merged": false,
+        "components": [
+          40
+        ],
+        "box": [
+          195,
+          1908,
+          415,
+          1949
+        ]
+      },
+      {
+        "cell_index": 37,
+        "text": "21/01/2019",
+        "merged": false,
+        "components": [
+          41
+        ],
+        "box": [
+          498,
+          1908,
+          718,
+          1949
+        ]
+      },
+      {
+        "cell_index": 38,
+        "text": "DD/HISCOX DD",
+        "merged": false,
+        "components": [
+          42
+        ],
+        "box": [
+          1137,
+          1908,
+          1449,
+          1949
+        ]
+      },
+      {
+        "cell_index": 39,
+        "text": "65.42",
+        "merged": false,
+        "components": [
+          43
+        ],
+        "box": [
+          2153,
+          1907,
+          2269,
+          1950
+        ]
+      },
+      {
+        "cell_index": 40,
+        "text": "84,249.40",
+        "merged": false,
+        "components": [
+          44
+        ],
+        "box": [
+          2984,
+          1908,
+          3180,
+          1950
+        ]
+      },
+      {
+        "cell_index": 41,
+        "text": "18/01/2019",
+        "merged": false,
+        "components": [
+          45
+        ],
+        "box": [
+          198,
+          1981,
+          414,
+          2022
+        ]
+      },
+      {
+        "cell_index": 42,
+        "text": "18/01/2019",
+        "merged": false,
+        "components": [
+          46
+        ],
+        "box": [
+          502,
+          1983,
+          717,
+          2021
+        ]
+      },
+      {
+        "cell_index": 43,
+        "text": "ADVISE CONSULTANT LTD",
+        "merged": false,
+        "components": [
+          47
+        ],
+        "box": [
+          1017,
+          1981,
+          1569,
+          2022
+        ]
+      },
+      {
+        "cell_index": 44,
+        "text": "7,920.00",
+        "merged": false,
+        "components": [
+          48
+        ],
+        "box": [
+          2095,
+          1977,
+          2269,
+          2025
+        ]
+      },
+      {
+        "cell_index": 45,
+        "text": "84,314.82",
+        "merged": false,
+        "components": [
+          49
+        ],
+        "box": [
+          2984,
+          1981,
+          3180,
+          2023
+        ]
+      },
+      {
+        "cell_index": 46,
+        "text": "18/01/2019",
+        "merged": false,
+        "components": [
+          50
+        ],
+        "box": [
+          200,
+          2056,
+          413,
+          2094
+        ]
+      },
+      {
+        "cell_index": 47,
+        "text": "18/01/2019",
+        "merged": false,
+        "components": [
+          51
+        ],
+        "box": [
+          502,
+          2056,
+          717,
+          2094
+        ]
+      },
+      {
+        "cell_index": 48,
+        "text": "ADVISE CONSULTANT LTD",
+        "merged": false,
+        "components": [
+          52
+        ],
+        "box": [
+          1017,
+          2055,
+          1569,
+          2095
+        ]
+      },
+      {
+        "cell_index": 49,
+        "text": "8,335.80",
+        "merged": false,
+        "components": [
+          53
+        ],
+        "box": [
+          2093,
+          2051,
+          2269,
+          2098
+        ]
+      },
+      {
+        "cell_index": 50,
+        "text": "92,234.82",
+        "merged": false,
+        "components": [
+          54
+        ],
+        "box": [
+          2984,
+          2056,
+          3179,
+          2094
+        ]
+      },
+      {
+        "cell_index": 51,
+        "text": "18/01/2019",
+        "merged": false,
+        "components": [
+          56
+        ],
+        "box": [
+          201,
+          2153,
+          412,
+          2188
+        ]
+      },
+      {
+        "cell_index": 52,
+        "text": "18/01/2019",
+        "merged": false,
+        "components": [
+          57
+        ],
+        "box": [
+          504,
+          2154,
+          715,
+          2189
+        ]
+      },
+      {
+        "cell_index": 53,
+        "text": "CHARGES FOR IBS FP DT 16.01.19 REF IBSC 405048",
+        "merged": true,
+        "components": [
+          55,
+          60
+        ],
+        "box": [
+          835,
+          2125,
+          1752,
+          2218
+        ]
+      },
+      {
+        "cell_index": 54,
+        "text": "10.00",
+        "merged": false,
+        "components": [
+          58
+        ],
+        "box": [
+          2157,
+          2152,
+          2267,
+          2191
+        ]
+      },
+      {
+        "cell_index": 55,
+        "text": "1,00,570.62",
+        "merged": false,
+        "components": [
+          59
+        ],
+        "box": [
+          2954,
+          2153,
+          3178,
+          2191
+        ]
+      },
+      {
+        "cell_index": 56,
+        "text": "18/01/2019",
+        "merged": false,
+        "components": [
+          61
+        ],
+        "box": [
+          200,
+          2250,
+          414,
+          2288
+        ]
+      },
+      {
+        "cell_index": 57,
+        "text": "18/01/2019",
+        "merged": false,
+        "components": [
+          62
+        ],
+        "box": [
+          503,
+          2251,
+          716,
+          2286
+        ]
+      },
+      {
+        "cell_index": 58,
+        "text": "FP/SONOVATE LTD",
+        "merged": false,
+        "components": [
+          63
+        ],
+        "box": [
+          1094,
+          2248,
+          1492,
+          2288
+        ]
+      },
+      {
+        "cell_index": 59,
+        "text": "9,630.00",
+        "merged": false,
+        "components": [
+          64
+        ],
+        "box": [
+          2549,
+          2245,
+          2727,
+          2294
+        ]
+      },
+      {
+        "cell_index": 60,
+        "text": "1,00,580.62",
+        "merged": false,
+        "components": [
+          65
+        ],
+        "box": [
+          2955,
+          2250,
+          3179,
+          2288
+        ]
+      },
+      {
+        "cell_index": 61,
+        "text": "16/01/2019",
+        "merged": false,
+        "components": [
+          67
+        ],
+        "box": [
+          201,
+          2350,
+          412,
+          2384
+        ]
+      },
+      {
+        "cell_index": 62,
+        "text": "16/01/2019",
+        "merged": false,
+        "components": [
+          68
+        ],
+        "box": [
+          504,
+          2350,
+          715,
+          2384
+        ]
+      },
+      {
+        "cell_index": 63,
+        "text": "CHARGES FOR IBS FP DT 15.01.19 REF IBSC 405025",
+        "merged": true,
+        "components": [
+          66,
+          71
+        ],
+        "box": [
+          836,
+          2320,
+          1752,
+          2413
+        ]
+      },
+      {
+        "cell_index": 64,
+        "text": "10.00",
+        "merged": false,
+        "components": [
+          69
+        ],
+        "box": [
+          2157,
+          2347,
+          2267,
+          2386
+        ]
+      },
+      {
+        "cell_index": 65,
+        "text": "90,950.62",
+        "merged": false,
+        "components": [
+          70
+        ],
+        "box": [
+          2985,
+          2348,
+          3179,
+          2386
+        ]
+      },
+      {
+        "cell_index": 66,
+        "text": "16/01/2019",
+        "merged": false,
+        "components": [
+          72
+        ],
+        "box": [
+          201,
+          2446,
+          411,
+          2481
+        ]
+      },
+      {
+        "cell_index": 67,
+        "text": "16/01/2019",
+        "merged": false,
+        "components": [
+          73
+        ],
+        "box": [
+          503,
+          2445,
+          714,
+          2480
+        ]
+      },
+      {
+        "cell_index": 68,
+        "text": "FP/Slough High Street Adv/000000405048",
+        "merged": false,
+        "components": [
+          74
+        ],
+        "box": [
+          889,
+          2442,
+          1698,
+          2486
+        ]
+      },
+      {
+        "cell_index": 69,
+        "text": "1,470.00",
+        "merged": false,
+        "components": [
+          75
+        ],
+        "box": [
+          2098,
+          2442,
+          2268,
+          2484
+        ]
+      },
+      {
+        "cell_index": 70,
+        "text": "90,960.62",
+        "merged": false,
+        "components": [
+          76
+        ],
+        "box": [
+          2983,
+          2441,
+          3180,
+          2485
+        ]
+      },
+      {
+        "cell_index": 71,
+        "text": "16/01/2019",
+        "merged": false,
+        "components": [
+          77
+        ],
+        "box": [
+          200,
+          2517,
+          412,
+          2555
+        ]
+      },
+      {
+        "cell_index": 72,
+        "text": "16/01/2019",
+        "merged": false,
+        "components": [
+          78
+        ],
+        "box": [
+          502,
+          2516,
+          716,
+          2556
+        ]
+      },
+      {
+        "cell_index": 73,
+        "text": "TRTR/000000405038/16-01-2019 08:22:39/BWY",
+        "merged": false,
+        "components": [
+          79
+        ],
+        "box": [
+          828,
+          2514,
+          1757,
+          2559
+        ]
+      },
+      {
+        "cell_index": 74,
+        "text": "9,828.00",
+        "merged": false,
+        "components": [
+          80
+        ],
+        "box": [
+          2096,
+          2515,
+          2267,
+          2557
+        ]
+      },
+      {
+        "cell_index": 75,
+        "text": "92,430.62",
+        "merged": false,
+        "components": [
+          81
+        ],
+        "box": [
+          2984,
+          2516,
+          3180,
+          2557
+        ]
+      },
+      {
+        "cell_index": 76,
+        "text": "16/01/2019",
+        "merged": false,
+        "components": [
+          82
+        ],
+        "box": [
+          200,
+          2591,
+          412,
+          2629
+        ]
+      },
+      {
+        "cell_index": 77,
+        "text": "16/01/2019",
+        "merged": false,
+        "components": [
+          83
+        ],
+        "box": [
+          502,
+          2589,
+          716,
+          2629
+        ]
+      },
+      {
+        "cell_index": 78,
+        "text": "TRTR/000000405039/16-01-2019 08:22:38/BWY",
+        "merged": false,
+        "components": [
+          84
+        ],
+        "box": [
+          830,
+          2588,
+          1757,
+          2631
+        ]
+      },
+      {
+        "cell_index": 79,
+        "text": "9,900.00",
+        "merged": false,
+        "components": [
+          85
+        ],
+        "box": [
+          2096,
+          2590,
+          2266,
+          2629
+        ]
+      },
+      {
+        "cell_index": 80,
+        "text": "1,02,258.62",
+        "merged": false,
+        "components": [
+          86
+        ],
+        "box": [
+          2952,
+          2587,
+          3178,
+          2631
+        ]
+      },
+      {
+        "cell_index": 81,
+        "text": "16/01/2019",
+        "merged": false,
+        "components": [
+          87
+        ],
+        "box": [
+          200,
+          2664,
+          412,
+          2702
+        ]
+      },
+      {
+        "cell_index": 82,
+        "text": "16/01/2019",
+        "merged": false,
+        "components": [
+          88
+        ],
+        "box": [
+          503,
+          2664,
+          716,
+          2702
+        ]
+      },
+      {
+        "cell_index": 83,
+        "text": "TRTR/000000405040/16-01-2019 08:22:37/BWY",
+        "merged": false,
+        "components": [
+          89
+        ],
+        "box": [
+          829,
+          2662,
+          1757,
+          2705
+        ]
+      },
+      {
+        "cell_index": 84,
+        "text": "7,632.00",
+        "merged": false,
+        "components": [
+          90
+        ],
+        "box": [
+          2097,
+          2663,
+          2266,
+          2701
+        ]
+      },
+      {
+        "cell_index": 85,
+        "text": "1,12,158.62",
+        "merged": false,
+        "components": [
+          91
+        ],
+        "box": [
+          2952,
+          2661,
+          3179,
+          2704
+        ]
+      },
+      {
+        "cell_index": 86,
+        "text": "15/01/2019",
+        "merged": false,
+        "components": [
+          92
+        ],
+        "box": [
+          199,
+          2735,
+          414,
+          2776
+        ]
+      },
+      {
+        "cell_index": 87,
+        "text": "15/01/2019",
+        "merged": false,
+        "components": [
+          93
+        ],
+        "box": [
+          502,
+          2735,
+          717,
+          2776
+        ]
+      },
+      {
+        "cell_index": 88,
+        "text": "OFPREVERSAL/Credit account num",
+        "merged": false,
+        "components": [
+          94
+        ],
+        "box": [
+          942,
+          2730,
+          1643,
+          2781
+        ]
+      },
+      {
+        "cell_index": 89,
+        "text": "1,450.00",
+        "merged": false,
+        "components": [
+          95
+        ],
+        "box": [
+          2552,
+          2731,
+          2728,
+          2780
+        ]
+      },
+      {
+        "cell_index": 90,
+        "text": "1,19,790.62",
+        "merged": false,
+        "components": [
+          96
+        ],
+        "box": [
+          2954,
+          2735,
+          3179,
+          2777
+        ]
+      },
+      {
+        "cell_index": 91,
+        "text": "15/01/2019",
+        "merged": false,
+        "components": [
+          97
+        ],
+        "box": [
+          199,
+          2808,
+          414,
+          2850
+        ]
+      },
+      {
+        "cell_index": 92,
+        "text": "15/01/2019",
+        "merged": false,
+        "components": [
+          98
+        ],
+        "box": [
+          502,
+          2808,
+          718,
+          2850
+        ]
+      },
+      {
+        "cell_index": 93,
+        "text": "FP/Slough High Street/000000405026",
+        "merged": false,
+        "components": [
+          99
+        ],
+        "box": [
+          932,
+          2806,
+          1656,
+          2853
+        ]
+      },
+      {
+        "cell_index": 94,
+        "text": "1,450.00",
+        "merged": false,
+        "components": [
+          100
+        ],
+        "box": [
+          2100,
+          2810,
+          2266,
+          2848
+        ]
+      },
+      {
+        "cell_index": 95,
+        "text": "1,18,340.62",
+        "merged": false,
+        "components": [
+          101
+        ],
+        "box": [
+          2953,
+          2808,
+          3179,
+          2850
+        ]
+      },
+      {
+        "cell_index": 96,
+        "text": "15/01/2019",
+        "merged": false,
+        "components": [
+          102
+        ],
+        "box": [
+          199,
+          2881,
+          414,
+          2923
+        ]
+      },
+      {
+        "cell_index": 97,
+        "text": "15/01/2019",
+        "merged": false,
+        "components": [
+          103
+        ],
+        "box": [
+          502,
+          2881,
+          717,
+          2922
+        ]
+      },
+      {
+        "cell_index": 98,
+        "text": "FP/Company Exp/000000405025",
+        "merged": false,
+        "components": [
+          104
+        ],
+        "box": [
+          975,
+          2877,
+          1611,
+          2927
+        ]
+      },
+      {
+        "cell_index": 99,
+        "text": "1,800.00",
+        "merged": false,
+        "components": [
+          105
+        ],
+        "box": [
+          2099,
+          2880,
+          2266,
+          2921
+        ]
+      },
+      {
+        "cell_index": 100,
+        "text": "1,19,790.62",
+        "merged": false,
+        "components": [
+          106
+        ],
+        "box": [
+          2951,
+          2878,
+          3180,
+          2925
+        ]
+      },
+      {
+        "cell_index": 101,
+        "text": "15/01/2019",
+        "merged": false,
+        "components": [
+          107
+        ],
+        "box": [
+          198,
+          2954,
+          414,
+          2996
+        ]
+      },
+      {
+        "cell_index": 102,
+        "text": "14/01/2019",
+        "merged": false,
+        "components": [
+          108
+        ],
+        "box": [
+          502,
+          2954,
+          718,
+          2996
+        ]
+      },
+      {
+        "cell_index": 103,
+        "text": "AMERICAN EXPRESS WWW",
+        "merged": true,
+        "components": [
+          109,
+          110
+        ],
+        "box": [
+          947,
+          2954,
+          1641,
+          2997
+        ]
+      },
+      {
+        "cell_index": 104,
+        "text": "1,972.58",
+        "merged": false,
+        "components": [
+          111
+        ],
+        "box": [
+          2099,
+          2953,
+          2267,
+          2994
+        ]
+      },
+      {
+        "cell_index": 105,
+        "text": "1,21,590.62",
+        "merged": false,
+        "components": [
+          112
+        ],
+        "box": [
+          2951,
+          2951,
+          3181,
+          2998
+        ]
+      },
+      {
+        "cell_index": 106,
+        "text": "15/01/2019",
+        "merged": false,
+        "components": [
+          113
+        ],
+        "box": [
+          198,
+          3027,
+          414,
+          3069
+        ]
+      },
+      {
+        "cell_index": 107,
+        "text": "15/01/2019",
+        "merged": false,
+        "components": [
+          114
+        ],
+        "box": [
+          502,
+          3027,
+          717,
+          3068
+        ]
+      },
+      {
+        "cell_index": 108,
+        "text": "DD/VONAGE LIMITED",
+        "merged": false,
+        "components": [
+          115
+        ],
+        "box": [
+          1075,
+          3027,
+          1511,
+          3068
+        ]
+      },
+      {
+        "cell_index": 109,
+        "text": "22.20",
+        "merged": false,
+        "components": [
+          116
+        ],
+        "box": [
+          2155,
+          3027,
+          2267,
+          3066
+        ]
+      },
+      {
+        "cell_index": 110,
+        "text": "1,23,563.20",
+        "merged": false,
+        "components": [
+          117
+        ],
+        "box": [
+          2952,
+          3024,
+          3180,
+          3071
+        ]
+      },
+      {
+        "cell_index": 111,
+        "text": "15/01/2019",
+        "merged": false,
+        "components": [
+          118
+        ],
+        "box": [
+          198,
+          3100,
+          414,
+          3142
+        ]
+      },
+      {
+        "cell_index": 112,
+        "text": "15/01/2019",
+        "merged": false,
+        "components": [
+          119
+        ],
+        "box": [
+          501,
+          3098,
+          718,
+          3142
+        ]
+      },
+      {
+        "cell_index": 113,
+        "text": "TRTR/000000404982/15-01-2019 07:41:19/BWY",
+        "merged": false,
+        "components": [
+          120
+        ],
+        "box": [
+          828,
+          3099,
+          1758,
+          3142
+        ]
+      },
+      {
+        "cell_index": 114,
+        "text": "5,000.00",
+        "merged": false,
+        "components": [
+          121
+        ],
+        "box": [
+          2095,
+          3098,
+          2267,
+          3142
+        ]
+      },
+      {
+        "cell_index": 115,
+        "text": "1,23,585.40",
+        "merged": false,
+        "components": [
+          122
+        ],
+        "box": [
+          2952,
+          3097,
+          3180,
+          3145
+        ]
+      },
+      {
+        "cell_index": 116,
+        "text": "15/01/2019",
+        "merged": false,
+        "components": [
+          123
+        ],
+        "box": [
+          199,
+          3174,
+          414,
+          3215
+        ]
+      },
+      {
+        "cell_index": 117,
+        "text": "15/01/2019",
+        "merged": false,
+        "components": [
+          124
+        ],
+        "box": [
+          502,
+          3174,
+          718,
+          3215
+        ]
+      },
+      {
+        "cell_index": 118,
+        "text": "TRTR/000000404986/15-01-2019 07:41:19/BWY",
+        "merged": false,
+        "components": [
+          125
+        ],
+        "box": [
+          828,
+          3172,
+          1758,
+          3216
+        ]
+      },
+      {
+        "cell_index": 119,
+        "text": "9,996.00",
+        "merged": false,
+        "components": [
+          126
+        ],
+        "box": [
+          2095,
+          3171,
+          2267,
+          3216
+        ]
+      },
+      {
+        "cell_index": 120,
+        "text": "1,28,585.40",
+        "merged": false,
+        "components": [
+          127
+        ],
+        "box": [
+          2952,
+          3171,
+          3180,
+          3218
+        ]
+      },
+      {
+        "cell_index": 121,
+        "text": "15/01/2019",
+        "merged": false,
+        "components": [
+          128
+        ],
+        "box": [
+          198,
+          3246,
+          414,
+          3288
+        ]
+      },
+      {
+        "cell_index": 122,
+        "text": "15/01/2019",
+        "merged": false,
+        "components": [
+          129
+        ],
+        "box": [
+          501,
+          3244,
+          718,
+          3288
+        ]
+      },
+      {
+        "cell_index": 123,
+        "text": "TRTR/000000404983/15-01-2019 07:41:15/BWY",
+        "merged": false,
+        "components": [
+          130
+        ],
+        "box": [
+          828,
+          3245,
+          1758,
+          3289
+        ]
+      },
+      {
+        "cell_index": 124,
+        "text": "5,000.00",
+        "merged": false,
+        "components": [
+          131
+        ],
+        "box": [
+          2093,
+          3242,
+          2269,
+          3289
+        ]
+      },
+      {
+        "cell_index": 125,
+        "text": "1,38,581.40",
+        "merged": false,
+        "components": [
+          132
+        ],
+        "box": [
+          2951,
+          3243,
+          3180,
+          3291
+        ]
+      },
+      {
+        "cell_index": 126,
+        "text": "15/01/2019",
+        "merged": false,
+        "components": [
+          133
+        ],
+        "box": [
+          198,
+          3319,
+          414,
+          3361
+        ]
+      },
+      {
+        "cell_index": 127,
+        "text": "15/01/2019",
+        "merged": false,
+        "components": [
+          134
+        ],
+        "box": [
+          502,
+          3319,
+          718,
+          3361
+        ]
+      },
+      {
+        "cell_index": 128,
+        "text": "TRTR/000000404987/15-01-2019 07:41:19/BWY",
+        "merged": false,
+        "components": [
+          135
+        ],
+        "box": [
+          826,
+          3315,
+          1759,
+          3363
+        ]
+      },
+      {
+        "cell_index": 129,
+        "text": "7,260.00",
+        "merged": false,
+        "components": [
+          136
+        ],
+        "box": [
+          2094,
+          3317,
+          2268,
+          3362
+        ]
+      },
+      {
+        "cell_index": 130,
+        "text": "1,43,581.40",
+        "merged": false,
+        "components": [
+          137
+        ],
+        "box": [
+          2950,
+          3317,
+          3180,
+          3364
+        ]
+      },
+      {
+        "cell_index": 131,
+        "text": "15/01/2019",
+        "merged": false,
+        "components": [
+          138
+        ],
+        "box": [
+          197,
+          3390,
+          415,
+          3435
+        ]
+      },
+      {
+        "cell_index": 132,
+        "text": "15/01/2019",
+        "merged": false,
+        "components": [
+          139
+        ],
+        "box": [
+          502,
+          3392,
+          718,
+          3434
+        ]
+      },
+      {
+        "cell_index": 133,
+        "text": "TRTR/000000404984/15-01-2019 07:41:17/BWY",
+        "merged": false,
+        "components": [
+          140
+        ],
+        "box": [
+          827,
+          3388,
+          1759,
+          3436
+        ]
+      },
+      {
+        "cell_index": 134,
+        "text": "11,280.00",
+        "merged": false,
+        "components": [
+          141
+        ],
+        "box": [
+          2075,
+          3391,
+          2267,
+          3433
+        ]
+      },
+      {
+        "cell_index": 135,
+        "text": "1,50,841.40",
+        "merged": false,
+        "components": [
+          142
+        ],
+        "box": [
+          2949,
+          3387,
+          3181,
+          3439
+        ]
+      },
+      {
+        "cell_index": 136,
+        "text": "15/01/2019",
+        "merged": false,
+        "components": [
+          143
+        ],
+        "box": [
+          198,
+          3465,
+          415,
+          3507
+        ]
+      },
+      {
+        "cell_index": 137,
+        "text": "15/01/2019",
+        "merged": false,
+        "components": [
+          144
+        ],
+        "box": [
+          501,
+          3465,
+          717,
+          3507
+        ]
+      },
+      {
+        "cell_index": 138,
+        "text": "TRTR/000000404985/15-01-2019 07:41:17/BWY",
+        "merged": false,
+        "components": [
+          145
+        ],
+        "box": [
+          828,
+          3464,
+          1758,
+          3507
+        ]
+      },
+      {
+        "cell_index": 139,
+        "text": "8,460.00",
+        "merged": false,
+        "components": [
+          146
+        ],
+        "box": [
+          2093,
+          3462,
+          2269,
+          3509
+        ]
+      },
+      {
+        "cell_index": 140,
+        "text": "1,62,121.40",
+        "merged": false,
+        "components": [
+          147
+        ],
+        "box": [
+          2949,
+          3460,
+          3182,
+          3512
+        ]
+      },
+      {
+        "cell_index": 141,
+        "text": "15/01/2019",
+        "merged": false,
+        "components": [
+          148
+        ],
+        "box": [
+          197,
+          3538,
+          415,
+          3580
+        ]
+      },
+      {
+        "cell_index": 142,
+        "text": "15/01/2019",
+        "merged": false,
+        "components": [
+          149
+        ],
+        "box": [
+          500,
+          3538,
+          717,
+          3580
+        ]
+      },
+      {
+        "cell_index": 143,
+        "text": "TRTR/000000404988/15-01-2019 07:41:15/BWY",
+        "merged": false,
+        "components": [
+          150
+        ],
+        "box": [
+          827,
+          3537,
+          1759,
+          3581
+        ]
+      },
+      {
+        "cell_index": 144,
+        "text": "8,742.00",
+        "merged": false,
+        "components": [
+          151
+        ],
+        "box": [
+          2093,
+          3534,
+          2269,
+          3582
+        ]
+      },
+      {
+        "cell_index": 145,
+        "text": "1,70,581.40",
+        "merged": false,
+        "components": [
+          152
+        ],
+        "box": [
+          2950,
+          3536,
+          3182,
+          3584
+        ]
+      },
+      {
+        "cell_index": 146,
+        "text": "15/01/2019",
+        "merged": false,
+        "components": [
+          153
+        ],
+        "box": [
+          197,
+          3611,
+          415,
+          3653
+        ]
+      },
+      {
+        "cell_index": 147,
+        "text": "15/01/2019",
+        "merged": false,
+        "components": [
+          154
+        ],
+        "box": [
+          500,
+          3611,
+          717,
+          3653
+        ]
+      },
+      {
+        "cell_index": 148,
+        "text": "BC/CLEARWATER P SOL L",
+        "merged": false,
+        "components": [
+          155
+        ],
+        "box": [
+          1022,
+          3612,
+          1564,
+          3653
+        ]
+      },
+      {
+        "cell_index": 149,
+        "text": "9,720.00",
+        "merged": false,
+        "components": [
+          156
+        ],
+        "box": [
+          2549,
+          3608,
+          2728,
+          3658
+        ]
+      },
+      {
+        "cell_index": 150,
+        "text": "1,79,323.40",
+        "merged": false,
+        "components": [
+          157
+        ],
+        "box": [
+          2949,
+          3608,
+          3182,
+          3657
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "cells": [
+      {
+        "cell_index": 0,
+        "text": "14/01/2019",
+        "merged": false,
+        "components": [
+          0
+        ],
+        "box": [
+          195,
+          221,
+          416,
+          265
+        ]
+      },
+      {
+        "cell_index": 1,
+        "text": "12/01/2019",
+        "merged": false,
+        "components": [
+          1
+        ],
+        "box": [
+          500,
+          223,
+          717,
+          264
+        ]
+      },
+      {
+        "cell_index": 2,
+        "text": "LONDON BOROUGH OF HARR HAR",
+        "merged": true,
+        "components": [
+          2,
+          3
+        ],
+        "box": [
+          907,
+          220,
+          1682,
+          268
+        ]
+      },
+      {
+        "cell_index": 3,
+        "text": "1.80",
+        "merged": false,
+        "components": [
+          4
+        ],
+        "box": [
+          2176,
+          219,
+          2271,
+          268
+        ]
+      },
+      {
+        "cell_index": 4,
+        "text": "1,69,603.40",
+        "merged": false,
+        "components": [
+          5
+        ],
+        "box": [
+          2950,
+          220,
+          3181,
+          267
+        ]
+      },
+      {
+        "cell_index": 5,
+        "text": "14/01/2019",
+        "merged": false,
+        "components": [
+          6
+        ],
+        "box": [
+          198,
+          296,
+          415,
+          337
+        ]
+      },
+      {
+        "cell_index": 6,
+        "text": "14/01/2019",
+        "merged": false,
+        "components": [
+          7
+        ],
+        "box": [
+          501,
+          296,
+          718,
+          337
+        ]
+      },
+      {
+        "cell_index": 7,
+        "text": "DD/VITALITY HEALTH",
+        "merged": false,
+        "components": [
+          8
+        ],
+        "box": [
+          1074,
+          297,
+          1513,
+          337
+        ]
+      },
+      {
+        "cell_index": 8,
+        "text": "150.98",
+        "merged": false,
+        "components": [
+          9
+        ],
+        "box": [
+          2131,
+          293,
+          2270,
+          339
+        ]
+      },
+      {
+        "cell_index": 9,
+        "text": "1,69,605.20",
+        "merged": false,
+        "components": [
+          10
+        ],
+        "box": [
+          2950,
+          292,
+          3181,
+          340
+        ]
+      },
+      {
+        "cell_index": 10,
+        "text": "11/01/2019",
+        "merged": false,
+        "components": [
+          11
+        ],
+        "box": [
+          198,
+          369,
+          415,
+          410
+        ]
+      },
+      {
+        "cell_index": 11,
+        "text": "11/01/2019",
+        "merged": false,
+        "components": [
+          12
+        ],
+        "box": [
+          502,
+          369,
+          716,
+          407
+        ]
+      },
+      {
+        "cell_index": 12,
+        "text": "DD/H3G",
+        "merged": false,
+        "components": [
+          13
+        ],
+        "box": [
+          1211,
+          369,
+          1375,
+          411
+        ]
+      },
+      {
+        "cell_index": 13,
+        "text": "5.00",
+        "merged": false,
+        "components": [
+          14
+        ],
+        "box": [
+          2175,
+          367,
+          2270,
+          412
+        ]
+      },
+      {
+        "cell_index": 14,
+        "text": "1,69,756.18",
+        "merged": false,
+        "components": [
+          15
+        ],
+        "box": [
+          2950,
+          365,
+          3181,
+          413
+        ]
+      },
+      {
+        "cell_index": 15,
+        "text": "11/01/2019",
+        "merged": false,
+        "components": [
+          16
+        ],
+        "box": [
+          198,
+          442,
+          414,
+          483
+        ]
+      },
+      {
+        "cell_index": 16,
+        "text": "11/01/2019",
+        "merged": false,
+        "components": [
+          17
+        ],
+        "box": [
+          501,
+          441,
+          717,
+          482
+        ]
+      },
+      {
+        "cell_index": 17,
+        "text": "FP/TEC",
+        "merged": false,
+        "components": [
+          18
+        ],
+        "box": [
+          1212,
+          439,
+          1373,
+          484
+        ]
+      },
+      {
+        "cell_index": 18,
+        "text": "93,054.00",
+        "merged": false,
+        "components": [
+          19
+        ],
+        "box": [
+          2526,
+          440,
+          2726,
+          486
+        ]
+      },
+      {
+        "cell_index": 19,
+        "text": "1,69,761.18",
+        "merged": false,
+        "components": [
+          20
+        ],
+        "box": [
+          2953,
+          442,
+          3180,
+          484
+        ]
+      },
+      {
+        "cell_index": 20,
+        "text": "08/01/2019",
+        "merged": false,
+        "components": [
+          21
+        ],
+        "box": [
+          197,
+          516,
+          413,
+          554
+        ]
+      },
+      {
+        "cell_index": 21,
+        "text": "08/01/2019",
+        "merged": false,
+        "components": [
+          22
+        ],
+        "box": [
+          500,
+          516,
+          716,
+          554
+        ]
+      },
+      {
+        "cell_index": 22,
+        "text": "DD/NEST",
+        "merged": false,
+        "components": [
+          23
+        ],
+        "box": [
+          1199,
+          516,
+          1391,
+          557
+        ]
+      },
+      {
+        "cell_index": 23,
+        "text": "73.07",
+        "merged": false,
+        "components": [
+          24
+        ],
+        "box": [
+          2155,
+          515,
+          2268,
+          554
+        ]
+      },
+      {
+        "cell_index": 24,
+        "text": "76,707.18",
+        "merged": false,
+        "components": [
+          25
+        ],
+        "box": [
+          2983,
+          513,
+          3181,
+          558
+        ]
+      },
+      {
+        "cell_index": 25,
+        "text": "04/01/2019",
+        "merged": false,
+        "components": [
+          26
+        ],
+        "box": [
+          195,
+          588,
+          415,
+          629
+        ]
+      },
+      {
+        "cell_index": 26,
+        "text": "04/01/2019",
+        "merged": false,
+        "components": [
+          27
+        ],
+        "box": [
+          499,
+          588,
+          717,
+          626
+        ]
+      },
+      {
+        "cell_index": 27,
+        "text": "TRTR/000000404675/04-01-2019 07:36:23/BWY",
+        "merged": false,
+        "components": [
+          28
+        ],
+        "box": [
+          826,
+          587,
+          1758,
+          630
+        ]
+      },
+      {
+        "cell_index": 28,
+        "text": "460.16",
+        "merged": false,
+        "components": [
+          29
+        ],
+        "box": [
+          2129,
+          587,
+          2269,
+          629
+        ]
+      },
+      {
+        "cell_index": 29,
+        "text": "76,780.25",
+        "merged": false,
+        "components": [
+          30
+        ],
+        "box": [
+          2984,
+          586,
+          3180,
+          630
+        ]
+      },
+      {
+        "cell_index": 30,
+        "text": "03/01/2019",
+        "merged": false,
+        "components": [
+          32
+        ],
+        "box": [
+          196,
+          686,
+          414,
+          727
+        ]
+      },
+      {
+        "cell_index": 31,
+        "text": "03/01/2019",
+        "merged": false,
+        "components": [
+          33
+        ],
+        "box": [
+          500,
+          687,
+          717,
+          725
+        ]
+      },
+      {
+        "cell_index": 32,
+        "text": "CHARGES FOR IBS FP DT 02.01.19 REF IBSC 404643",
+        "merged": true,
+        "components": [
+          31,
+          36
+        ],
+        "box": [
+          835,
+          660,
+          1752,
+          752
+        ]
+      },
+      {
+        "cell_index": 33,
+        "text": "10.00",
+        "merged": false,
+        "components": [
+          34
+        ],
+        "box": [
+          2157,
+          686,
+          2268,
+          726
+        ]
+      },
+      {
+        "cell_index": 34,
+        "text": "77,240.41",
+        "merged": false,
+        "components": [
+          35
+        ],
+        "box": [
+          2984,
+          686,
+          3177,
+          727
+        ]
+      },
+      {
+        "cell_index": 35,
+        "text": "02/01/2019",
+        "merged": false,
+        "components": [
+          37
+        ],
+        "box": [
+          195,
+          783,
+          414,
+          824
+        ]
+      },
+      {
+        "cell_index": 36,
+        "text": "02/01/2019",
+        "merged": false,
+        "components": [
+          38
+        ],
+        "box": [
+          499,
+          784,
+          717,
+          822
+        ]
+      },
+      {
+        "cell_index": 37,
+        "text": "FP/Dec Salary/000000404643",
+        "merged": false,
+        "components": [
+          39
+        ],
+        "box": [
+          1007,
+          781,
+          1582,
+          828
+        ]
+      },
+      {
+        "cell_index": 38,
+        "text": "4,965.74",
+        "merged": false,
+        "components": [
+          40
+        ],
+        "box": [
+          2094,
+          781,
+          2268,
+          825
+        ]
+      },
+      {
+        "cell_index": 39,
+        "text": "77,250.41",
+        "merged": false,
+        "components": [
+          41
+        ],
+        "box": [
+          2983,
+          783,
+          3176,
+          824
+        ]
+      },
+      {
+        "cell_index": 40,
+        "text": "31/12/2018",
+        "merged": false,
+        "components": [
+          42
+        ],
+        "box": [
+          195,
+          856,
+          414,
+          897
+        ]
+      },
+      {
+        "cell_index": 41,
+        "text": "31/12/2018",
+        "merged": false,
+        "components": [
+          43
+        ],
+        "box": [
+          498,
+          856,
+          718,
+          897
+        ]
+      },
+      {
+        "cell_index": 42,
+        "text": "LEDGER FOLIO CHARGES",
+        "merged": false,
+        "components": [
+          44
+        ],
+        "box": [
+          1022,
+          856,
+          1564,
+          897
+        ]
+      },
+      {
+        "cell_index": 43,
+        "text": "74.60",
+        "merged": false,
+        "components": [
+          45
+        ],
+        "box": [
+          2154,
+          856,
+          2268,
+          896
+        ]
+      },
+      {
+        "cell_index": 44,
+        "text": "82,216.15",
+        "merged": false,
+        "components": [
+          46
+        ],
+        "box": [
+          2983,
+          856,
+          3180,
+          898
+        ]
+      },
+      {
+        "cell_index": 45,
+        "text": "24/12/2018",
+        "merged": false,
+        "components": [
+          47
+        ],
+        "box": [
+          195,
+          928,
+          414,
+          969
+        ]
+      },
+      {
+        "cell_index": 46,
+        "text": "20/12/2018",
+        "merged": false,
+        "components": [
+          48
+        ],
+        "box": [
+          500,
+          930,
+          717,
+          968
+        ]
+      },
+      {
+        "cell_index": 47,
+        "text": "CUBISM LAW LON",
+        "merged": true,
+        "components": [
+          49,
+          50
+        ],
+        "box": [
+          1013,
+          926,
+          1577,
+          974
+        ]
+      },
+      {
+        "cell_index": 48,
+        "text": "1,020.00",
+        "merged": false,
+        "components": [
+          51
+        ],
+        "box": [
+          2098,
+          927,
+          2268,
+          970
+        ]
+      },
+      {
+        "cell_index": 49,
+        "text": "82,290.75",
+        "merged": false,
+        "components": [
+          52
+        ],
+        "box": [
+          2984,
+          929,
+          3180,
+          970
+        ]
+      },
+      {
+        "cell_index": 50,
+        "text": "24/12/2018",
+        "merged": false,
+        "components": [
+          53
+        ],
+        "box": [
+          195,
+          1002,
+          415,
+          1043
+        ]
+      },
+      {
+        "cell_index": 51,
+        "text": "22/12/2018",
+        "merged": false,
+        "components": [
+          54
+        ],
+        "box": [
+          499,
+          1002,
+          718,
+          1043
+        ]
+      },
+      {
+        "cell_index": 52,
+        "text": "SADDA SUPERSTORE LTD HOU",
+        "merged": true,
+        "components": [
+          55,
+          56
+        ],
+        "box": [
+          931,
+          1001,
+          1656,
+          1046
+        ]
+      },
+      {
+        "cell_index": 53,
+        "text": "16.28",
+        "merged": false,
+        "components": [
+          57
+        ],
+        "box": [
+          2156,
+          1000,
+          2269,
+          1043
+        ]
+      },
+      {
+        "cell_index": 54,
+        "text": "83,310.75",
+        "merged": false,
+        "components": [
+          58
+        ],
+        "box": [
+          2983,
+          1002,
+          3180,
+          1044
+        ]
+      },
+      {
+        "cell_index": 55,
+        "text": "21/12/2018",
+        "merged": false,
+        "components": [
+          59
+        ],
+        "box": [
+          195,
+          1074,
+          415,
+          1115
+        ]
+      },
+      {
+        "cell_index": 56,
+        "text": "21/12/2018",
+        "merged": false,
+        "components": [
+          60
+        ],
+        "box": [
+          499,
+          1075,
+          717,
+          1113
+        ]
+      },
+      {
+        "cell_index": 57,
+        "text": "ADVISE CONSULTANT LTD",
+        "merged": false,
+        "components": [
+          61
+        ],
+        "box": [
+          1015,
+          1072,
+          1569,
+          1118
+        ]
+      },
+      {
+        "cell_index": 58,
+        "text": "3,535.62",
+        "merged": false,
+        "components": [
+          62
+        ],
+        "box": [
+          2094,
+          1072,
+          2268,
+          1116
+        ]
+      },
+      {
+        "cell_index": 59,
+        "text": "83,327.03",
+        "merged": false,
+        "components": [
+          63
+        ],
+        "box": [
+          2982,
+          1071,
+          3181,
+          1118
+        ]
+      },
+      {
+        "cell_index": 60,
+        "text": "21/12/2018",
+        "merged": false,
+        "components": [
+          64
+        ],
+        "box": [
+          195,
+          1147,
+          415,
+          1189
+        ]
+      },
+      {
+        "cell_index": 61,
+        "text": "21/12/2018",
+        "merged": false,
+        "components": [
+          65
+        ],
+        "box": [
+          499,
+          1148,
+          717,
+          1186
+        ]
+      },
+      {
+        "cell_index": 62,
+        "text": "ADVICE CONSALTANT LTD",
+        "merged": false,
+        "components": [
+          66
+        ],
+        "box": [
+          1015,
+          1146,
+          1569,
+          1190
+        ]
+      },
+      {
+        "cell_index": 63,
+        "text": "3,530.70",
+        "merged": false,
+        "components": [
+          67
+        ],
+        "box": [
+          2094,
+          1145,
+          2268,
+          1190
+        ]
+      },
+      {
+        "cell_index": 64,
+        "text": "86,862.65",
+        "merged": false,
+        "components": [
+          68
+        ],
+        "box": [
+          2983,
+          1146,
+          3181,
+          1191
+        ]
+      },
+      {
+        "cell_index": 65,
+        "text": "21/12/2018",
+        "merged": false,
+        "components": [
+          69
+        ],
+        "box": [
+          195,
+          1221,
+          415,
+          1262
+        ]
+      },
+      {
+        "cell_index": 66,
+        "text": "21/12/2018",
+        "merged": false,
+        "components": [
+          70
+        ],
+        "box": [
+          498,
+          1221,
+          718,
+          1262
+        ]
+      },
+      {
+        "cell_index": 67,
+        "text": "ADVICE CONSULTANT LTD",
+        "merged": false,
+        "components": [
+          71
+        ],
+        "box": [
+          1014,
+          1219,
+          1571,
+          1263
+        ]
+      },
+      {
+        "cell_index": 68,
+        "text": "3,859.20",
+        "merged": false,
+        "components": [
+          72
+        ],
+        "box": [
+          2094,
+          1219,
+          2266,
+          1261
+        ]
+      },
+      {
+        "cell_index": 69,
+        "text": "90,393.35",
+        "merged": false,
+        "components": [
+          73
+        ],
+        "box": [
+          2984,
+          1221,
+          3180,
+          1263
+        ]
+      },
+      {
+        "cell_index": 70,
+        "text": "21/12/2018",
+        "merged": false,
+        "components": [
+          74
+        ],
+        "box": [
+          195,
+          1293,
+          415,
+          1335
+        ]
+      },
+      {
+        "cell_index": 71,
+        "text": "21/12/2018",
+        "merged": false,
+        "components": [
+          75
+        ],
+        "box": [
+          499,
+          1295,
+          717,
+          1333
+        ]
+      },
+      {
+        "cell_index": 72,
+        "text": "ADVISE CONSULTANT LTD",
+        "merged": false,
+        "components": [
+          76
+        ],
+        "box": [
+          1014,
+          1290,
+          1569,
+          1336
+        ]
+      },
+      {
+        "cell_index": 73,
+        "text": "2,592.00",
+        "merged": false,
+        "components": [
+          77
+        ],
+        "box": [
+          2093,
+          1290,
+          2269,
+          1337
+        ]
+      },
+      {
+        "cell_index": 74,
+        "text": "94,252.55",
+        "merged": false,
+        "components": [
+          78
+        ],
+        "box": [
+          2983,
+          1294,
+          3180,
+          1336
+        ]
+      },
+      {
+        "cell_index": 75,
+        "text": "21/12/2018",
+        "merged": false,
+        "components": [
+          79
+        ],
+        "box": [
+          195,
+          1365,
+          415,
+          1407
+        ]
+      },
+      {
+        "cell_index": 76,
+        "text": "21/12/2018",
+        "merged": false,
+        "components": [
+          80
+        ],
+        "box": [
+          498,
+          1366,
+          718,
+          1407
+        ]
+      },
+      {
+        "cell_index": 77,
+        "text": "ADVISE CONSULTANT LTD",
+        "merged": false,
+        "components": [
+          81
+        ],
+        "box": [
+          1016,
+          1367,
+          1568,
+          1408
+        ]
+      },
+      {
+        "cell_index": 78,
+        "text": "3,888.00",
+        "merged": false,
+        "components": [
+          82
+        ],
+        "box": [
+          2096,
+          1366,
+          2267,
+          1408
+        ]
+      },
+      {
+        "cell_index": 79,
+        "text": "96,844.55",
+        "merged": false,
+        "components": [
+          83
+        ],
+        "box": [
+          2983,
+          1367,
+          3179,
+          1409
+        ]
+      },
+      {
+        "cell_index": 80,
+        "text": "21/12/2018",
+        "merged": false,
+        "components": [
+          84
+        ],
+        "box": [
+          195,
+          1438,
+          414,
+          1480
+        ]
+      },
+      {
+        "cell_index": 81,
+        "text": "21/12/2018",
+        "merged": false,
+        "components": [
+          85
+        ],
+        "box": [
+          498,
+          1437,
+          718,
+          1481
+        ]
+      },
+      {
+        "cell_index": 82,
+        "text": "FP/BIZTEK RECRU",
+        "merged": false,
+        "components": [
+          86
+        ],
+        "box": [
+          1102,
+          1439,
+          1483,
+          1480
+        ]
+      },
+      {
+        "cell_index": 83,
+        "text": "4,680.00",
+        "merged": false,
+        "components": [
+          87
+        ],
+        "box": [
+          2549,
+          1436,
+          2728,
+          1485
+        ]
+      },
+      {
+        "cell_index": 84,
+        "text": "1,00,732.55",
+        "merged": false,
+        "components": [
+          88
+        ],
+        "box": [
+          2952,
+          1436,
+          3180,
+          1484
+        ]
+      },
+      {
+        "cell_index": 85,
+        "text": "21/12/2018",
+        "merged": false,
+        "components": [
+          89
+        ],
+        "box": [
+          195,
+          1512,
+          415,
+          1554
+        ]
+      },
+      {
+        "cell_index": 86,
+        "text": "20/12/2018",
+        "merged": false,
+        "components": [
+          90
+        ],
+        "box": [
+          499,
+          1513,
+          718,
+          1554
+        ]
+      },
+      {
+        "cell_index": 87,
+        "text": "GODADDY COM EUROPE 020",
+        "merged": true,
+        "components": [
+          91,
+          92
+        ],
+        "box": [
+          942,
+          1510,
+          1645,
+          1558
+        ]
+      },
+      {
+        "cell_index": 88,
+        "text": "7.19",
+        "merged": false,
+        "components": [
+          93
+        ],
+        "box": [
+          2176,
+          1511,
+          2269,
+          1555
+        ]
+      },
+      {
+        "cell_index": 89,
+        "text": "96,052.55",
+        "merged": false,
+        "components": [
+          94
+        ],
+        "box": [
+          2983,
+          1513,
+          3180,
+          1555
+        ]
+      },
+      {
+        "cell_index": 90,
+        "text": "21/12/2018",
+        "merged": false,
+        "components": [
+          95
+        ],
+        "box": [
+          195,
+          1585,
+          415,
+          1627
+        ]
+      },
+      {
+        "cell_index": 91,
+        "text": "21/12/2018",
+        "merged": false,
+        "components": [
+          96
+        ],
+        "box": [
+          498,
+          1585,
+          718,
+          1627
+        ]
+      },
+      {
+        "cell_index": 92,
+        "text": "DD/H3G",
+        "merged": false,
+        "components": [
+          97
+        ],
+        "box": [
+          1209,
+          1584,
+          1378,
+          1629
+        ]
+      },
+      {
+        "cell_index": 93,
+        "text": "36.28",
+        "merged": false,
+        "components": [
+          98
+        ],
+        "box": [
+          2154,
+          1584,
+          2269,
+          1627
+        ]
+      },
+      {
+        "cell_index": 94,
+        "text": "96,059.74",
+        "merged": false,
+        "components": [
+          99
+        ],
+        "box": [
+          2982,
+          1584,
+          3181,
+          1629
+        ]
+      },
+      {
+        "cell_index": 95,
+        "text": "21/12/2018",
+        "merged": false,
+        "components": [
+          100
+        ],
+        "box": [
+          195,
+          1658,
+          415,
+          1700
+        ]
+      },
+      {
+        "cell_index": 96,
+        "text": "21/12/2018",
+        "merged": false,
+        "components": [
+          101
+        ],
+        "box": [
+          499,
+          1660,
+          717,
+          1698
+        ]
+      },
+      {
+        "cell_index": 97,
+        "text": "DD/H3G",
+        "merged": false,
+        "components": [
+          102
+        ],
+        "box": [
+          1207,
+          1657,
+          1377,
+          1702
+        ]
+      },
+      {
+        "cell_index": 98,
+        "text": "49.92",
+        "merged": false,
+        "components": [
+          103
+        ],
+        "box": [
+          2155,
+          1659,
+          2268,
+          1699
+        ]
+      },
+      {
+        "cell_index": 99,
+        "text": "96,096.02",
+        "merged": false,
+        "components": [
+          104
+        ],
+        "box": [
+          2982,
+          1657,
+          3182,
+          1702
+        ]
+      },
+      {
+        "cell_index": 100,
+        "text": "20/12/2018",
+        "merged": false,
+        "components": [
+          106
+        ],
+        "box": [
+          194,
+          1753,
+          416,
+          1797
+        ]
+      },
+      {
+        "cell_index": 101,
+        "text": "20/12/2018",
+        "merged": false,
+        "components": [
+          107
+        ],
+        "box": [
+          498,
+          1755,
+          719,
+          1796
+        ]
+      },
+      {
+        "cell_index": 102,
+        "text": "CHARGES FOR IBS FP REF IBSC404284DT 18.12.2018",
+        "merged": true,
+        "components": [
+          105,
+          110
+        ],
+        "box": [
+          858,
+          1730,
+          1729,
+          1822
+        ]
+      },
+      {
+        "cell_index": 103,
+        "text": "10.00",
+        "merged": false,
+        "components": [
+          108
+        ],
+        "box": [
+          2156,
+          1755,
+          2269,
+          1798
+        ]
+      },
+      {
+        "cell_index": 104,
+        "text": "96,145.94",
+        "merged": false,
+        "components": [
+          109
+        ],
+        "box": [
+          2983,
+          1754,
+          3181,
+          1799
+        ]
+      },
+      {
+        "cell_index": 105,
+        "text": "20/12/2018",
+        "merged": false,
+        "components": [
+          112
+        ],
+        "box": [
+          194,
+          1877,
+          415,
+          1919
+        ]
+      },
+      {
+        "cell_index": 106,
+        "text": "20/12/2018",
+        "merged": false,
+        "components": [
+          113
+        ],
+        "box": [
+          498,
+          1878,
+          718,
+          1919
+        ]
+      },
+      {
+        "cell_index": 107,
+        "text": "CHARGES FOR IBS FP REF IBSC404281DT 18.12.2018",
+        "merged": true,
+        "components": [
+          111,
+          116
+        ],
+        "box": [
+          859,
+          1853,
+          1728,
+          1944
+        ]
+      },
+      {
+        "cell_index": 108,
+        "text": "10.00",
+        "merged": false,
+        "components": [
+          114
+        ],
+        "box": [
+          2157,
+          1878,
+          2268,
+          1918
+        ]
+      },
+      {
+        "cell_index": 109,
+        "text": "96,155.94",
+        "merged": false,
+        "components": [
+          115
+        ],
+        "box": [
+          2983,
+          1878,
+          3178,
+          1920
+        ]
+      },
+      {
+        "cell_index": 110,
+        "text": "20/12/2018",
+        "merged": false,
+        "components": [
+          118
+        ],
+        "box": [
+          197,
+          2001,
+          414,
+          2039
+        ]
+      },
+      {
+        "cell_index": 111,
+        "text": "20/12/2018",
+        "merged": false,
+        "components": [
+          119
+        ],
+        "box": [
+          500,
+          2001,
+          717,
+          2039
+        ]
+      },
+      {
+        "cell_index": 112,
+        "text": "CHARGES FOR IBS FP REF IBSC404282DT 18.12.2018",
+        "merged": true,
+        "components": [
+          117,
+          122
+        ],
+        "box": [
+          859,
+          1975,
+          1728,
+          2066
+        ]
+      },
+      {
+        "cell_index": 113,
+        "text": "10.00",
+        "merged": false,
+        "components": [
+          120
+        ],
+        "box": [
+          2155,
+          1996,
+          2270,
+          2043
+        ]
+      },
+      {
+        "cell_index": 114,
+        "text": "96,165.94",
+        "merged": false,
+        "components": [
+          121
+        ],
+        "box": [
+          2984,
+          2000,
+          3179,
+          2042
+        ]
+      },
+      {
+        "cell_index": 115,
+        "text": "20/12/2018",
+        "merged": false,
+        "components": [
+          123
+        ],
+        "box": [
+          197,
+          2098,
+          413,
+          2136
+        ]
+      },
+      {
+        "cell_index": 116,
+        "text": "20/12/2018",
+        "merged": false,
+        "components": [
+          124
+        ],
+        "box": [
+          500,
+          2098,
+          717,
+          2136
+        ]
+      },
+      {
+        "cell_index": 117,
+        "text": "DD/HISCOX DD",
+        "merged": false,
+        "components": [
+          125
+        ],
+        "box": [
+          1136,
+          2095,
+          1450,
+          2139
+        ]
+      },
+      {
+        "cell_index": 118,
+        "text": "65.42",
+        "merged": false,
+        "components": [
+          126
+        ],
+        "box": [
+          2154,
+          2096,
+          2268,
+          2136
+        ]
+      },
+      {
+        "cell_index": 119,
+        "text": "96,175.94",
+        "merged": false,
+        "components": [
+          127
+        ],
+        "box": [
+          2981,
+          2093,
+          3181,
+          2140
+        ]
+      },
+      {
+        "cell_index": 120,
+        "text": "19/12/2018",
+        "merged": false,
+        "components": [
+          128
+        ],
+        "box": [
+          200,
+          2171,
+          413,
+          2209
+        ]
+      },
+      {
+        "cell_index": 121,
+        "text": "18/12/2018",
+        "merged": false,
+        "components": [
+          129
+        ],
+        "box": [
+          503,
+          2171,
+          717,
+          2209
+        ]
+      },
+      {
+        "cell_index": 122,
+        "text": "HMRC GOV.UK SA GLA",
+        "merged": true,
+        "components": [
+          130,
+          131
+        ],
+        "box": [
+          984,
+          2165,
+          1606,
+          2215
+        ]
+      },
+      {
+        "cell_index": 123,
+        "text": "538.29",
+        "merged": false,
+        "components": [
+          132
+        ],
+        "box": [
+          2131,
+          2170,
+          2267,
+          2209
+        ]
+      },
+      {
+        "cell_index": 124,
+        "text": "96,241.36",
+        "merged": false,
+        "components": [
+          133
+        ],
+        "box": [
+          2983,
+          2169,
+          3180,
+          2211
+        ]
+      },
+      {
+        "cell_index": 125,
+        "text": "19/12/2018",
+        "merged": false,
+        "components": [
+          134
+        ],
+        "box": [
+          200,
+          2244,
+          413,
+          2282
+        ]
+      },
+      {
+        "cell_index": 126,
+        "text": "18/12/2018",
+        "merged": false,
+        "components": [
+          135
+        ],
+        "box": [
+          503,
+          2244,
+          716,
+          2282
+        ]
+      },
+      {
+        "cell_index": 127,
+        "text": "CBA*F-SECURE CLE",
+        "merged": true,
+        "components": [
+          136,
+          137
+        ],
+        "box": [
+          1000,
+          2239,
+          1590,
+          2288
+        ]
+      },
+      {
+        "cell_index": 128,
+        "text": "25.00",
+        "merged": false,
+        "components": [
+          138
+        ],
+        "box": [
+          2156,
+          2244,
+          2266,
+          2280
+        ]
+      },
+      {
+        "cell_index": 129,
+        "text": "96,779.65",
+        "merged": false,
+        "components": [
+          139
+        ],
+        "box": [
+          2984,
+          2243,
+          3180,
+          2284
+        ]
+      },
+      {
+        "cell_index": 130,
+        "text": "19/12/2018",
+        "merged": false,
+        "components": [
+          140
+        ],
+        "box": [
+          199,
+          2317,
+          413,
+          2355
+        ]
+      },
+      {
+        "cell_index": 131,
+        "text": "18/12/2018",
+        "merged": false,
+        "components": [
+          141
+        ],
+        "box": [
+          502,
+          2316,
+          715,
+          2354
+        ]
+      },
+      {
+        "cell_index": 132,
+        "text": "TESCO STORES 3134 NOR",
+        "merged": true,
+        "components": [
+          142,
+          143
+        ],
+        "box": [
+          965,
+          2313,
+          1625,
+          2360
+        ]
+      },
+      {
+        "cell_index": 133,
+        "text": "1.15",
+        "merged": false,
+        "components": [
+          144
+        ],
+        "box": [
+          2178,
+          2313,
+          2269,
+          2358
+        ]
+      },
+      {
+        "cell_index": 134,
+        "text": "96,804.65",
+        "merged": false,
+        "components": [
+          145
+        ],
+        "box": [
+          2984,
+          2316,
+          3180,
+          2357
+        ]
+      },
+      {
+        "cell_index": 135,
+        "text": "19/12/2018",
+        "merged": false,
+        "components": [
+          146
+        ],
+        "box": [
+          198,
+          2388,
+          415,
+          2430
+        ]
+      },
+      {
+        "cell_index": 136,
+        "text": "19/12/2018",
+        "merged": false,
+        "components": [
+          147
+        ],
+        "box": [
+          502,
+          2388,
+          718,
+          2429
+        ]
+      },
+      {
+        "cell_index": 137,
+        "text": "TRTR/000000404280/19-12-2018 07:49:52/BWY",
+        "merged": false,
+        "components": [
+          148
+        ],
+        "box": [
+          827,
+          2387,
+          1758,
+          2431
+        ]
+      },
+      {
+        "cell_index": 138,
+        "text": "2,690.05",
+        "merged": false,
+        "components": [
+          149
+        ],
+        "box": [
+          2096,
+          2388,
+          2268,
+          2430
+        ]
+      },
+      {
+        "cell_index": 139,
+        "text": "96,805.80",
+        "merged": false,
+        "components": [
+          150
+        ],
+        "box": [
+          2984,
+          2388,
+          3179,
+          2430
+        ]
+      },
+      {
+        "cell_index": 140,
+        "text": "19/12/2018",
+        "merged": false,
+        "components": [
+          151
+        ],
+        "box": [
+          198,
+          2461,
+          414,
+          2502
+        ]
+      },
+      {
+        "cell_index": 141,
+        "text": "19/12/2018",
+        "merged": false,
+        "components": [
+          152
+        ],
+        "box": [
+          502,
+          2462,
+          716,
+          2500
+        ]
+      },
+      {
+        "cell_index": 142,
+        "text": "TRTR/000000404279/19-12-2018 07:49:52/BWY",
+        "merged": false,
+        "components": [
+          153
+        ],
+        "box": [
+          827,
+          2459,
+          1757,
+          2504
+        ]
+      },
+      {
+        "cell_index": 143,
+        "text": "1,823.98",
+        "merged": false,
+        "components": [
+          154
+        ],
+        "box": [
+          2096,
+          2456,
+          2269,
+          2505
+        ]
+      },
+      {
+        "cell_index": 144,
+        "text": "99,495.85",
+        "merged": false,
+        "components": [
+          155
+        ],
+        "box": [
+          2984,
+          2461,
+          3180,
+          2503
+        ]
+      },
+      {
+        "cell_index": 145,
+        "text": "18/12/2018",
+        "merged": false,
+        "components": [
+          156
+        ],
+        "box": [
+          198,
+          2535,
+          414,
+          2576
+        ]
+      },
+      {
+        "cell_index": 146,
+        "text": "18/12/2018",
+        "merged": false,
+        "components": [
+          157
+        ],
+        "box": [
+          502,
+          2535,
+          717,
+          2576
+        ]
+      },
+      {
+        "cell_index": 147,
+        "text": "FP/Vaidehi Nov NO V/000000404284",
+        "merged": false,
+        "components": [
+          158
+        ],
+        "box": [
+          935,
+          2532,
+          1648,
+          2578
+        ]
+      },
+      {
+        "cell_index": 148,
+        "text": "4,486.47",
+        "merged": false,
+        "components": [
+          159
+        ],
+        "box": [
+          2094,
+          2532,
+          2267,
+          2578
+        ]
+      },
+      {
+        "cell_index": 149,
+        "text": "1,01,319.83",
+        "merged": false,
+        "components": [
+          160
+        ],
+        "box": [
+          2953,
+          2534,
+          3179,
+          2576
+        ]
+      },
+      {
+        "cell_index": 150,
+        "text": "18/12/2018",
+        "merged": false,
+        "components": [
+          161
+        ],
+        "box": [
+          198,
+          2606,
+          414,
+          2648
+        ]
+      },
+      {
+        "cell_index": 151,
+        "text": "18/12/2018",
+        "merged": false,
+        "components": [
+          162
+        ],
+        "box": [
+          502,
+          2607,
+          718,
+          2648
+        ]
+      },
+      {
+        "cell_index": 152,
+        "text": "FP/Nov Inv No Vat/000000404282",
+        "merged": false,
+        "components": [
+          163
+        ],
+        "box": [
+          965,
+          2605,
+          1621,
+          2652
+        ]
+      },
+      {
+        "cell_index": 153,
+        "text": "2,600.00",
+        "merged": false,
+        "components": [
+          164
+        ],
+        "box": [
+          2094,
+          2603,
+          2268,
+          2651
+        ]
+      },
+      {
+        "cell_index": 154,
+        "text": "1,05,806.30",
+        "merged": false,
+        "components": [
+          165
+        ],
+        "box": [
+          2952,
+          2604,
+          3180,
+          2651
+        ]
+      },
+      {
+        "cell_index": 155,
+        "text": "18/12/2018",
+        "merged": false,
+        "components": [
+          166
+        ],
+        "box": [
+          199,
+          2679,
+          415,
+          2721
+        ]
+      },
+      {
+        "cell_index": 156,
+        "text": "18/12/2018",
+        "merged": false,
+        "components": [
+          167
+        ],
+        "box": [
+          502,
+          2680,
+          718,
+          2722
+        ]
+      },
+      {
+        "cell_index": 157,
+        "text": "FP/Inv Nov No Vat/000000404281",
+        "merged": false,
+        "components": [
+          168
+        ],
+        "box": [
+          966,
+          2677,
+          1619,
+          2724
+        ]
+      },
+      {
+        "cell_index": 158,
+        "text": "1,800.00",
+        "merged": false,
+        "components": [
+          169
+        ],
+        "box": [
+          2099,
+          2680,
+          2267,
+          2722
+        ]
+      },
+      {
+        "cell_index": 159,
+        "text": "1,08,406.30",
+        "merged": false,
+        "components": [
+          170
+        ],
+        "box": [
+          2951,
+          2677,
+          3180,
+          2724
+        ]
+      },
+      {
+        "cell_index": 160,
+        "text": "14/12/2018",
+        "merged": false,
+        "components": [
+          171
+        ],
+        "box": [
+          198,
+          2753,
+          414,
+          2795
+        ]
+      },
+      {
+        "cell_index": 161,
+        "text": "14/12/2018",
+        "merged": false,
+        "components": [
+          172
+        ],
+        "box": [
+          502,
+          2753,
+          718,
+          2795
+        ]
+      },
+      {
+        "cell_index": 162,
+        "text": "FP/Virtusa UK Limited",
+        "merged": false,
+        "components": [
+          173
+        ],
+        "box": [
+          1081,
+          2751,
+          1505,
+          2799
+        ]
+      },
+      {
+        "cell_index": 163,
+        "text": "20,790.00",
+        "merged": false,
+        "components": [
+          174
+        ],
+        "box": [
+          2527,
+          2751,
+          2727,
+          2796
+        ]
+      },
+      {
+        "cell_index": 164,
+        "text": "1,10,206.30",
+        "merged": false,
+        "components": [
+          175
+        ],
+        "box": [
+          2951,
+          2750,
+          3180,
+          2797
+        ]
+      },
+      {
+        "cell_index": 165,
+        "text": "14/12/2018",
+        "merged": false,
+        "components": [
+          176
+        ],
+        "box": [
+          197,
+          2826,
+          415,
+          2868
+        ]
+      },
+      {
+        "cell_index": 166,
+        "text": "14/12/2018",
+        "merged": false,
+        "components": [
+          177
+        ],
+        "box": [
+          500,
+          2825,
+          718,
+          2867
+        ]
+      },
+      {
+        "cell_index": 167,
+        "text": "DD/VONAGE LIMITED",
+        "merged": false,
+        "components": [
+          178
+        ],
+        "box": [
+          1075,
+          2827,
+          1510,
+          2868
+        ]
+      },
+      {
+        "cell_index": 168,
+        "text": "22.85",
+        "merged": false,
+        "components": [
+          179
+        ],
+        "box": [
+          2153,
+          2825,
+          2268,
+          2869
+        ]
+      },
+      {
+        "cell_index": 169,
+        "text": "89,416.30",
+        "merged": false,
+        "components": [
+          180
+        ],
+        "box": [
+          2983,
+          2825,
+          3181,
+          2870
+        ]
+      },
+      {
+        "cell_index": 170,
+        "text": "14/12/2018",
+        "merged": false,
+        "components": [
+          181
+        ],
+        "box": [
+          197,
+          2898,
+          415,
+          2940
+        ]
+      },
+      {
+        "cell_index": 171,
+        "text": "14/12/2018",
+        "merged": false,
+        "components": [
+          182
+        ],
+        "box": [
+          501,
+          2899,
+          718,
+          2941
+        ]
+      },
+      {
+        "cell_index": 172,
+        "text": "FP/SONOVATE LTD",
+        "merged": false,
+        "components": [
+          183
+        ],
+        "box": [
+          1093,
+          2898,
+          1492,
+          2942
+        ]
+      },
+      {
+        "cell_index": 173,
+        "text": "14,124.00",
+        "merged": false,
+        "components": [
+          184
+        ],
+        "box": [
+          2530,
+          2898,
+          2726,
+          2943
+        ]
+      },
+      {
+        "cell_index": 174,
+        "text": "89,439.15",
+        "merged": false,
+        "components": [
+          185
+        ],
+        "box": [
+          2983,
+          2898,
+          3181,
+          2944
+        ]
+      },
+      {
+        "cell_index": 175,
+        "text": "12/12/2018",
+        "merged": false,
+        "components": [
+          186
+        ],
+        "box": [
+          197,
+          2972,
+          415,
+          3014
+        ]
+      },
+      {
+        "cell_index": 176,
+        "text": "12/12/2018",
+        "merged": false,
+        "components": [
+          187
+        ],
+        "box": [
+          501,
+          2972,
+          719,
+          3014
+        ]
+      },
+      {
+        "cell_index": 177,
+        "text": "DD/H3G",
+        "merged": false,
+        "components": [
+          188
+        ],
+        "box": [
+          1207,
+          2969,
+          1378,
+          3016
+        ]
+      },
+      {
+        "cell_index": 178,
+        "text": "5.00",
+        "merged": false,
+        "components": [
+          189
+        ],
+        "box": [
+          2174,
+          2970,
+          2270,
+          3018
+        ]
+      },
+      {
+        "cell_index": 179,
+        "text": "75,315.15",
+        "merged": false,
+        "components": [
+          190
+        ],
+        "box": [
+          2983,
+          2971,
+          3181,
+          3017
+        ]
+      },
+      {
+        "cell_index": 180,
+        "text": "12/12/2018",
+        "merged": false,
+        "components": [
+          191
+        ],
+        "box": [
+          196,
+          3044,
+          416,
+          3089
+        ]
+      },
+      {
+        "cell_index": 181,
+        "text": "12/12/2018",
+        "merged": false,
+        "components": [
+          192
+        ],
+        "box": [
+          500,
+          3044,
+          720,
+          3089
+        ]
+      },
+      {
+        "cell_index": 182,
+        "text": "DD/HMRC VAT",
+        "merged": false,
+        "components": [
+          193
+        ],
+        "box": [
+          1143,
+          3045,
+          1445,
+          3089
+        ]
+      },
+      {
+        "cell_index": 183,
+        "text": "9,908.87",
+        "merged": false,
+        "components": [
+          194
+        ],
+        "box": [
+          2094,
+          3043,
+          2269,
+          3091
+        ]
+      },
+      {
+        "cell_index": 184,
+        "text": "75,320.15",
+        "merged": false,
+        "components": [
+          195
+        ],
+        "box": [
+          2982,
+          3045,
+          3182,
+          3090
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "cells": [
+      {
+        "cell_index": 0,
+        "text": "12/12/2018",
+        "merged": false,
+        "components": [
+          0
+        ],
+        "box": [
+          197,
+          222,
+          415,
+          264
+        ]
+      },
+      {
+        "cell_index": 1,
+        "text": "12/12/2018",
+        "merged": false,
+        "components": [
+          1
+        ],
+        "box": [
+          501,
+          222,
+          718,
+          264
+        ]
+      },
+      {
+        "cell_index": 2,
+        "text": "DD/VITALITY HEALTH",
+        "merged": false,
+        "components": [
+          2
+        ],
+        "box": [
+          1074,
+          225,
+          1513,
+          262
+        ]
+      },
+      {
+        "cell_index": 3,
+        "text": "150.98",
+        "merged": false,
+        "components": [
+          3
+        ],
+        "box": [
+          2132,
+          221,
+          2269,
+          264
+        ]
+      },
+      {
+        "cell_index": 4,
+        "text": "85,229.02",
+        "merged": false,
+        "components": [
+          4
+        ],
+        "box": [
+          2983,
+          221,
+          3183,
+          266
+        ]
+      },
+      {
+        "cell_index": 5,
+        "text": "12/12/2018",
+        "merged": false,
+        "components": [
+          5
+        ],
+        "box": [
+          198,
+          296,
+          415,
+          337
+        ]
+      },
+      {
+        "cell_index": 6,
+        "text": "12/12/2018",
+        "merged": false,
+        "components": [
+          6
+        ],
+        "box": [
+          502,
+          296,
+          718,
+          337
+        ]
+      },
+      {
+        "cell_index": 7,
+        "text": "TRTR/000000404111/12-12-2018 07:43:29/BWY",
+        "merged": false,
+        "components": [
+          7
+        ],
+        "box": [
+          829,
+          296,
+          1756,
+          336
+        ]
+      },
+      {
+        "cell_index": 8,
+        "text": "6,624.00",
+        "merged": false,
+        "components": [
+          8
+        ],
+        "box": [
+          2094,
+          294,
+          2267,
+          336
+        ]
+      },
+      {
+        "cell_index": 9,
+        "text": "85,380.00",
+        "merged": false,
+        "components": [
+          9
+        ],
+        "box": [
+          2982,
+          294,
+          3182,
+          340
+        ]
+      },
+      {
+        "cell_index": 10,
+        "text": "12/12/2018",
+        "merged": false,
+        "components": [
+          10
+        ],
+        "box": [
+          199,
+          369,
+          415,
+          410
+        ]
+      },
+      {
+        "cell_index": 11,
+        "text": "12/12/2018",
+        "merged": false,
+        "components": [
+          11
+        ],
+        "box": [
+          501,
+          369,
+          716,
+          407
+        ]
+      },
+      {
+        "cell_index": 12,
+        "text": "TRTR/000000404110/12-12-2018 07:43:27/BWY",
+        "merged": false,
+        "components": [
+          12
+        ],
+        "box": [
+          829,
+          369,
+          1756,
+          409
+        ]
+      },
+      {
+        "cell_index": 13,
+        "text": "8,280.00",
+        "merged": false,
+        "components": [
+          13
+        ],
+        "box": [
+          2094,
+          366,
+          2269,
+          411
+        ]
+      },
+      {
+        "cell_index": 14,
+        "text": "92,004.00",
+        "merged": false,
+        "components": [
+          14
+        ],
+        "box": [
+          2982,
+          367,
+          3182,
+          412
+        ]
+      },
+      {
+        "cell_index": 15,
+        "text": "11/12/2018",
+        "merged": false,
+        "components": [
+          15
+        ],
+        "box": [
+          198,
+          442,
+          415,
+          483
+        ]
+      },
+      {
+        "cell_index": 16,
+        "text": "11/12/2018",
+        "merged": false,
+        "components": [
+          16
+        ],
+        "box": [
+          502,
+          443,
+          718,
+          481
+        ]
+      },
+      {
+        "cell_index": 17,
+        "text": "TRTR/000000404069/11-12-2018 07:50:06/BWY",
+        "merged": false,
+        "components": [
+          17
+        ],
+        "box": [
+          830,
+          442,
+          1756,
+          482
+        ]
+      },
+      {
+        "cell_index": 18,
+        "text": "11,040.00",
+        "merged": false,
+        "components": [
+          18
+        ],
+        "box": [
+          2076,
+          443,
+          2267,
+          481
+        ]
+      },
+      {
+        "cell_index": 19,
+        "text": "1,00,284.00",
+        "merged": false,
+        "components": [
+          19
+        ],
+        "box": [
+          2953,
+          442,
+          3180,
+          484
+        ]
+      },
+      {
+        "cell_index": 20,
+        "text": "11/12/2018",
+        "merged": false,
+        "components": [
+          20
+        ],
+        "box": [
+          198,
+          515,
+          415,
+          556
+        ]
+      },
+      {
+        "cell_index": 21,
+        "text": "11/12/2018",
+        "merged": false,
+        "components": [
+          21
+        ],
+        "box": [
+          501,
+          515,
+          716,
+          553
+        ]
+      },
+      {
+        "cell_index": 22,
+        "text": "TRTR/000000404073/11-12-2018 07:50:06/BWY",
+        "merged": false,
+        "components": [
+          22
+        ],
+        "box": [
+          828,
+          514,
+          1756,
+          556
+        ]
+      },
+      {
+        "cell_index": 23,
+        "text": "8,280.00",
+        "merged": false,
+        "components": [
+          23
+        ],
+        "box": [
+          2094,
+          512,
+          2267,
+          556
+        ]
+      },
+      {
+        "cell_index": 24,
+        "text": "1,11,324.00",
+        "merged": false,
+        "components": [
+          24
+        ],
+        "box": [
+          2953,
+          513,
+          3179,
+          557
+        ]
+      },
+      {
+        "cell_index": 25,
+        "text": "11/12/2018",
+        "merged": false,
+        "components": [
+          25
+        ],
+        "box": [
+          198,
+          587,
+          415,
+          628
+        ]
+      },
+      {
+        "cell_index": 26,
+        "text": "11/12/2018",
+        "merged": false,
+        "components": [
+          26
+        ],
+        "box": [
+          501,
+          588,
+          719,
+          629
+        ]
+      },
+      {
+        "cell_index": 27,
+        "text": "TRTR/000000404070/11-12-2018 07:50:06/BWY",
+        "merged": false,
+        "components": [
+          27
+        ],
+        "box": [
+          829,
+          588,
+          1756,
+          628
+        ]
+      },
+      {
+        "cell_index": 28,
+        "text": "12,168.00",
+        "merged": false,
+        "components": [
+          28
+        ],
+        "box": [
+          2074,
+          587,
+          2268,
+          629
+        ]
+      },
+      {
+        "cell_index": 29,
+        "text": "1,19,604.00",
+        "merged": false,
+        "components": [
+          29
+        ],
+        "box": [
+          2953,
+          588,
+          3179,
+          630
+        ]
+      },
+      {
+        "cell_index": 30,
+        "text": "11/12/2018",
+        "merged": false,
+        "components": [
+          30
+        ],
+        "box": [
+          198,
+          660,
+          415,
+          702
+        ]
+      },
+      {
+        "cell_index": 31,
+        "text": "11/12/2018",
+        "merged": false,
+        "components": [
+          31
+        ],
+        "box": [
+          501,
+          660,
+          719,
+          702
+        ]
+      },
+      {
+        "cell_index": 32,
+        "text": "TRTR/000000404072/11-12-2018 07:50:06/BWY",
+        "merged": false,
+        "components": [
+          32
+        ],
+        "box": [
+          826,
+          658,
+          1758,
+          703
+        ]
+      },
+      {
+        "cell_index": 33,
+        "text": "7,590.00",
+        "merged": false,
+        "components": [
+          33
+        ],
+        "box": [
+          2093,
+          657,
+          2268,
+          705
+        ]
+      },
+      {
+        "cell_index": 34,
+        "text": "1,31,772.00",
+        "merged": false,
+        "components": [
+          34
+        ],
+        "box": [
+          2951,
+          657,
+          3181,
+          705
+        ]
+      },
+      {
+        "cell_index": 35,
+        "text": "11/12/2018",
+        "merged": false,
+        "components": [
+          35
+        ],
+        "box": [
+          198,
+          734,
+          415,
+          775
+        ]
+      },
+      {
+        "cell_index": 36,
+        "text": "11/12/2018",
+        "merged": false,
+        "components": [
+          36
+        ],
+        "box": [
+          501,
+          733,
+          719,
+          775
+        ]
+      },
+      {
+        "cell_index": 37,
+        "text": "TRTR/000000404071/11-12-2018 07:50:06/BWY",
+        "merged": false,
+        "components": [
+          37
+        ],
+        "box": [
+          827,
+          733,
+          1758,
+          776
+        ]
+      },
+      {
+        "cell_index": 38,
+        "text": "10,608.00",
+        "merged": false,
+        "components": [
+          38
+        ],
+        "box": [
+          2073,
+          730,
+          2269,
+          778
+        ]
+      },
+      {
+        "cell_index": 39,
+        "text": "1,39,362.00",
+        "merged": false,
+        "components": [
+          39
+        ],
+        "box": [
+          2951,
+          730,
+          3180,
+          778
+        ]
+      },
+      {
+        "cell_index": 40,
+        "text": "11/12/2018",
+        "merged": false,
+        "components": [
+          40
+        ],
+        "box": [
+          198,
+          807,
+          415,
+          848
+        ]
+      },
+      {
+        "cell_index": 41,
+        "text": "11/12/2018",
+        "merged": false,
+        "components": [
+          41
+        ],
+        "box": [
+          501,
+          807,
+          718,
+          848
+        ]
+      },
+      {
+        "cell_index": 42,
+        "text": "TRTR/000000404074/11-12-2018 07:50:06/BWY",
+        "merged": false,
+        "components": [
+          42
+        ],
+        "box": [
+          827,
+          804,
+          1759,
+          850
+        ]
+      },
+      {
+        "cell_index": 43,
+        "text": "8,556.00",
+        "merged": false,
+        "components": [
+          43
+        ],
+        "box": [
+          2093,
+          803,
+          2268,
+          852
+        ]
+      },
+      {
+        "cell_index": 44,
+        "text": "1,49,970.00",
+        "merged": false,
+        "components": [
+          44
+        ],
+        "box": [
+          2952,
+          805,
+          3180,
+          850
+        ]
+      },
+      {
+        "cell_index": 45,
+        "text": "11/12/2018",
+        "merged": false,
+        "components": [
+          45
+        ],
+        "box": [
+          198,
+          879,
+          415,
+          921
+        ]
+      },
+      {
+        "cell_index": 46,
+        "text": "11/12/2018",
+        "merged": false,
+        "components": [
+          46
+        ],
+        "box": [
+          500,
+          879,
+          717,
+          920
+        ]
+      },
+      {
+        "cell_index": 47,
+        "text": "BC/CLEARWATER P SOL L",
+        "merged": false,
+        "components": [
+          47
+        ],
+        "box": [
+          1022,
+          880,
+          1564,
+          921
+        ]
+      },
+      {
+        "cell_index": 48,
+        "text": "12,960.00",
+        "merged": false,
+        "components": [
+          48
+        ],
+        "box": [
+          2529,
+          877,
+          2727,
+          923
+        ]
+      },
+      {
+        "cell_index": 49,
+        "text": "1,58,526.00",
+        "merged": false,
+        "components": [
+          49
+        ],
+        "box": [
+          2952,
+          878,
+          3181,
+          923
+        ]
+      },
+      {
+        "cell_index": 50,
+        "text": "10/12/2018",
+        "merged": false,
+        "components": [
+          51
+        ],
+        "box": [
+          198,
+          978,
+          415,
+          1019
+        ]
+      },
+      {
+        "cell_index": 51,
+        "text": "10/12/2018",
+        "merged": false,
+        "components": [
+          52
+        ],
+        "box": [
+          501,
+          978,
+          718,
+          1019
+        ]
+      },
+      {
+        "cell_index": 52,
+        "text": "CHARGES FOR IBS FP DT 07.12.18 REF IBSC 404039",
+        "merged": true,
+        "components": [
+          50,
+          55
+        ],
+        "box": [
+          833,
+          949,
+          1753,
+          1044
+        ]
+      },
+      {
+        "cell_index": 53,
+        "text": "10.00",
+        "merged": false,
+        "components": [
+          53
+        ],
+        "box": [
+          2155,
+          978,
+          2267,
+          1017
+        ]
+      },
+      {
+        "cell_index": 54,
+        "text": "1,45,566.00",
+        "merged": false,
+        "components": [
+          54
+        ],
+        "box": [
+          2952,
+          976,
+          3181,
+          1021
+        ]
+      },
+      {
+        "cell_index": 55,
+        "text": "10/12/2018",
+        "merged": false,
+        "components": [
+          56
+        ],
+        "box": [
+          198,
+          1075,
+          415,
+          1116
+        ]
+      },
+      {
+        "cell_index": 56,
+        "text": "10/12/2018",
+        "merged": false,
+        "components": [
+          57
+        ],
+        "box": [
+          502,
+          1075,
+          718,
+          1116
+        ]
+      },
+      {
+        "cell_index": 57,
+        "text": "FP/Tecpoint LTD",
+        "merged": false,
+        "components": [
+          58
+        ],
+        "box": [
+          1129,
+          1074,
+          1457,
+          1119
+        ]
+      },
+      {
+        "cell_index": 58,
+        "text": "13,327.36",
+        "merged": false,
+        "components": [
+          59
+        ],
+        "box": [
+          2530,
+          1072,
+          2726,
+          1118
+        ]
+      },
+      {
+        "cell_index": 59,
+        "text": "1,45,576.00",
+        "merged": false,
+        "components": [
+          60
+        ],
+        "box": [
+          2951,
+          1071,
+          3180,
+          1119
+        ]
+      },
+      {
+        "cell_index": 60,
+        "text": "07/12/2018",
+        "merged": false,
+        "components": [
+          61
+        ],
+        "box": [
+          197,
+          1149,
+          414,
+          1187
+        ]
+      },
+      {
+        "cell_index": 61,
+        "text": "07/12/2018",
+        "merged": false,
+        "components": [
+          62
+        ],
+        "box": [
+          500,
+          1149,
+          717,
+          1187
+        ]
+      },
+      {
+        "cell_index": 62,
+        "text": "ADVISE CONSULTANT LTD",
+        "merged": false,
+        "components": [
+          63
+        ],
+        "box": [
+          1015,
+          1146,
+          1569,
+          1190
+        ]
+      },
+      {
+        "cell_index": 63,
+        "text": "3,530.70",
+        "merged": false,
+        "components": [
+          64
+        ],
+        "box": [
+          2095,
+          1147,
+          2268,
+          1189
+        ]
+      },
+      {
+        "cell_index": 64,
+        "text": "1,32,248.64",
+        "merged": false,
+        "components": [
+          65
+        ],
+        "box": [
+          2951,
+          1144,
+          3180,
+          1192
+        ]
+      },
+      {
+        "cell_index": 65,
+        "text": "07/12/2018",
+        "merged": false,
+        "components": [
+          66
+        ],
+        "box": [
+          197,
+          1222,
+          413,
+          1260
+        ]
+      },
+      {
+        "cell_index": 66,
+        "text": "07/12/2018",
+        "merged": false,
+        "components": [
+          67
+        ],
+        "box": [
+          500,
+          1222,
+          717,
+          1260
+        ]
+      },
+      {
+        "cell_index": 67,
+        "text": "ADVISE CONSULTANT LTD",
+        "merged": false,
+        "components": [
+          68
+        ],
+        "box": [
+          1016,
+          1219,
+          1569,
+          1263
+        ]
+      },
+      {
+        "cell_index": 68,
+        "text": "3,535.62",
+        "merged": false,
+        "components": [
+          69
+        ],
+        "box": [
+          2094,
+          1218,
+          2267,
+          1263
+        ]
+      },
+      {
+        "cell_index": 69,
+        "text": "1,35,779.34",
+        "merged": false,
+        "components": [
+          70
+        ],
+        "box": [
+          2951,
+          1218,
+          3180,
+          1265
+        ]
+      },
+      {
+        "cell_index": 70,
+        "text": "07/12/2018",
+        "merged": false,
+        "components": [
+          71
+        ],
+        "box": [
+          196,
+          1295,
+          414,
+          1333
+        ]
+      },
+      {
+        "cell_index": 71,
+        "text": "07/12/2018",
+        "merged": false,
+        "components": [
+          72
+        ],
+        "box": [
+          500,
+          1295,
+          717,
+          1333
+        ]
+      },
+      {
+        "cell_index": 72,
+        "text": "ADVISE CONSULTANT LTD",
+        "merged": false,
+        "components": [
+          73
+        ],
+        "box": [
+          1016,
+          1293,
+          1568,
+          1334
+        ]
+      },
+      {
+        "cell_index": 73,
+        "text": "2,869.20",
+        "merged": false,
+        "components": [
+          74
+        ],
+        "box": [
+          2094,
+          1291,
+          2268,
+          1335
+        ]
+      },
+      {
+        "cell_index": 74,
+        "text": "1,39,314.96",
+        "merged": false,
+        "components": [
+          75
+        ],
+        "box": [
+          2951,
+          1290,
+          3180,
+          1338
+        ]
+      },
+      {
+        "cell_index": 75,
+        "text": "07/12/2018",
+        "merged": false,
+        "components": [
+          76
+        ],
+        "box": [
+          196,
+          1368,
+          414,
+          1406
+        ]
+      },
+      {
+        "cell_index": 76,
+        "text": "07/12/2018",
+        "merged": false,
+        "components": [
+          77
+        ],
+        "box": [
+          500,
+          1368,
+          717,
+          1406
+        ]
+      },
+      {
+        "cell_index": 77,
+        "text": "FP/Rent/000000404039",
+        "merged": false,
+        "components": [
+          78
+        ],
+        "box": [
+          1064,
+          1362,
+          1522,
+          1409
+        ]
+      },
+      {
+        "cell_index": 78,
+        "text": "3,000.00",
+        "merged": false,
+        "components": [
+          79
+        ],
+        "box": [
+          2097,
+          1368,
+          2266,
+          1406
+        ]
+      },
+      {
+        "cell_index": 79,
+        "text": "1,42,184.16",
+        "merged": false,
+        "components": [
+          80
+        ],
+        "box": [
+          2952,
+          1365,
+          3179,
+          1409
+        ]
+      },
+      {
+        "cell_index": 80,
+        "text": "07/12/2018",
+        "merged": false,
+        "components": [
+          82
+        ],
+        "box": [
+          195,
+          1464,
+          415,
+          1505
+        ]
+      },
+      {
+        "cell_index": 81,
+        "text": "07/12/2018",
+        "merged": false,
+        "components": [
+          83
+        ],
+        "box": [
+          500,
+          1465,
+          717,
+          1503
+        ]
+      },
+      {
+        "cell_index": 82,
+        "text": "CHARGES FOR IBS FP DT 06.12.18 REF IBSC404021",
+        "merged": true,
+        "components": [
+          81,
+          86
+        ],
+        "box": [
+          893,
+          1439,
+          1694,
+          1530
+        ]
+      },
+      {
+        "cell_index": 83,
+        "text": "10.00",
+        "merged": false,
+        "components": [
+          84
+        ],
+        "box": [
+          2157,
+          1464,
+          2267,
+          1504
+        ]
+      },
+      {
+        "cell_index": 84,
+        "text": "1,45,184.16",
+        "merged": false,
+        "components": [
+          85
+        ],
+        "box": [
+          2951,
+          1463,
+          3181,
+          1508
+        ]
+      },
+      {
+        "cell_index": 85,
+        "text": "07/12/2018",
+        "merged": false,
+        "components": [
+          87
+        ],
+        "box": [
+          195,
+          1561,
+          415,
+          1603
+        ]
+      },
+      {
+        "cell_index": 86,
+        "text": "07/12/2018",
+        "merged": false,
+        "components": [
+          88
+        ],
+        "box": [
+          500,
+          1563,
+          717,
+          1601
+        ]
+      },
+      {
+        "cell_index": 87,
+        "text": "TRTR/000000404019/07-12-2018 07:51:55/BWY",
+        "merged": false,
+        "components": [
+          89
+        ],
+        "box": [
+          826,
+          1557,
+          1759,
+          1605
+        ]
+      },
+      {
+        "cell_index": 88,
+        "text": "950.11",
+        "merged": false,
+        "components": [
+          90
+        ],
+        "box": [
+          2129,
+          1560,
+          2265,
+          1602
+        ]
+      },
+      {
+        "cell_index": 89,
+        "text": "1,45,194.16",
+        "merged": false,
+        "components": [
+          91
+        ],
+        "box": [
+          2950,
+          1559,
+          3181,
+          1607
+        ]
+      },
+      {
+        "cell_index": 90,
+        "text": "07/12/2018",
+        "merged": false,
+        "components": [
+          92
+        ],
+        "box": [
+          197,
+          1636,
+          413,
+          1674
+        ]
+      },
+      {
+        "cell_index": 91,
+        "text": "07/12/2018",
+        "merged": false,
+        "components": [
+          93
+        ],
+        "box": [
+          500,
+          1636,
+          716,
+          1674
+        ]
+      },
+      {
+        "cell_index": 92,
+        "text": "TRTR/000000404011/07-12-2018 07:51:54/BWY",
+        "merged": false,
+        "components": [
+          94
+        ],
+        "box": [
+          828,
+          1634,
+          1758,
+          1677
+        ]
+      },
+      {
+        "cell_index": 93,
+        "text": "2,000.00",
+        "merged": false,
+        "components": [
+          95
+        ],
+        "box": [
+          2095,
+          1632,
+          2267,
+          1676
+        ]
+      },
+      {
+        "cell_index": 94,
+        "text": "1,46,144.27",
+        "merged": false,
+        "components": [
+          96
+        ],
+        "box": [
+          2951,
+          1632,
+          3180,
+          1679
+        ]
+      },
+      {
+        "cell_index": 95,
+        "text": "07/12/2018",
+        "merged": false,
+        "components": [
+          97
+        ],
+        "box": [
+          195,
+          1708,
+          414,
+          1749
+        ]
+      },
+      {
+        "cell_index": 96,
+        "text": "07/12/2018",
+        "merged": false,
+        "components": [
+          98
+        ],
+        "box": [
+          500,
+          1709,
+          717,
+          1747
+        ]
+      },
+      {
+        "cell_index": 97,
+        "text": "TRTR/000000404020/07-12-2018 07:51:55/BWY",
+        "merged": false,
+        "components": [
+          99
+        ],
+        "box": [
+          829,
+          1708,
+          1756,
+          1748
+        ]
+      },
+      {
+        "cell_index": 98,
+        "text": "1,387.17",
+        "merged": false,
+        "components": [
+          100
+        ],
+        "box": [
+          2097,
+          1705,
+          2267,
+          1749
+        ]
+      },
+      {
+        "cell_index": 99,
+        "text": "1,48,144.27",
+        "merged": false,
+        "components": [
+          101
+        ],
+        "box": [
+          2951,
+          1704,
+          3179,
+          1752
+        ]
+      },
+      {
+        "cell_index": 100,
+        "text": "06/12/2018",
+        "merged": false,
+        "components": [
+          102
+        ],
+        "box": [
+          195,
+          1781,
+          415,
+          1822
+        ]
+      },
+      {
+        "cell_index": 101,
+        "text": "06/12/2018",
+        "merged": false,
+        "components": [
+          103
+        ],
+        "box": [
+          499,
+          1781,
+          718,
+          1822
+        ]
+      },
+      {
+        "cell_index": 102,
+        "text": "FP/Director Exp NVAT/000000404021",
+        "merged": false,
+        "components": [
+          104
+        ],
+        "box": [
+          931,
+          1780,
+          1654,
+          1824
+        ]
+      },
+      {
+        "cell_index": 103,
+        "text": "1,500.00",
+        "merged": false,
+        "components": [
+          105
+        ],
+        "box": [
+          2097,
+          1778,
+          2267,
+          1823
+        ]
+      },
+      {
+        "cell_index": 104,
+        "text": "1,49,531.44",
+        "merged": false,
+        "components": [
+          106
+        ],
+        "box": [
+          2953,
+          1781,
+          3179,
+          1823
+        ]
+      },
+      {
+        "cell_index": 105,
+        "text": "06/12/2018",
+        "merged": false,
+        "components": [
+          107
+        ],
+        "box": [
+          195,
+          1853,
+          414,
+          1894
+        ]
+      },
+      {
+        "cell_index": 106,
+        "text": "06/12/2018",
+        "merged": false,
+        "components": [
+          108
+        ],
+        "box": [
+          500,
+          1855,
+          717,
+          1893
+        ]
+      },
+      {
+        "cell_index": 107,
+        "text": "FP/TEC",
+        "merged": false,
+        "components": [
+          109
+        ],
+        "box": [
+          1215,
+          1852,
+          1371,
+          1895
+        ]
+      },
+      {
+        "cell_index": 108,
+        "text": "80,000.00",
+        "merged": false,
+        "components": [
+          110
+        ],
+        "box": [
+          2527,
+          1851,
+          2727,
+          1896
+        ]
+      },
+      {
+        "cell_index": 109,
+        "text": "1,51,031.44",
+        "merged": false,
+        "components": [
+          111
+        ],
+        "box": [
+          2953,
+          1852,
+          3179,
+          1896
+        ]
+      },
+      {
+        "cell_index": 110,
+        "text": "05/12/2018",
+        "merged": false,
+        "components": [
+          112
+        ],
+        "box": [
+          195,
+          1926,
+          414,
+          1968
+        ]
+      },
+      {
+        "cell_index": 111,
+        "text": "05/12/2018",
+        "merged": false,
+        "components": [
+          113
+        ],
+        "box": [
+          499,
+          1927,
+          717,
+          1968
+        ]
+      },
+      {
+        "cell_index": 112,
+        "text": "TRTR/000000403957/05-12-2018 07:44:07/BWY",
+        "merged": false,
+        "components": [
+          114
+        ],
+        "box": [
+          828,
+          1925,
+          1758,
+          1969
+        ]
+      },
+      {
+        "cell_index": 113,
+        "text": "5,154.00",
+        "merged": false,
+        "components": [
+          115
+        ],
+        "box": [
+          2095,
+          1925,
+          2267,
+          1969
+        ]
+      },
+      {
+        "cell_index": 114,
+        "text": "71,031.44",
+        "merged": false,
+        "components": [
+          116
+        ],
+        "box": [
+          2984,
+          1927,
+          3180,
+          1968
+        ]
+      },
+      {
+        "cell_index": 115,
+        "text": "05/12/2018",
+        "merged": false,
+        "components": [
+          117
+        ],
+        "box": [
+          195,
+          1999,
+          415,
+          2041
+        ]
+      },
+      {
+        "cell_index": 116,
+        "text": "05/12/2018",
+        "merged": false,
+        "components": [
+          118
+        ],
+        "box": [
+          499,
+          1999,
+          718,
+          2041
+        ]
+      },
+      {
+        "cell_index": 117,
+        "text": "TRTR/000000403956/05-12-2018 07:44:06/BWY",
+        "merged": false,
+        "components": [
+          119
+        ],
+        "box": [
+          826,
+          1997,
+          1758,
+          2042
+        ]
+      },
+      {
+        "cell_index": 118,
+        "text": "3,383.33",
+        "merged": false,
+        "components": [
+          120
+        ],
+        "box": [
+          2095,
+          1995,
+          2268,
+          2042
+        ]
+      },
+      {
+        "cell_index": 119,
+        "text": "76,185.44",
+        "merged": false,
+        "components": [
+          121
+        ],
+        "box": [
+          2982,
+          1996,
+          3181,
+          2043
+        ]
+      },
+      {
+        "cell_index": 120,
+        "text": "05/12/2018",
+        "merged": false,
+        "components": [
+          122
+        ],
+        "box": [
+          195,
+          2072,
+          415,
+          2114
+        ]
+      },
+      {
+        "cell_index": 121,
+        "text": "05/12/2018",
+        "merged": false,
+        "components": [
+          123
+        ],
+        "box": [
+          499,
+          2072,
+          718,
+          2114
+        ]
+      },
+      {
+        "cell_index": 122,
+        "text": "FP/BIZTEK RECRU",
+        "merged": false,
+        "components": [
+          124
+        ],
+        "box": [
+          1102,
+          2074,
+          1481,
+          2112
+        ]
+      },
+      {
+        "cell_index": 123,
+        "text": "7,920.00",
+        "merged": false,
+        "components": [
+          125
+        ],
+        "box": [
+          2550,
+          2071,
+          2726,
+          2116
+        ]
+      },
+      {
+        "cell_index": 124,
+        "text": "79,568.77",
+        "merged": false,
+        "components": [
+          126
+        ],
+        "box": [
+          2982,
+          2069,
+          3181,
+          2116
+        ]
+      },
+      {
+        "cell_index": 125,
+        "text": "04/12/2018",
+        "merged": false,
+        "components": [
+          127
+        ],
+        "box": [
+          195,
+          2145,
+          415,
+          2187
+        ]
+      },
+      {
+        "cell_index": 126,
+        "text": "04/12/2018",
+        "merged": false,
+        "components": [
+          128
+        ],
+        "box": [
+          499,
+          2145,
+          718,
+          2187
+        ]
+      },
+      {
+        "cell_index": 127,
+        "text": "CHARGES FOR IBS FP DT 30.11.18 REF 403762",
+        "merged": false,
+        "components": [
+          129
+        ],
+        "box": [
+          814,
+          2143,
+          1773,
+          2186
+        ]
+      },
+      {
+        "cell_index": 128,
+        "text": "10.00",
+        "merged": false,
+        "components": [
+          130
+        ],
+        "box": [
+          2157,
+          2145,
+          2267,
+          2185
+        ]
+      },
+      {
+        "cell_index": 129,
+        "text": "71,648.77",
+        "merged": false,
+        "components": [
+          131
+        ],
+        "box": [
+          2984,
+          2144,
+          3179,
+          2186
+        ]
+      },
+      {
+        "cell_index": 130,
+        "text": "03/12/2018",
+        "merged": false,
+        "components": [
+          132
+        ],
+        "box": [
+          194,
+          2216,
+          416,
+          2261
+        ]
+      },
+      {
+        "cell_index": 131,
+        "text": "01/12/2018",
+        "merged": false,
+        "components": [
+          133
+        ],
+        "box": [
+          498,
+          2218,
+          719,
+          2260
+        ]
+      },
+      {
+        "cell_index": 132,
+        "text": "LIQUID 11 LTD LOW",
+        "merged": true,
+        "components": [
+          134,
+          135
+        ],
+        "box": [
+          1012,
+          2216,
+          1578,
+          2263
+        ]
+      },
+      {
+        "cell_index": 133,
+        "text": "7.15",
+        "merged": false,
+        "components": [
+          136
+        ],
+        "box": [
+          2175,
+          2216,
+          2269,
+          2261
+        ]
+      },
+      {
+        "cell_index": 134,
+        "text": "71,658.77",
+        "merged": false,
+        "components": [
+          137
+        ],
+        "box": [
+          2983,
+          2217,
+          3178,
+          2259
+        ]
+      },
+      {
+        "cell_index": 135,
+        "text": "01/12/2018",
+        "merged": false,
+        "components": [
+          138
+        ],
+        "box": [
+          195,
+          2291,
+          415,
+          2333
+        ]
+      },
+      {
+        "cell_index": 136,
+        "text": "01/12/2018",
+        "merged": false,
+        "components": [
+          139
+        ],
+        "box": [
+          497,
+          2289,
+          718,
+          2333
+        ]
+      },
+      {
+        "cell_index": 137,
+        "text": "TRTR/000000403750/01-12-2018 07:46:43/BWY",
+        "merged": false,
+        "components": [
+          140
+        ],
+        "box": [
+          827,
+          2290,
+          1758,
+          2334
+        ]
+      },
+      {
+        "cell_index": 138,
+        "text": "3,388.33",
+        "merged": false,
+        "components": [
+          141
+        ],
+        "box": [
+          2097,
+          2292,
+          2266,
+          2331
+        ]
+      },
+      {
+        "cell_index": 139,
+        "text": "71,665.92",
+        "merged": false,
+        "components": [
+          142
+        ],
+        "box": [
+          2983,
+          2290,
+          3180,
+          2332
+        ]
+      },
+      {
+        "cell_index": 140,
+        "text": "01/12/2018",
+        "merged": false,
+        "components": [
+          143
+        ],
+        "box": [
+          195,
+          2364,
+          415,
+          2406
+        ]
+      },
+      {
+        "cell_index": 141,
+        "text": "01/12/2018",
+        "merged": false,
+        "components": [
+          144
+        ],
+        "box": [
+          497,
+          2362,
+          718,
+          2406
+        ]
+      },
+      {
+        "cell_index": 142,
+        "text": "TRTR/000000403749/01-12-2018 07:46:41/BWY",
+        "merged": false,
+        "components": [
+          145
+        ],
+        "box": [
+          827,
+          2364,
+          1758,
+          2407
+        ]
+      },
+      {
+        "cell_index": 143,
+        "text": "5,154.00",
+        "merged": false,
+        "components": [
+          146
+        ],
+        "box": [
+          2095,
+          2362,
+          2267,
+          2407
+        ]
+      },
+      {
+        "cell_index": 144,
+        "text": "75,054.25",
+        "merged": false,
+        "components": [
+          147
+        ],
+        "box": [
+          2982,
+          2361,
+          3181,
+          2408
+        ]
+      },
+      {
+        "cell_index": 145,
+        "text": "30/11/2018",
+        "merged": false,
+        "components": [
+          148
+        ],
+        "box": [
+          196,
+          2437,
+          414,
+          2479
+        ]
+      },
+      {
+        "cell_index": 146,
+        "text": "30/11/2018",
+        "merged": false,
+        "components": [
+          149
+        ],
+        "box": [
+          499,
+          2438,
+          718,
+          2479
+        ]
+      },
+      {
+        "cell_index": 147,
+        "text": "FP/Nov Salary/000000403762",
+        "merged": false,
+        "components": [
+          150
+        ],
+        "box": [
+          1006,
+          2435,
+          1582,
+          2482
+        ]
+      },
+      {
+        "cell_index": 148,
+        "text": "4,965.74",
+        "merged": false,
+        "components": [
+          151
+        ],
+        "box": [
+          2095,
+          2437,
+          2266,
+          2478
+        ]
+      },
+      {
+        "cell_index": 149,
+        "text": "80,208.25",
+        "merged": false,
+        "components": [
+          152
+        ],
+        "box": [
+          2984,
+          2438,
+          3180,
+          2479
+        ]
+      },
+      {
+        "cell_index": 150,
+        "text": "30/11/2018",
+        "merged": false,
+        "components": [
+          153
+        ],
+        "box": [
+          194,
+          2509,
+          415,
+          2552
+        ]
+      },
+      {
+        "cell_index": 151,
+        "text": "30/11/2018",
+        "merged": false,
+        "components": [
+          154
+        ],
+        "box": [
+          498,
+          2509,
+          718,
+          2552
+        ]
+      },
+      {
+        "cell_index": 152,
+        "text": "DD/NEST",
+        "merged": false,
+        "components": [
+          155
+        ],
+        "box": [
+          1196,
+          2507,
+          1392,
+          2552
+        ]
+      },
+      {
+        "cell_index": 153,
+        "text": "73.07",
+        "merged": false,
+        "components": [
+          156
+        ],
+        "box": [
+          2154,
+          2510,
+          2267,
+          2550
+        ]
+      },
+      {
+        "cell_index": 154,
+        "text": "85,173.99",
+        "merged": false,
+        "components": [
+          157
+        ],
+        "box": [
+          2982,
+          2507,
+          3180,
+          2554
+        ]
+      },
+      {
+        "cell_index": 155,
+        "text": "29/11/2018",
+        "merged": false,
+        "components": [
+          158
+        ],
+        "box": [
+          195,
+          2583,
+          414,
+          2625
+        ]
+      },
+      {
+        "cell_index": 156,
+        "text": "29/11/2018",
+        "merged": false,
+        "components": [
+          159
+        ],
+        "box": [
+          498,
+          2581,
+          718,
+          2625
+        ]
+      },
+      {
+        "cell_index": 157,
+        "text": "ADVISE CONSULTANT LTD",
+        "merged": false,
+        "components": [
+          160
+        ],
+        "box": [
+          1015,
+          2582,
+          1570,
+          2626
+        ]
+      },
+      {
+        "cell_index": 158,
+        "text": "2,887.20",
+        "merged": false,
+        "components": [
+          161
+        ],
+        "box": [
+          2095,
+          2583,
+          2267,
+          2625
+        ]
+      },
+      {
+        "cell_index": 159,
+        "text": "85,247.06",
+        "merged": false,
+        "components": [
+          162
+        ],
+        "box": [
+          2984,
+          2584,
+          3179,
+          2625
+        ]
+      },
+      {
+        "cell_index": 160,
+        "text": "29/11/2018",
+        "merged": false,
+        "components": [
+          163
+        ],
+        "box": [
+          195,
+          2656,
+          414,
+          2698
+        ]
+      },
+      {
+        "cell_index": 161,
+        "text": "29/11/2018",
+        "merged": false,
+        "components": [
+          164
+        ],
+        "box": [
+          498,
+          2654,
+          718,
+          2698
+        ]
+      },
+      {
+        "cell_index": 162,
+        "text": "ADVISE CONSULTANT LTD",
+        "merged": false,
+        "components": [
+          165
+        ],
+        "box": [
+          1015,
+          2654,
+          1569,
+          2700
+        ]
+      },
+      {
+        "cell_index": 163,
+        "text": "2,592.00",
+        "merged": false,
+        "components": [
+          166
+        ],
+        "box": [
+          2095,
+          2653,
+          2267,
+          2698
+        ]
+      },
+      {
+        "cell_index": 164,
+        "text": "88,134.26",
+        "merged": false,
+        "components": [
+          167
+        ],
+        "box": [
+          2984,
+          2656,
+          3180,
+          2698
+        ]
+      },
+      {
+        "cell_index": 165,
+        "text": "29/11/2018",
+        "merged": false,
+        "components": [
+          168
+        ],
+        "box": [
+          195,
+          2728,
+          415,
+          2770
+        ]
+      },
+      {
+        "cell_index": 166,
+        "text": "29/11/2018",
+        "merged": false,
+        "components": [
+          169
+        ],
+        "box": [
+          499,
+          2730,
+          718,
+          2771
+        ]
+      },
+      {
+        "cell_index": 167,
+        "text": "ADVISE CONSULTANT LTD",
+        "merged": false,
+        "components": [
+          170
+        ],
+        "box": [
+          1015,
+          2728,
+          1569,
+          2772
+        ]
+      },
+      {
+        "cell_index": 168,
+        "text": "3,859.20",
+        "merged": false,
+        "components": [
+          171
+        ],
+        "box": [
+          2094,
+          2727,
+          2268,
+          2772
+        ]
+      },
+      {
+        "cell_index": 169,
+        "text": "90,726.26",
+        "merged": false,
+        "components": [
+          172
+        ],
+        "box": [
+          2984,
+          2729,
+          3180,
+          2771
+        ]
+      },
+      {
+        "cell_index": 170,
+        "text": "29/11/2018",
+        "merged": false,
+        "components": [
+          173
+        ],
+        "box": [
+          195,
+          2801,
+          414,
+          2843
+        ]
+      },
+      {
+        "cell_index": 171,
+        "text": "29/11/2018",
+        "merged": false,
+        "components": [
+          174
+        ],
+        "box": [
+          498,
+          2802,
+          718,
+          2844
+        ]
+      },
+      {
+        "cell_index": 172,
+        "text": "ADVISE CONSULTANT LTD",
+        "merged": false,
+        "components": [
+          175
+        ],
+        "box": [
+          1016,
+          2803,
+          1568,
+          2844
+        ]
+      },
+      {
+        "cell_index": 173,
+        "text": "2,304.24",
+        "merged": false,
+        "components": [
+          176
+        ],
+        "box": [
+          2095,
+          2799,
+          2268,
+          2845
+        ]
+      },
+      {
+        "cell_index": 174,
+        "text": "94,585.46",
+        "merged": false,
+        "components": [
+          177
+        ],
+        "box": [
+          2983,
+          2801,
+          3182,
+          2846
+        ]
+      },
+      {
+        "cell_index": 175,
+        "text": "28/11/2018",
+        "merged": false,
+        "components": [
+          178
+        ],
+        "box": [
+          195,
+          2874,
+          415,
+          2916
+        ]
+      },
+      {
+        "cell_index": 176,
+        "text": "28/11/2018",
+        "merged": false,
+        "components": [
+          179
+        ],
+        "box": [
+          498,
+          2875,
+          718,
+          2917
+        ]
+      },
+      {
+        "cell_index": 177,
+        "text": "CHARGES FOR IBS FP DT 26.11.18 REF 403601",
+        "merged": false,
+        "components": [
+          180
+        ],
+        "box": [
+          814,
+          2874,
+          1770,
+          2917
+        ]
+      },
+      {
+        "cell_index": 178,
+        "text": "10.00",
+        "merged": false,
+        "components": [
+          181
+        ],
+        "box": [
+          2156,
+          2874,
+          2269,
+          2918
+        ]
+      },
+      {
+        "cell_index": 179,
+        "text": "96,889.70",
+        "merged": false,
+        "components": [
+          182
+        ],
+        "box": [
+          2981,
+          2870,
+          3182,
+          2921
+        ]
+      },
+      {
+        "cell_index": 180,
+        "text": "26/11/2018",
+        "merged": false,
+        "components": [
+          183
+        ],
+        "box": [
+          193,
+          2946,
+          417,
+          2993
+        ]
+      },
+      {
+        "cell_index": 181,
+        "text": "26/11/2018",
+        "merged": false,
+        "components": [
+          184
+        ],
+        "box": [
+          498,
+          2949,
+          718,
+          2991
+        ]
+      },
+      {
+        "cell_index": 182,
+        "text": "FP/Company Credit Card/000000403601",
+        "merged": false,
+        "components": [
+          185
+        ],
+        "box": [
+          904,
+          2946,
+          1681,
+          2993
+        ]
+      },
+      {
+        "cell_index": 183,
+        "text": "1,800.00",
+        "merged": false,
+        "components": [
+          186
+        ],
+        "box": [
+          2098,
+          2946,
+          2269,
+          2992
+        ]
+      },
+      {
+        "cell_index": 184,
+        "text": "96,899.70",
+        "merged": false,
+        "components": [
+          187
+        ],
+        "box": [
+          2982,
+          2945,
+          3181,
+          2993
+        ]
+      },
+      {
+        "cell_index": 185,
+        "text": "21/11/2018",
+        "merged": false,
+        "components": [
+          188
+        ],
+        "box": [
+          193,
+          3020,
+          416,
+          3065
+        ]
+      },
+      {
+        "cell_index": 186,
+        "text": "21/11/2018",
+        "merged": false,
+        "components": [
+          189
+        ],
+        "box": [
+          497,
+          3020,
+          719,
+          3062
+        ]
+      },
+      {
+        "cell_index": 187,
+        "text": "DD/H3G",
+        "merged": false,
+        "components": [
+          190
+        ],
+        "box": [
+          1208,
+          3020,
+          1378,
+          3065
+        ]
+      },
+      {
+        "cell_index": 188,
+        "text": "36.28",
+        "merged": false,
+        "components": [
+          191
+        ],
+        "box": [
+          2151,
+          3018,
+          2270,
+          3066
+        ]
+      },
+      {
+        "cell_index": 189,
+        "text": "98,699.70",
+        "merged": false,
+        "components": [
+          192
+        ],
+        "box": [
+          2980,
+          3016,
+          3183,
+          3068
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "cells": [
+      {
+        "cell_index": 0,
+        "text": "21/11/2018",
+        "merged": false,
+        "components": [
+          0
+        ],
+        "box": [
+          194,
+          222,
+          415,
+          263
+        ]
+      },
+      {
+        "cell_index": 1,
+        "text": "21/11/2018",
+        "merged": false,
+        "components": [
+          1
+        ],
+        "box": [
+          498,
+          223,
+          718,
+          264
+        ]
+      },
+      {
+        "cell_index": 2,
+        "text": "DD/H3G",
+        "merged": false,
+        "components": [
+          2
+        ],
+        "box": [
+          1208,
+          221,
+          1377,
+          266
+        ]
+      },
+      {
+        "cell_index": 3,
+        "text": "49.92",
+        "merged": false,
+        "components": [
+          3
+        ],
+        "box": [
+          2152,
+          219,
+          2271,
+          266
+        ]
+      },
+      {
+        "cell_index": 4,
+        "text": "98,735.98",
+        "merged": false,
+        "components": [
+          4
+        ],
+        "box": [
+          2983,
+          221,
+          3182,
+          266
+        ]
+      },
+      {
+        "cell_index": 5,
+        "text": "20/11/2018",
+        "merged": false,
+        "components": [
+          5
+        ],
+        "box": [
+          195,
+          296,
+          415,
+          337
+        ]
+      },
+      {
+        "cell_index": 6,
+        "text": "20/11/2018",
+        "merged": false,
+        "components": [
+          6
+        ],
+        "box": [
+          500,
+          296,
+          717,
+          334
+        ]
+      },
+      {
+        "cell_index": 7,
+        "text": "DD/HISCOX DD",
+        "merged": false,
+        "components": [
+          7
+        ],
+        "box": [
+          1137,
+          297,
+          1449,
+          338
+        ]
+      },
+      {
+        "cell_index": 8,
+        "text": "65.42",
+        "merged": false,
+        "components": [
+          8
+        ],
+        "box": [
+          2152,
+          294,
+          2269,
+          338
+        ]
+      },
+      {
+        "cell_index": 9,
+        "text": "98,785.90",
+        "merged": false,
+        "components": [
+          9
+        ],
+        "box": [
+          2983,
+          296,
+          3181,
+          338
+        ]
+      },
+      {
+        "cell_index": 10,
+        "text": "19/11/2018",
+        "merged": false,
+        "components": [
+          10
+        ],
+        "box": [
+          198,
+          369,
+          415,
+          410
+        ]
+      },
+      {
+        "cell_index": 11,
+        "text": "18/11/2018",
+        "merged": false,
+        "components": [
+          11
+        ],
+        "box": [
+          501,
+          369,
+          716,
+          407
+        ]
+      },
+      {
+        "cell_index": 12,
+        "text": "DUKES COURT TRAVEL 020",
+        "merged": true,
+        "components": [
+          12,
+          13
+        ],
+        "box": [
+          961,
+          365,
+          1632,
+          415
+        ]
+      },
+      {
+        "cell_index": 13,
+        "text": "645.00",
+        "merged": false,
+        "components": [
+          14
+        ],
+        "box": [
+          2129,
+          368,
+          2269,
+          411
+        ]
+      },
+      {
+        "cell_index": 14,
+        "text": "98,851.32",
+        "merged": false,
+        "components": [
+          15
+        ],
+        "box": [
+          2982,
+          367,
+          3182,
+          412
+        ]
+      },
+      {
+        "cell_index": 15,
+        "text": "16/11/2018",
+        "merged": false,
+        "components": [
+          16
+        ],
+        "box": [
+          197,
+          441,
+          415,
+          484
+        ]
+      },
+      {
+        "cell_index": 16,
+        "text": "16/11/2018",
+        "merged": false,
+        "components": [
+          17
+        ],
+        "box": [
+          503,
+          444,
+          717,
+          482
+        ]
+      },
+      {
+        "cell_index": 17,
+        "text": "ADVICE CONSULTANT LTD",
+        "merged": false,
+        "components": [
+          18
+        ],
+        "box": [
+          1016,
+          442,
+          1570,
+          483
+        ]
+      },
+      {
+        "cell_index": 18,
+        "text": "2,869.20",
+        "merged": false,
+        "components": [
+          19
+        ],
+        "box": [
+          2095,
+          440,
+          2269,
+          485
+        ]
+      },
+      {
+        "cell_index": 19,
+        "text": "99,496.32",
+        "merged": false,
+        "components": [
+          20
+        ],
+        "box": [
+          2984,
+          442,
+          3180,
+          484
+        ]
+      },
+      {
+        "cell_index": 20,
+        "text": "16/11/2018",
+        "merged": false,
+        "components": [
+          21
+        ],
+        "box": [
+          198,
+          515,
+          414,
+          556
+        ]
+      },
+      {
+        "cell_index": 21,
+        "text": "16/11/2018",
+        "merged": false,
+        "components": [
+          22
+        ],
+        "box": [
+          503,
+          516,
+          717,
+          554
+        ]
+      },
+      {
+        "cell_index": 22,
+        "text": "ADVICE CONSULTANT LTD",
+        "merged": false,
+        "components": [
+          23
+        ],
+        "box": [
+          1016,
+          515,
+          1570,
+          556
+        ]
+      },
+      {
+        "cell_index": 23,
+        "text": "3,859.20",
+        "merged": false,
+        "components": [
+          24
+        ],
+        "box": [
+          2095,
+          513,
+          2268,
+          557
+        ]
+      },
+      {
+        "cell_index": 24,
+        "text": "1,02,365.52",
+        "merged": false,
+        "components": [
+          25
+        ],
+        "box": [
+          2954,
+          515,
+          3179,
+          556
+        ]
+      },
+      {
+        "cell_index": 25,
+        "text": "16/11/2018",
+        "merged": false,
+        "components": [
+          26
+        ],
+        "box": [
+          198,
+          588,
+          415,
+          629
+        ]
+      },
+      {
+        "cell_index": 26,
+        "text": "16/11/2018",
+        "merged": false,
+        "components": [
+          27
+        ],
+        "box": [
+          502,
+          588,
+          717,
+          628
+        ]
+      },
+      {
+        "cell_index": 27,
+        "text": "FP/Virtusa UK Limited",
+        "merged": false,
+        "components": [
+          28
+        ],
+        "box": [
+          1081,
+          587,
+          1504,
+          630
+        ]
+      },
+      {
+        "cell_index": 28,
+        "text": "19,430.52",
+        "merged": false,
+        "components": [
+          29
+        ],
+        "box": [
+          2529,
+          586,
+          2727,
+          631
+        ]
+      },
+      {
+        "cell_index": 29,
+        "text": "1,06,224.72",
+        "merged": false,
+        "components": [
+          30
+        ],
+        "box": [
+          2953,
+          587,
+          3180,
+          630
+        ]
+      },
+      {
+        "cell_index": 30,
+        "text": "16/11/2018",
+        "merged": false,
+        "components": [
+          31
+        ],
+        "box": [
+          198,
+          660,
+          415,
+          701
+        ]
+      },
+      {
+        "cell_index": 31,
+        "text": "14/11/2018",
+        "merged": false,
+        "components": [
+          32
+        ],
+        "box": [
+          501,
+          661,
+          719,
+          702
+        ]
+      },
+      {
+        "cell_index": 32,
+        "text": "PAYPAL *HARIKRISHNA 353",
+        "merged": true,
+        "components": [
+          33,
+          34
+        ],
+        "box": [
+          965,
+          657,
+          1624,
+          707
+        ]
+      },
+      {
+        "cell_index": 33,
+        "text": "4.49",
+        "merged": false,
+        "components": [
+          35
+        ],
+        "box": [
+          2175,
+          659,
+          2269,
+          703
+        ]
+      },
+      {
+        "cell_index": 34,
+        "text": "86,794.20",
+        "merged": false,
+        "components": [
+          36
+        ],
+        "box": [
+          2983,
+          659,
+          3180,
+          703
+        ]
+      },
+      {
+        "cell_index": 35,
+        "text": "15/11/2018",
+        "merged": false,
+        "components": [
+          37
+        ],
+        "box": [
+          198,
+          733,
+          414,
+          774
+        ]
+      },
+      {
+        "cell_index": 36,
+        "text": "15/11/2018",
+        "merged": false,
+        "components": [
+          38
+        ],
+        "box": [
+          502,
+          734,
+          718,
+          775
+        ]
+      },
+      {
+        "cell_index": 37,
+        "text": "ADVICE CONSULTANT LTD",
+        "merged": false,
+        "components": [
+          39
+        ],
+        "box": [
+          1015,
+          734,
+          1569,
+          775
+        ]
+      },
+      {
+        "cell_index": 38,
+        "text": "2,343.30",
+        "merged": false,
+        "components": [
+          40
+        ],
+        "box": [
+          2095,
+          732,
+          2268,
+          777
+        ]
+      },
+      {
+        "cell_index": 39,
+        "text": "86,798.69",
+        "merged": false,
+        "components": [
+          41
+        ],
+        "box": [
+          2984,
+          734,
+          3179,
+          776
+        ]
+      },
+      {
+        "cell_index": 40,
+        "text": "15/11/2018",
+        "merged": false,
+        "components": [
+          42
+        ],
+        "box": [
+          198,
+          807,
+          414,
+          848
+        ]
+      },
+      {
+        "cell_index": 41,
+        "text": "15/11/2018",
+        "merged": false,
+        "components": [
+          43
+        ],
+        "box": [
+          502,
+          807,
+          718,
+          848
+        ]
+      },
+      {
+        "cell_index": 42,
+        "text": "ADVICE CONSULTANT LTD",
+        "merged": false,
+        "components": [
+          44
+        ],
+        "box": [
+          1015,
+          807,
+          1569,
+          848
+        ]
+      },
+      {
+        "cell_index": 43,
+        "text": "2,887.20",
+        "merged": false,
+        "components": [
+          45
+        ],
+        "box": [
+          2094,
+          805,
+          2268,
+          850
+        ]
+      },
+      {
+        "cell_index": 44,
+        "text": "89,141.99",
+        "merged": false,
+        "components": [
+          46
+        ],
+        "box": [
+          2983,
+          806,
+          3180,
+          850
+        ]
+      },
+      {
+        "cell_index": 45,
+        "text": "15/11/2018",
+        "merged": false,
+        "components": [
+          47
+        ],
+        "box": [
+          198,
+          879,
+          415,
+          921
+        ]
+      },
+      {
+        "cell_index": 46,
+        "text": "14/11/2018",
+        "merged": false,
+        "components": [
+          48
+        ],
+        "box": [
+          501,
+          879,
+          718,
+          920
+        ]
+      },
+      {
+        "cell_index": 47,
+        "text": "AMZN Mktp UK*M860T7TG4 800",
+        "merged": true,
+        "components": [
+          49,
+          50
+        ],
+        "box": [
+          949,
+          878,
+          1637,
+          925
+        ]
+      },
+      {
+        "cell_index": 48,
+        "text": "39.49",
+        "merged": false,
+        "components": [
+          51
+        ],
+        "box": [
+          2153,
+          878,
+          2268,
+          921
+        ]
+      },
+      {
+        "cell_index": 49,
+        "text": "92,029.19",
+        "merged": false,
+        "components": [
+          52
+        ],
+        "box": [
+          2982,
+          876,
+          3181,
+          923
+        ]
+      },
+      {
+        "cell_index": 50,
+        "text": "14/11/2018",
+        "merged": false,
+        "components": [
+          53
+        ],
+        "box": [
+          198,
+          953,
+          415,
+          994
+        ]
+      },
+      {
+        "cell_index": 51,
+        "text": "14/11/2018",
+        "merged": false,
+        "components": [
+          54
+        ],
+        "box": [
+          501,
+          953,
+          719,
+          994
+        ]
+      },
+      {
+        "cell_index": 52,
+        "text": "DD/VONAGE LIMITED",
+        "merged": false,
+        "components": [
+          55
+        ],
+        "box": [
+          1074,
+          953,
+          1512,
+          994
+        ]
+      },
+      {
+        "cell_index": 53,
+        "text": "22.61",
+        "merged": false,
+        "components": [
+          56
+        ],
+        "box": [
+          2153,
+          951,
+          2266,
+          994
+        ]
+      },
+      {
+        "cell_index": 54,
+        "text": "92,068.68",
+        "merged": false,
+        "components": [
+          57
+        ],
+        "box": [
+          2983,
+          953,
+          3180,
+          995
+        ]
+      },
+      {
+        "cell_index": 55,
+        "text": "13/11/2018",
+        "merged": false,
+        "components": [
+          58
+        ],
+        "box": [
+          198,
+          1025,
+          414,
+          1066
+        ]
+      },
+      {
+        "cell_index": 56,
+        "text": "13/11/2018",
+        "merged": false,
+        "components": [
+          59
+        ],
+        "box": [
+          502,
+          1026,
+          718,
+          1067
+        ]
+      },
+      {
+        "cell_index": 57,
+        "text": "BC/CLEARWATER P SOL L",
+        "merged": false,
+        "components": [
+          60
+        ],
+        "box": [
+          1023,
+          1026,
+          1564,
+          1067
+        ]
+      },
+      {
+        "cell_index": 58,
+        "text": "16,200.00",
+        "merged": false,
+        "components": [
+          61
+        ],
+        "box": [
+          2529,
+          1023,
+          2726,
+          1069
+        ]
+      },
+      {
+        "cell_index": 59,
+        "text": "92,091.29",
+        "merged": false,
+        "components": [
+          62
+        ],
+        "box": [
+          2984,
+          1026,
+          3180,
+          1067
+        ]
+      },
+      {
+        "cell_index": 60,
+        "text": "12/11/2018",
+        "merged": false,
+        "components": [
+          63
+        ],
+        "box": [
+          198,
+          1099,
+          415,
+          1140
+        ]
+      },
+      {
+        "cell_index": 61,
+        "text": "12/11/2018",
+        "merged": false,
+        "components": [
+          64
+        ],
+        "box": [
+          501,
+          1099,
+          718,
+          1140
+        ]
+      },
+      {
+        "cell_index": 62,
+        "text": "DD/H3G",
+        "merged": false,
+        "components": [
+          65
+        ],
+        "box": [
+          1209,
+          1097,
+          1378,
+          1142
+        ]
+      },
+      {
+        "cell_index": 63,
+        "text": "5.00",
+        "merged": false,
+        "components": [
+          66
+        ],
+        "box": [
+          2175,
+          1096,
+          2269,
+          1141
+        ]
+      },
+      {
+        "cell_index": 64,
+        "text": "75,891.29",
+        "merged": false,
+        "components": [
+          67
+        ],
+        "box": [
+          2984,
+          1099,
+          3180,
+          1140
+        ]
+      },
+      {
+        "cell_index": 65,
+        "text": "12/11/2018",
+        "merged": false,
+        "components": [
+          68
+        ],
+        "box": [
+          198,
+          1171,
+          415,
+          1213
+        ]
+      },
+      {
+        "cell_index": 66,
+        "text": "12/11/2018",
+        "merged": false,
+        "components": [
+          69
+        ],
+        "box": [
+          500,
+          1170,
+          717,
+          1212
+        ]
+      },
+      {
+        "cell_index": 67,
+        "text": "DD/VITALITY HEALTH",
+        "merged": false,
+        "components": [
+          70
+        ],
+        "box": [
+          1074,
+          1174,
+          1513,
+          1211
+        ]
+      },
+      {
+        "cell_index": 68,
+        "text": "150.98",
+        "merged": false,
+        "components": [
+          71
+        ],
+        "box": [
+          2133,
+          1172,
+          2268,
+          1211
+        ]
+      },
+      {
+        "cell_index": 69,
+        "text": "75,896.29",
+        "merged": false,
+        "components": [
+          72
+        ],
+        "box": [
+          2984,
+          1170,
+          3181,
+          1215
+        ]
+      },
+      {
+        "cell_index": 70,
+        "text": "12/11/2018",
+        "merged": false,
+        "components": [
+          73
+        ],
+        "box": [
+          198,
+          1245,
+          415,
+          1286
+        ]
+      },
+      {
+        "cell_index": 71,
+        "text": "12/11/2018",
+        "merged": false,
+        "components": [
+          74
+        ],
+        "box": [
+          501,
+          1245,
+          718,
+          1286
+        ]
+      },
+      {
+        "cell_index": 72,
+        "text": "TRTR/000000403218/12-11-2018 07:35:25/BWY",
+        "merged": false,
+        "components": [
+          75
+        ],
+        "box": [
+          827,
+          1243,
+          1758,
+          1286
+        ]
+      },
+      {
+        "cell_index": 73,
+        "text": "7,440.00",
+        "merged": false,
+        "components": [
+          76
+        ],
+        "box": [
+          2097,
+          1245,
+          2266,
+          1284
+        ]
+      },
+      {
+        "cell_index": 74,
+        "text": "76,047.27",
+        "merged": false,
+        "components": [
+          77
+        ],
+        "box": [
+          2984,
+          1245,
+          3179,
+          1287
+        ]
+      },
+      {
+        "cell_index": 75,
+        "text": "12/11/2018",
+        "merged": false,
+        "components": [
+          78
+        ],
+        "box": [
+          198,
+          1317,
+          415,
+          1358
+        ]
+      },
+      {
+        "cell_index": 76,
+        "text": "12/11/2018",
+        "merged": false,
+        "components": [
+          79
+        ],
+        "box": [
+          501,
+          1318,
+          718,
+          1359
+        ]
+      },
+      {
+        "cell_index": 77,
+        "text": "TRTR/000000403222/12-11-2018 07:35:26/BWY",
+        "merged": false,
+        "components": [
+          80
+        ],
+        "box": [
+          828,
+          1317,
+          1758,
+          1360
+        ]
+      },
+      {
+        "cell_index": 78,
+        "text": "20.00",
+        "merged": false,
+        "components": [
+          81
+        ],
+        "box": [
+          2153,
+          1316,
+          2269,
+          1360
+        ]
+      },
+      {
+        "cell_index": 79,
+        "text": "83,487.27",
+        "merged": false,
+        "components": [
+          82
+        ],
+        "box": [
+          2983,
+          1318,
+          3179,
+          1360
+        ]
+      },
+      {
+        "cell_index": 80,
+        "text": "12/11/2018",
+        "merged": false,
+        "components": [
+          83
+        ],
+        "box": [
+          198,
+          1391,
+          414,
+          1432
+        ]
+      },
+      {
+        "cell_index": 81,
+        "text": "12/11/2018",
+        "merged": false,
+        "components": [
+          84
+        ],
+        "box": [
+          503,
+          1392,
+          717,
+          1430
+        ]
+      },
+      {
+        "cell_index": 82,
+        "text": "TRTR/000000403219/12-11-2018 07:35:23/BWY",
+        "merged": false,
+        "components": [
+          85
+        ],
+        "box": [
+          828,
+          1388,
+          1758,
+          1433
+        ]
+      },
+      {
+        "cell_index": 83,
+        "text": "90.00",
+        "merged": false,
+        "components": [
+          86
+        ],
+        "box": [
+          2151,
+          1387,
+          2270,
+          1434
+        ]
+      },
+      {
+        "cell_index": 84,
+        "text": "83,507.27",
+        "merged": false,
+        "components": [
+          87
+        ],
+        "box": [
+          2982,
+          1387,
+          3180,
+          1434
+        ]
+      },
+      {
+        "cell_index": 85,
+        "text": "12/11/2018",
+        "merged": false,
+        "components": [
+          88
+        ],
+        "box": [
+          198,
+          1462,
+          415,
+          1504
+        ]
+      },
+      {
+        "cell_index": 86,
+        "text": "12/11/2018",
+        "merged": false,
+        "components": [
+          89
+        ],
+        "box": [
+          502,
+          1463,
+          718,
+          1505
+        ]
+      },
+      {
+        "cell_index": 87,
+        "text": "TRTR/000000403221/12-11-2018 07:35:23/BWY",
+        "merged": false,
+        "components": [
+          90
+        ],
+        "box": [
+          828,
+          1462,
+          1758,
+          1506
+        ]
+      },
+      {
+        "cell_index": 88,
+        "text": "66.40",
+        "merged": false,
+        "components": [
+          91
+        ],
+        "box": [
+          2152,
+          1462,
+          2268,
+          1505
+        ]
+      },
+      {
+        "cell_index": 89,
+        "text": "83,597.27",
+        "merged": false,
+        "components": [
+          92
+        ],
+        "box": [
+          2983,
+          1462,
+          3180,
+          1507
+        ]
+      },
+      {
+        "cell_index": 90,
+        "text": "12/11/2018",
+        "merged": false,
+        "components": [
+          93
+        ],
+        "box": [
+          198,
+          1536,
+          414,
+          1578
+        ]
+      },
+      {
+        "cell_index": 91,
+        "text": "12/11/2018",
+        "merged": false,
+        "components": [
+          94
+        ],
+        "box": [
+          502,
+          1537,
+          718,
+          1578
+        ]
+      },
+      {
+        "cell_index": 92,
+        "text": "TRTR/000000403220/12-11-2018 07:35:23/BWY",
+        "merged": false,
+        "components": [
+          95
+        ],
+        "box": [
+          828,
+          1534,
+          1757,
+          1579
+        ]
+      },
+      {
+        "cell_index": 93,
+        "text": "3,388.33",
+        "merged": false,
+        "components": [
+          96
+        ],
+        "box": [
+          2094,
+          1534,
+          2268,
+          1578
+        ]
+      },
+      {
+        "cell_index": 94,
+        "text": "83,663.67",
+        "merged": false,
+        "components": [
+          97
+        ],
+        "box": [
+          2984,
+          1536,
+          3179,
+          1578
+        ]
+      },
+      {
+        "cell_index": 95,
+        "text": "09/11/2018",
+        "merged": false,
+        "components": [
+          98
+        ],
+        "box": [
+          196,
+          1610,
+          415,
+          1652
+        ]
+      },
+      {
+        "cell_index": 96,
+        "text": "08/11/2018",
+        "merged": false,
+        "components": [
+          99
+        ],
+        "box": [
+          499,
+          1610,
+          718,
+          1651
+        ]
+      },
+      {
+        "cell_index": 97,
+        "text": "GODADDY COM EUROPE 020",
+        "merged": true,
+        "components": [
+          100,
+          101
+        ],
+        "box": [
+          946,
+          1606,
+          1646,
+          1656
+        ]
+      },
+      {
+        "cell_index": 98,
+        "text": "69.94",
+        "merged": false,
+        "components": [
+          102
+        ],
+        "box": [
+          2154,
+          1610,
+          2267,
+          1649
+        ]
+      },
+      {
+        "cell_index": 99,
+        "text": "87,052.00",
+        "merged": false,
+        "components": [
+          103
+        ],
+        "box": [
+          2984,
+          1610,
+          3180,
+          1652
+        ]
+      },
+      {
+        "cell_index": 100,
+        "text": "09/11/2018",
+        "merged": false,
+        "components": [
+          104
+        ],
+        "box": [
+          195,
+          1683,
+          414,
+          1725
+        ]
+      },
+      {
+        "cell_index": 101,
+        "text": "09/11/2018",
+        "merged": false,
+        "components": [
+          105
+        ],
+        "box": [
+          499,
+          1683,
+          718,
+          1724
+        ]
+      },
+      {
+        "cell_index": 102,
+        "text": "FP/SONOVATE LTD",
+        "merged": false,
+        "components": [
+          106
+        ],
+        "box": [
+          1093,
+          1683,
+          1490,
+          1724
+        ]
+      },
+      {
+        "cell_index": 103,
+        "text": "16,050.00",
+        "merged": false,
+        "components": [
+          107
+        ],
+        "box": [
+          2527,
+          1679,
+          2727,
+          1728
+        ]
+      },
+      {
+        "cell_index": 104,
+        "text": "87,121.94",
+        "merged": false,
+        "components": [
+          108
+        ],
+        "box": [
+          2984,
+          1683,
+          3179,
+          1724
+        ]
+      },
+      {
+        "cell_index": 105,
+        "text": "09/11/2018",
+        "merged": false,
+        "components": [
+          109
+        ],
+        "box": [
+          195,
+          1756,
+          414,
+          1797
+        ]
+      },
+      {
+        "cell_index": 106,
+        "text": "09/11/2018",
+        "merged": false,
+        "components": [
+          110
+        ],
+        "box": [
+          499,
+          1756,
+          718,
+          1797
+        ]
+      },
+      {
+        "cell_index": 107,
+        "text": "TRTR/000000403167/09-11-2018 07:47:29/BWY",
+        "merged": false,
+        "components": [
+          111
+        ],
+        "box": [
+          828,
+          1754,
+          1758,
+          1798
+        ]
+      },
+      {
+        "cell_index": 108,
+        "text": "8,085.00",
+        "merged": false,
+        "components": [
+          112
+        ],
+        "box": [
+          2095,
+          1755,
+          2267,
+          1797
+        ]
+      },
+      {
+        "cell_index": 109,
+        "text": "71,071.94",
+        "merged": false,
+        "components": [
+          113
+        ],
+        "box": [
+          2984,
+          1756,
+          3178,
+          1797
+        ]
+      },
+      {
+        "cell_index": 110,
+        "text": "09/11/2018",
+        "merged": false,
+        "components": [
+          114
+        ],
+        "box": [
+          195,
+          1829,
+          414,
+          1870
+        ]
+      },
+      {
+        "cell_index": 111,
+        "text": "09/11/2018",
+        "merged": false,
+        "components": [
+          115
+        ],
+        "box": [
+          499,
+          1829,
+          718,
+          1870
+        ]
+      },
+      {
+        "cell_index": 112,
+        "text": "TRTR/000000403168/09-11-2018 07:47:29/BWY",
+        "merged": false,
+        "components": [
+          116
+        ],
+        "box": [
+          827,
+          1826,
+          1758,
+          1871
+        ]
+      },
+      {
+        "cell_index": 113,
+        "text": "7,448.00",
+        "merged": false,
+        "components": [
+          117
+        ],
+        "box": [
+          2094,
+          1827,
+          2267,
+          1871
+        ]
+      },
+      {
+        "cell_index": 114,
+        "text": "79,156.94",
+        "merged": false,
+        "components": [
+          118
+        ],
+        "box": [
+          2985,
+          1829,
+          3179,
+          1870
+        ]
+      },
+      {
+        "cell_index": 115,
+        "text": "09/11/2018",
+        "merged": false,
+        "components": [
+          119
+        ],
+        "box": [
+          195,
+          1902,
+          414,
+          1943
+        ]
+      },
+      {
+        "cell_index": 116,
+        "text": "09/11/2018",
+        "merged": false,
+        "components": [
+          120
+        ],
+        "box": [
+          499,
+          1902,
+          718,
+          1943
+        ]
+      },
+      {
+        "cell_index": 117,
+        "text": "TRTR/000000403169/09-11-2018 07:47:28/BWY",
+        "merged": false,
+        "components": [
+          121
+        ],
+        "box": [
+          828,
+          1901,
+          1758,
+          1945
+        ]
+      },
+      {
+        "cell_index": 118,
+        "text": "10,305.00",
+        "merged": false,
+        "components": [
+          122
+        ],
+        "box": [
+          2074,
+          1899,
+          2268,
+          1943
+        ]
+      },
+      {
+        "cell_index": 119,
+        "text": "86,604.94",
+        "merged": false,
+        "components": [
+          123
+        ],
+        "box": [
+          2983,
+          1900,
+          3179,
+          1944
+        ]
+      },
+      {
+        "cell_index": 120,
+        "text": "08/11/2018",
+        "merged": false,
+        "components": [
+          124
+        ],
+        "box": [
+          195,
+          1974,
+          414,
+          2016
+        ]
+      },
+      {
+        "cell_index": 121,
+        "text": "08/11/2018",
+        "merged": false,
+        "components": [
+          125
+        ],
+        "box": [
+          499,
+          1975,
+          718,
+          2016
+        ]
+      },
+      {
+        "cell_index": 122,
+        "text": "ADVICE CONSULTANT LTD",
+        "merged": false,
+        "components": [
+          126
+        ],
+        "box": [
+          1015,
+          1973,
+          1570,
+          2017
+        ]
+      },
+      {
+        "cell_index": 123,
+        "text": "2,592.00",
+        "merged": false,
+        "components": [
+          127
+        ],
+        "box": [
+          2094,
+          1973,
+          2267,
+          2017
+        ]
+      },
+      {
+        "cell_index": 124,
+        "text": "96,909.94",
+        "merged": false,
+        "components": [
+          128
+        ],
+        "box": [
+          2984,
+          1975,
+          3180,
+          2017
+        ]
+      },
+      {
+        "cell_index": 125,
+        "text": "08/11/2018",
+        "merged": false,
+        "components": [
+          129
+        ],
+        "box": [
+          195,
+          2047,
+          414,
+          2089
+        ]
+      },
+      {
+        "cell_index": 126,
+        "text": "08/11/2018",
+        "merged": false,
+        "components": [
+          130
+        ],
+        "box": [
+          499,
+          2048,
+          717,
+          2089
+        ]
+      },
+      {
+        "cell_index": 127,
+        "text": "ADVICE CONSULTANT LTD",
+        "merged": false,
+        "components": [
+          131
+        ],
+        "box": [
+          1016,
+          2047,
+          1569,
+          2088
+        ]
+      },
+      {
+        "cell_index": 128,
+        "text": "3,530.70",
+        "merged": false,
+        "components": [
+          132
+        ],
+        "box": [
+          2097,
+          2048,
+          2266,
+          2087
+        ]
+      },
+      {
+        "cell_index": 129,
+        "text": "99,501.94",
+        "merged": false,
+        "components": [
+          133
+        ],
+        "box": [
+          2982,
+          2044,
+          3180,
+          2091
+        ]
+      },
+      {
+        "cell_index": 130,
+        "text": "08/11/2018",
+        "merged": false,
+        "components": [
+          134
+        ],
+        "box": [
+          195,
+          2121,
+          415,
+          2163
+        ]
+      },
+      {
+        "cell_index": 131,
+        "text": "08/11/2018",
+        "merged": false,
+        "components": [
+          135
+        ],
+        "box": [
+          499,
+          2121,
+          718,
+          2162
+        ]
+      },
+      {
+        "cell_index": 132,
+        "text": "ADVICE CONSULTANT LTD",
+        "merged": false,
+        "components": [
+          136
+        ],
+        "box": [
+          1015,
+          2121,
+          1569,
+          2162
+        ]
+      },
+      {
+        "cell_index": 133,
+        "text": "2,343.30",
+        "merged": false,
+        "components": [
+          137
+        ],
+        "box": [
+          2096,
+          2120,
+          2266,
+          2161
+        ]
+      },
+      {
+        "cell_index": 134,
+        "text": "1,03,032.64",
+        "merged": false,
+        "components": [
+          138
+        ],
+        "box": [
+          2952,
+          2119,
+          3180,
+          2163
+        ]
+      },
+      {
+        "cell_index": 135,
+        "text": "08/11/2018",
+        "merged": false,
+        "components": [
+          139
+        ],
+        "box": [
+          193,
+          2190,
+          416,
+          2237
+        ]
+      },
+      {
+        "cell_index": 136,
+        "text": "08/11/2018",
+        "merged": false,
+        "components": [
+          140
+        ],
+        "box": [
+          499,
+          2193,
+          718,
+          2235
+        ]
+      },
+      {
+        "cell_index": 137,
+        "text": "CHARGES FOR IBS FP DTD 06.11.18/RF 403104",
+        "merged": false,
+        "components": [
+          141
+        ],
+        "box": [
+          813,
+          2192,
+          1774,
+          2236
+        ]
+      },
+      {
+        "cell_index": 138,
+        "text": "5.00",
+        "merged": false,
+        "components": [
+          142
+        ],
+        "box": [
+          2175,
+          2191,
+          2269,
+          2236
+        ]
+      },
+      {
+        "cell_index": 139,
+        "text": "1,05,375.94",
+        "merged": false,
+        "components": [
+          143
+        ],
+        "box": [
+          2951,
+          2190,
+          3180,
+          2238
+        ]
+      },
+      {
+        "cell_index": 140,
+        "text": "08/11/2018",
+        "merged": false,
+        "components": [
+          144
+        ],
+        "box": [
+          195,
+          2266,
+          415,
+          2307
+        ]
+      },
+      {
+        "cell_index": 141,
+        "text": "08/11/2018",
+        "merged": false,
+        "components": [
+          145
+        ],
+        "box": [
+          499,
+          2267,
+          718,
+          2308
+        ]
+      },
+      {
+        "cell_index": 142,
+        "text": "TRTR/000000403113/08-11-2018 07:35:04/BWY",
+        "merged": false,
+        "components": [
+          146
+        ],
+        "box": [
+          827,
+          2265,
+          1759,
+          2309
+        ]
+      },
+      {
+        "cell_index": 143,
+        "text": "9,600.00",
+        "merged": false,
+        "components": [
+          147
+        ],
+        "box": [
+          2095,
+          2266,
+          2268,
+          2308
+        ]
+      },
+      {
+        "cell_index": 144,
+        "text": "1,05,380.94",
+        "merged": false,
+        "components": [
+          148
+        ],
+        "box": [
+          2951,
+          2263,
+          3180,
+          2311
+        ]
+      },
+      {
+        "cell_index": 145,
+        "text": "08/11/2018",
+        "merged": false,
+        "components": [
+          149
+        ],
+        "box": [
+          196,
+          2340,
+          414,
+          2381
+        ]
+      },
+      {
+        "cell_index": 146,
+        "text": "08/11/2018",
+        "merged": false,
+        "components": [
+          150
+        ],
+        "box": [
+          499,
+          2340,
+          718,
+          2381
+        ]
+      },
+      {
+        "cell_index": 147,
+        "text": "TRTR/000000403114/08-11-2018 07:35:04/BWY",
+        "merged": false,
+        "components": [
+          151
+        ],
+        "box": [
+          827,
+          2337,
+          1758,
+          2382
+        ]
+      },
+      {
+        "cell_index": 148,
+        "text": "7,200.00",
+        "merged": false,
+        "components": [
+          152
+        ],
+        "box": [
+          2096,
+          2337,
+          2267,
+          2382
+        ]
+      },
+      {
+        "cell_index": 149,
+        "text": "1,14,980.94",
+        "merged": false,
+        "components": [
+          153
+        ],
+        "box": [
+          2952,
+          2336,
+          3179,
+          2384
+        ]
+      },
+      {
+        "cell_index": 150,
+        "text": "08/11/2018",
+        "merged": false,
+        "components": [
+          154
+        ],
+        "box": [
+          195,
+          2413,
+          415,
+          2454
+        ]
+      },
+      {
+        "cell_index": 151,
+        "text": "08/11/2018",
+        "merged": false,
+        "components": [
+          155
+        ],
+        "box": [
+          499,
+          2413,
+          718,
+          2454
+        ]
+      },
+      {
+        "cell_index": 152,
+        "text": "TRTR/000000403112/08-11-2018 07:35:04/BWY",
+        "merged": false,
+        "components": [
+          156
+        ],
+        "box": [
+          828,
+          2412,
+          1758,
+          2455
+        ]
+      },
+      {
+        "cell_index": 153,
+        "text": "8,568.00",
+        "merged": false,
+        "components": [
+          157
+        ],
+        "box": [
+          2095,
+          2412,
+          2267,
+          2454
+        ]
+      },
+      {
+        "cell_index": 154,
+        "text": "1,22,180.94",
+        "merged": false,
+        "components": [
+          158
+        ],
+        "box": [
+          2952,
+          2409,
+          3180,
+          2457
+        ]
+      },
+      {
+        "cell_index": 155,
+        "text": "08/11/2018",
+        "merged": false,
+        "components": [
+          159
+        ],
+        "box": [
+          194,
+          2484,
+          416,
+          2528
+        ]
+      },
+      {
+        "cell_index": 156,
+        "text": "08/11/2018",
+        "merged": false,
+        "components": [
+          160
+        ],
+        "box": [
+          499,
+          2486,
+          718,
+          2527
+        ]
+      },
+      {
+        "cell_index": 157,
+        "text": "TRTR/000000403110/08-11-2018 07:35:04/BWY",
+        "merged": false,
+        "components": [
+          161
+        ],
+        "box": [
+          826,
+          2483,
+          1759,
+          2528
+        ]
+      },
+      {
+        "cell_index": 158,
+        "text": "12,870.00",
+        "merged": false,
+        "components": [
+          162
+        ],
+        "box": [
+          2074,
+          2483,
+          2267,
+          2527
+        ]
+      },
+      {
+        "cell_index": 159,
+        "text": "1,30,748.94",
+        "merged": false,
+        "components": [
+          163
+        ],
+        "box": [
+          2952,
+          2482,
+          3180,
+          2530
+        ]
+      },
+      {
+        "cell_index": 160,
+        "text": "07/11/2018",
+        "merged": false,
+        "components": [
+          164
+        ],
+        "box": [
+          196,
+          2560,
+          413,
+          2598
+        ]
+      },
+      {
+        "cell_index": 161,
+        "text": "07/11/2018",
+        "merged": false,
+        "components": [
+          165
+        ],
+        "box": [
+          501,
+          2561,
+          716,
+          2596
+        ]
+      },
+      {
+        "cell_index": 162,
+        "text": "FP/TEC",
+        "merged": false,
+        "components": [
+          166
+        ],
+        "box": [
+          1215,
+          2558,
+          1371,
+          2600
+        ]
+      },
+      {
+        "cell_index": 163,
+        "text": "90,531.00",
+        "merged": false,
+        "components": [
+          167
+        ],
+        "box": [
+          2527,
+          2556,
+          2727,
+          2602
+        ]
+      },
+      {
+        "cell_index": 164,
+        "text": "1,43,618.94",
+        "merged": false,
+        "components": [
+          168
+        ],
+        "box": [
+          2953,
+          2556,
+          3179,
+          2602
+        ]
+      },
+      {
+        "cell_index": 165,
+        "text": "07/11/2018",
+        "merged": false,
+        "components": [
+          169
+        ],
+        "box": [
+          197,
+          2633,
+          414,
+          2671
+        ]
+      },
+      {
+        "cell_index": 166,
+        "text": "07/11/2018",
+        "merged": false,
+        "components": [
+          170
+        ],
+        "box": [
+          500,
+          2632,
+          717,
+          2670
+        ]
+      },
+      {
+        "cell_index": 167,
+        "text": "DD/NEST",
+        "merged": false,
+        "components": [
+          171
+        ],
+        "box": [
+          1198,
+          2632,
+          1391,
+          2674
+        ]
+      },
+      {
+        "cell_index": 168,
+        "text": "73.07",
+        "merged": false,
+        "components": [
+          172
+        ],
+        "box": [
+          2155,
+          2632,
+          2267,
+          2671
+        ]
+      },
+      {
+        "cell_index": 169,
+        "text": "53,087.94",
+        "merged": false,
+        "components": [
+          173
+        ],
+        "box": [
+          2983,
+          2630,
+          3180,
+          2674
+        ]
+      },
+      {
+        "cell_index": 170,
+        "text": "06/11/2018",
+        "merged": false,
+        "components": [
+          175
+        ],
+        "box": [
+          196,
+          2730,
+          414,
+          2771
+        ]
+      },
+      {
+        "cell_index": 171,
+        "text": "06/11/2018",
+        "merged": false,
+        "components": [
+          176
+        ],
+        "box": [
+          502,
+          2733,
+          716,
+          2768
+        ]
+      },
+      {
+        "cell_index": 172,
+        "text": "FP/Company Credit Card Payment/000000403104",
+        "merged": false,
+        "components": [
+          174
+        ],
+        "box": [
+          814,
+          2702,
+          1773,
+          2749
+        ]
+      },
+      {
+        "cell_index": 173,
+        "text": "960.00",
+        "merged": false,
+        "components": [
+          177
+        ],
+        "box": [
+          2129,
+          2729,
+          2268,
+          2771
+        ]
+      },
+      {
+        "cell_index": 174,
+        "text": "53,161.01",
+        "merged": false,
+        "components": [
+          178
+        ],
+        "box": [
+          2985,
+          2730,
+          3177,
+          2772
+        ]
+      },
+      {
+        "cell_index": 175,
+        "text": "06/11/2018",
+        "merged": false,
+        "components": [
+          179
+        ],
+        "box": [
+          196,
+          2827,
+          415,
+          2868
+        ]
+      },
+      {
+        "cell_index": 176,
+        "text": "05/11/2018",
+        "merged": false,
+        "components": [
+          180
+        ],
+        "box": [
+          500,
+          2828,
+          717,
+          2866
+        ]
+      },
+      {
+        "cell_index": 177,
+        "text": "DUKES COURT TRAVEL 020",
+        "merged": true,
+        "components": [
+          181,
+          182
+        ],
+        "box": [
+          960,
+          2823,
+          1632,
+          2873
+        ]
+      },
+      {
+        "cell_index": 178,
+        "text": "450.00",
+        "merged": false,
+        "components": [
+          183
+        ],
+        "box": [
+          2129,
+          2826,
+          2268,
+          2868
+        ]
+      },
+      {
+        "cell_index": 179,
+        "text": "54,121.01",
+        "merged": false,
+        "components": [
+          184
+        ],
+        "box": [
+          2983,
+          2825,
+          3179,
+          2870
+        ]
+      },
+      {
+        "cell_index": 180,
+        "text": "05/11/2018",
+        "merged": false,
+        "components": [
+          185
+        ],
+        "box": [
+          195,
+          2900,
+          414,
+          2941
+        ]
+      },
+      {
+        "cell_index": 181,
+        "text": "01/11/2018",
+        "merged": false,
+        "components": [
+          186
+        ],
+        "box": [
+          498,
+          2898,
+          718,
+          2941
+        ]
+      },
+      {
+        "cell_index": 182,
+        "text": "LIQUID 11 LTD LOW",
+        "merged": true,
+        "components": [
+          187,
+          188
+        ],
+        "box": [
+          1014,
+          2897,
+          1577,
+          2944
+        ]
+      },
+      {
+        "cell_index": 183,
+        "text": "7.15",
+        "merged": false,
+        "components": [
+          189
+        ],
+        "box": [
+          2176,
+          2898,
+          2269,
+          2943
+        ]
+      },
+      {
+        "cell_index": 184,
+        "text": "54,571.01",
+        "merged": false,
+        "components": [
+          190
+        ],
+        "box": [
+          2983,
+          2896,
+          3179,
+          2944
+        ]
+      },
+      {
+        "cell_index": 185,
+        "text": "02/11/2018",
+        "merged": false,
+        "components": [
+          191
+        ],
+        "box": [
+          195,
+          2973,
+          414,
+          3014
+        ]
+      },
+      {
+        "cell_index": 186,
+        "text": "02/11/2018",
+        "merged": false,
+        "components": [
+          192
+        ],
+        "box": [
+          499,
+          2972,
+          718,
+          3013
+        ]
+      },
+      {
+        "cell_index": 187,
+        "text": "FP/BIZTEK RECRU",
+        "merged": false,
+        "components": [
+          193
+        ],
+        "box": [
+          1101,
+          2973,
+          1482,
+          3014
+        ]
+      },
+      {
+        "cell_index": 188,
+        "text": "8,280.00",
+        "merged": false,
+        "components": [
+          194
+        ],
+        "box": [
+          2549,
+          2969,
+          2728,
+          3019
+        ]
+      },
+      {
+        "cell_index": 189,
+        "text": "54,578.16",
+        "merged": false,
+        "components": [
+          195
+        ],
+        "box": [
+          2983,
+          2972,
+          3181,
+          3017
+        ]
+      },
+      {
+        "cell_index": 190,
+        "text": "02/11/2018",
+        "merged": false,
+        "components": [
+          196
+        ],
+        "box": [
+          195,
+          3046,
+          415,
+          3088
+        ]
+      },
+      {
+        "cell_index": 191,
+        "text": "02/11/2018",
+        "merged": false,
+        "components": [
+          197
+        ],
+        "box": [
+          499,
+          3046,
+          718,
+          3087
+        ]
+      },
+      {
+        "cell_index": 192,
+        "text": "CHARGES FOR IBS FP DT 01.11.18 REF 402901",
+        "merged": false,
+        "components": [
+          198
+        ],
+        "box": [
+          813,
+          3045,
+          1770,
+          3089
+        ]
+      },
+      {
+        "cell_index": 193,
+        "text": "10.00",
+        "merged": false,
+        "components": [
+          199
+        ],
+        "box": [
+          2156,
+          3045,
+          2269,
+          3089
+        ]
+      },
+      {
+        "cell_index": 194,
+        "text": "46,298.16",
+        "merged": false,
+        "components": [
+          200
+        ],
+        "box": [
+          2982,
+          3044,
+          3181,
+          3090
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "cells": [
+      {
+        "cell_index": 0,
+        "text": "02/11/2018",
+        "merged": false,
+        "components": [
+          0
+        ],
+        "box": [
+          194,
+          222,
+          415,
+          264
+        ]
+      },
+      {
+        "cell_index": 1,
+        "text": "02/11/2018",
+        "merged": false,
+        "components": [
+          1
+        ],
+        "box": [
+          498,
+          222,
+          718,
+          264
+        ]
+      },
+      {
+        "cell_index": 2,
+        "text": "TRTR/000000402903/02-11-2018 07:47:18/BWY",
+        "merged": false,
+        "components": [
+          2
+        ],
+        "box": [
+          827,
+          221,
+          1758,
+          264
+        ]
+      },
+      {
+        "cell_index": 3,
+        "text": "949.91",
+        "merged": false,
+        "components": [
+          3
+        ],
+        "box": [
+          2128,
+          219,
+          2268,
+          266
+        ]
+      },
+      {
+        "cell_index": 4,
+        "text": "02/11/2018",
+        "merged": false,
+        "components": [
+          5
+        ],
+        "box": [
+          195,
+          296,
+          415,
+          338
+        ]
+      },
+      {
+        "cell_index": 5,
+        "text": "02/11/2018",
+        "merged": false,
+        "components": [
+          6
+        ],
+        "box": [
+          498,
+          296,
+          718,
+          337
+        ]
+      },
+      {
+        "cell_index": 6,
+        "text": "TRTR/000000402905/02-11-2018 07:47:18/BWY FP/Oct Salary/000000402901",
+        "merged": true,
+        "components": [
+          7,
+          12
+        ],
+        "box": [
+          828,
+          295,
+          1757,
+          414
+        ]
+      },
+      {
+        "cell_index": 7,
+        "text": "1,387.37 4,965.54",
+        "merged": true,
+        "components": [
+          8,
+          13
+        ],
+        "box": [
+          2092,
+          291,
+          2271,
+          415
+        ]
+      }
+    ]
+  }
+]

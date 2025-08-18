@@ -1,0 +1,3706 @@
+[
+  {
+    "page_number": 1,
+    "cells": [
+      {
+        "cell_index": 0,
+        "text": "DATE",
+        "merged": false,
+        "components": [
+          0
+        ],
+        "box": [
+          135,
+          1105,
+          202,
+          1134
+        ]
+      },
+      {
+        "cell_index": 1,
+        "text": "DESCRIPTION",
+        "merged": false,
+        "components": [
+          1
+        ],
+        "box": [
+          1299,
+          1109,
+          1450,
+          1129
+        ]
+      },
+      {
+        "cell_index": 2,
+        "text": "AMOUNT",
+        "merged": false,
+        "components": [
+          2
+        ],
+        "box": [
+          3061,
+          1107,
+          3163,
+          1131
+        ]
+      },
+      {
+        "cell_index": 3,
+        "text": "30 Oct Credit",
+        "merged": true,
+        "components": [
+          3,
+          7
+        ],
+        "box": [
+          136,
+          1192,
+          236,
+          1272
+        ]
+      },
+      {
+        "cell_index": 4,
+        "text": "ADYEN SIMONCARMIGGELSTRAAT 6-50 ADYEN HOUSE AMSTERDAM",
+        "merged": true,
+        "components": [
+          4,
+          8,
+          10,
+          11
+        ],
+        "box": [
+          525,
+          1192,
+          1019,
+          1362
+        ]
+      },
+      {
+        "cell_index": 5,
+        "text": "THEWATCHHUTREADING",
+        "merged": false,
+        "components": [
+          5
+        ],
+        "box": [
+          1299,
+          1195,
+          1692,
+          1222
+        ]
+      },
+      {
+        "cell_index": 6,
+        "text": "-£137.00",
+        "merged": false,
+        "components": [
+          6
+        ],
+        "box": [
+          3035,
+          1194,
+          3162,
+          1225
+        ]
+      },
+      {
+        "cell_index": 7,
+        "text": "Will appear on your 24 Nov 2020 statement as THEWATCHHUT READING",
+        "merged": false,
+        "components": [
+          9
+        ],
+        "box": [
+          1296,
+          1256,
+          2341,
+          1288
+        ]
+      },
+      {
+        "cell_index": 8,
+        "text": "CARD",
+        "merged": false,
+        "components": [
+          13
+        ],
+        "box": [
+          1296,
+          1393,
+          1365,
+          1418
+        ]
+      },
+      {
+        "cell_index": 9,
+        "text": "LALITH BHIRAJU",
+        "merged": false,
+        "components": [
+          14
+        ],
+        "box": [
+          1299,
+          1438,
+          1547,
+          1462
+        ]
+      },
+      {
+        "cell_index": 10,
+        "text": "30 Oct Credit",
+        "merged": true,
+        "components": [
+          15,
+          19
+        ],
+        "box": [
+          135,
+          1515,
+          238,
+          1598
+        ]
+      },
+      {
+        "cell_index": 11,
+        "text": "1000 EB ADYEN SIMONCARMIGGELSTRAAT6-50 ADYENHOUSE AMSTERDAM",
+        "merged": true,
+        "components": [
+          12,
+          16,
+          20,
+          22,
+          23
+        ],
+        "box": [
+          526,
+          1383,
+          1018,
+          1686
+        ]
+      },
+      {
+        "cell_index": 12,
+        "text": "THEWATCHHUTREADING",
+        "merged": false,
+        "components": [
+          17
+        ],
+        "box": [
+          1300,
+          1521,
+          1690,
+          1545
+        ]
+      },
+      {
+        "cell_index": 13,
+        "text": "-£99.00",
+        "merged": false,
+        "components": [
+          18
+        ],
+        "box": [
+          3050,
+          1516,
+          3164,
+          1552
+        ]
+      },
+      {
+        "cell_index": 14,
+        "text": "Will appear on your 24 Nov 2020 statement as THEWATCHHUT READING",
+        "merged": false,
+        "components": [
+          21
+        ],
+        "box": [
+          1297,
+          1582,
+          2341,
+          1612
+        ]
+      },
+      {
+        "cell_index": 15,
+        "text": "CARD LALITHBHIRAJU",
+        "merged": true,
+        "components": [
+          25,
+          26
+        ],
+        "box": [
+          1295,
+          1716,
+          1545,
+          1785
+        ]
+      },
+      {
+        "cell_index": 16,
+        "text": "30 Oct Credit",
+        "merged": true,
+        "components": [
+          27,
+          31
+        ],
+        "box": [
+          135,
+          1841,
+          238,
+          1922
+        ]
+      },
+      {
+        "cell_index": 17,
+        "text": "1000 EB ADYEN SIMONCARMIGGELSTRAAT6-50",
+        "merged": true,
+        "components": [
+          24,
+          28,
+          32
+        ],
+        "box": [
+          527,
+          1709,
+          1018,
+          1917
+        ]
+      },
+      {
+        "cell_index": 18,
+        "text": "THEWATCHHUTREADING",
+        "merged": false,
+        "components": [
+          29
+        ],
+        "box": [
+          1300,
+          1847,
+          1690,
+          1870
+        ]
+      },
+      {
+        "cell_index": 19,
+        "text": "-£95.00",
+        "merged": false,
+        "components": [
+          30
+        ],
+        "box": [
+          3048,
+          1839,
+          3164,
+          1878
+        ]
+      },
+      {
+        "cell_index": 20,
+        "text": "ADYEN HOUSE",
+        "merged": false,
+        "components": [
+          34
+        ],
+        "box": [
+          525,
+          1937,
+          755,
+          1966
+        ]
+      },
+      {
+        "cell_index": 21,
+        "text": "Will appear on your 24 Nov 2020 statement as THEWATCHHUT READING",
+        "merged": false,
+        "components": [
+          33
+        ],
+        "box": [
+          1296,
+          1906,
+          2342,
+          1937
+        ]
+      },
+      {
+        "cell_index": 22,
+        "text": "AMSTERDAM 1000 EB",
+        "merged": true,
+        "components": [
+          35,
+          36
+        ],
+        "box": [
+          525,
+          1986,
+          727,
+          2059
+        ]
+      },
+      {
+        "cell_index": 23,
+        "text": "CARD LALITHBHIRAJU",
+        "merged": true,
+        "components": [
+          37,
+          38
+        ],
+        "box": [
+          1297,
+          2044,
+          1545,
+          2110
+        ]
+      },
+      {
+        "cell_index": 24,
+        "text": "30 Oct Credit",
+        "merged": true,
+        "components": [
+          39,
+          43
+        ],
+        "box": [
+          134,
+          2166,
+          238,
+          2250
+        ]
+      },
+      {
+        "cell_index": 25,
+        "text": "ADYEN SIMONCARMIGGELSTRAAT 6-50",
+        "merged": true,
+        "components": [
+          40,
+          44
+        ],
+        "box": [
+          524,
+          2168,
+          1020,
+          2244
+        ]
+      },
+      {
+        "cell_index": 26,
+        "text": "THEWATCHHUTREADING",
+        "merged": false,
+        "components": [
+          41
+        ],
+        "box": [
+          1299,
+          2172,
+          1690,
+          2196
+        ]
+      },
+      {
+        "cell_index": 27,
+        "text": "-£91.00",
+        "merged": false,
+        "components": [
+          42
+        ],
+        "box": [
+          3050,
+          2166,
+          3164,
+          2202
+        ]
+      },
+      {
+        "cell_index": 28,
+        "text": "ADYEN HOUSE AMSTERDAM",
+        "merged": true,
+        "components": [
+          46,
+          47
+        ],
+        "box": [
+          526,
+          2264,
+          756,
+          2337
+        ]
+      },
+      {
+        "cell_index": 29,
+        "text": "Will appear on your 24 Nov 2020 statement as THEWATCHHUT READING",
+        "merged": false,
+        "components": [
+          45
+        ],
+        "box": [
+          1297,
+          2233,
+          2341,
+          2263
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "cells": [
+      {
+        "cell_index": 0,
+        "text": "DATE",
+        "merged": false,
+        "components": [
+          0
+        ],
+        "box": [
+          136,
+          147,
+          201,
+          173
+        ]
+      },
+      {
+        "cell_index": 1,
+        "text": "DESCRIPTION",
+        "merged": false,
+        "components": [
+          1
+        ],
+        "box": [
+          1298,
+          149,
+          1450,
+          169
+        ]
+      },
+      {
+        "cell_index": 2,
+        "text": "AMOUNT",
+        "merged": false,
+        "components": [
+          2
+        ],
+        "box": [
+          3060,
+          148,
+          3163,
+          172
+        ]
+      },
+      {
+        "cell_index": 3,
+        "text": "30 Oct Credit",
+        "merged": true,
+        "components": [
+          6,
+          10
+        ],
+        "box": [
+          135,
+          351,
+          238,
+          433
+        ]
+      },
+      {
+        "cell_index": 4,
+        "text": "1000 EB",
+        "merged": false,
+        "components": [
+          3
+        ],
+        "box": [
+          526,
+          214,
+          651,
+          246
+        ]
+      },
+      {
+        "cell_index": 5,
+        "text": "CARD LALITHBHIRAJU",
+        "merged": true,
+        "components": [
+          4,
+          5
+        ],
+        "box": [
+          1296,
+          227,
+          1545,
+          294
+        ]
+      },
+      {
+        "cell_index": 6,
+        "text": "-£90.00",
+        "merged": false,
+        "components": [
+          9
+        ],
+        "box": [
+          3049,
+          350,
+          3164,
+          388
+        ]
+      },
+      {
+        "cell_index": 7,
+        "text": "ADYEN SIMONCARMIGGELSTRAAT 6-50",
+        "merged": true,
+        "components": [
+          7,
+          11
+        ],
+        "box": [
+          525,
+          353,
+          1019,
+          429
+        ]
+      },
+      {
+        "cell_index": 8,
+        "text": "THEWATCHHUTREADING",
+        "merged": false,
+        "components": [
+          8
+        ],
+        "box": [
+          1300,
+          356,
+          1691,
+          380
+        ]
+      },
+      {
+        "cell_index": 9,
+        "text": "ADYEN HOUSE",
+        "merged": false,
+        "components": [
+          13
+        ],
+        "box": [
+          527,
+          450,
+          755,
+          477
+        ]
+      },
+      {
+        "cell_index": 10,
+        "text": "Will appear on your 24 Nov 2020 statement as THEWATCHHUT READING",
+        "merged": false,
+        "components": [
+          12
+        ],
+        "box": [
+          1296,
+          415,
+          2341,
+          446
+        ]
+      },
+      {
+        "cell_index": 11,
+        "text": "AMSTERDAM 1000 EB",
+        "merged": true,
+        "components": [
+          14,
+          15
+        ],
+        "box": [
+          527,
+          497,
+          727,
+          570
+        ]
+      },
+      {
+        "cell_index": 12,
+        "text": "CARD",
+        "merged": false,
+        "components": [
+          16
+        ],
+        "box": [
+          1295,
+          551,
+          1364,
+          579
+        ]
+      },
+      {
+        "cell_index": 13,
+        "text": "LALITHBHIRAJU",
+        "merged": false,
+        "components": [
+          17
+        ],
+        "box": [
+          1301,
+          597,
+          1546,
+          621
+        ]
+      },
+      {
+        "cell_index": 14,
+        "text": "30 Oct Credit",
+        "merged": true,
+        "components": [
+          18,
+          22
+        ],
+        "box": [
+          135,
+          676,
+          237,
+          759
+        ]
+      },
+      {
+        "cell_index": 15,
+        "text": "ADYEN SIMONCARMIGGELSTRAAT 6-50",
+        "merged": true,
+        "components": [
+          19,
+          23
+        ],
+        "box": [
+          526,
+          679,
+          1019,
+          754
+        ]
+      },
+      {
+        "cell_index": 16,
+        "text": "THEWATCHHUT READING Will appear on your 24 Nov 2020 statement as THEWATCHHUT READING",
+        "merged": true,
+        "components": [
+          20,
+          24
+        ],
+        "box": [
+          1297,
+          679,
+          2341,
+          771
+        ]
+      },
+      {
+        "cell_index": 17,
+        "text": "-£89.00",
+        "merged": false,
+        "components": [
+          21
+        ],
+        "box": [
+          3048,
+          674,
+          3164,
+          714
+        ]
+      },
+      {
+        "cell_index": 18,
+        "text": "ADYENHOUSE AMSTERDAM",
+        "merged": true,
+        "components": [
+          25,
+          26
+        ],
+        "box": [
+          525,
+          774,
+          754,
+          848
+        ]
+      },
+      {
+        "cell_index": 19,
+        "text": "1000 EB",
+        "merged": false,
+        "components": [
+          27
+        ],
+        "box": [
+          527,
+          867,
+          649,
+          895
+        ]
+      },
+      {
+        "cell_index": 20,
+        "text": "CARD LALITHBHIRAJU",
+        "merged": true,
+        "components": [
+          28,
+          29
+        ],
+        "box": [
+          1295,
+          877,
+          1545,
+          944
+        ]
+      },
+      {
+        "cell_index": 21,
+        "text": "ADYEN",
+        "merged": false,
+        "components": [
+          31
+        ],
+        "box": [
+          525,
+          1004,
+          639,
+          1035
+        ]
+      },
+      {
+        "cell_index": 22,
+        "text": "THEWATCHHUT READING",
+        "merged": false,
+        "components": [
+          32
+        ],
+        "box": [
+          1299,
+          1005,
+          1691,
+          1030
+        ]
+      },
+      {
+        "cell_index": 23,
+        "text": "-£26.00",
+        "merged": false,
+        "components": [
+          33
+        ],
+        "box": [
+          3047,
+          998,
+          3165,
+          1040
+        ]
+      },
+      {
+        "cell_index": 24,
+        "text": "30 Oct Credit",
+        "merged": true,
+        "components": [
+          30,
+          34
+        ],
+        "box": [
+          134,
+          1000,
+          239,
+          1084
+        ]
+      },
+      {
+        "cell_index": 25,
+        "text": "SIMONCARMIGGELSTRAAT 6-50 ADYEN HOUSE",
+        "merged": true,
+        "components": [
+          35,
+          37
+        ],
+        "box": [
+          526,
+          1053,
+          1019,
+          1126
+        ]
+      },
+      {
+        "cell_index": 26,
+        "text": "Will appear on your 24 Nov 2020 statement as THEWATCHHUT READING",
+        "merged": false,
+        "components": [
+          36
+        ],
+        "box": [
+          1297,
+          1066,
+          2340,
+          1095
+        ]
+      },
+      {
+        "cell_index": 27,
+        "text": "AMSTERDAM",
+        "merged": false,
+        "components": [
+          38
+        ],
+        "box": [
+          526,
+          1145,
+          728,
+          1172
+        ]
+      },
+      {
+        "cell_index": 28,
+        "text": "1000 EB",
+        "merged": false,
+        "components": [
+          39
+        ],
+        "box": [
+          527,
+          1192,
+          649,
+          1220
+        ]
+      },
+      {
+        "cell_index": 29,
+        "text": "CARD LALITH BHIRAJU",
+        "merged": true,
+        "components": [
+          40,
+          41
+        ],
+        "box": [
+          1296,
+          1203,
+          1547,
+          1270
+        ]
+      },
+      {
+        "cell_index": 30,
+        "text": "STARBUCKS0762126N",
+        "merged": false,
+        "components": [
+          43
+        ],
+        "box": [
+          528,
+          1332,
+          881,
+          1356
+        ]
+      },
+      {
+        "cell_index": 31,
+        "text": "STARBUCKS0762126NBEACONSFIELD",
+        "merged": false,
+        "components": [
+          44
+        ],
+        "box": [
+          1299,
+          1330,
+          1910,
+          1357
+        ]
+      },
+      {
+        "cell_index": 32,
+        "text": "£8.10",
+        "merged": false,
+        "components": [
+          45
+        ],
+        "box": [
+          3074,
+          1326,
+          3164,
+          1363
+        ]
+      },
+      {
+        "cell_index": 33,
+        "text": "26 Oct",
+        "merged": false,
+        "components": [
+          42
+        ],
+        "box": [
+          133,
+          1325,
+          237,
+          1361
+        ]
+      },
+      {
+        "cell_index": 34,
+        "text": "BEACONSFIELD STARBUCKS NORT M40JUNCTION 2",
+        "merged": true,
+        "components": [
+          46,
+          48
+        ],
+        "box": [
+          525,
+          1375,
+          1065,
+          1451
+        ]
+      },
+      {
+        "cell_index": 35,
+        "text": "Will appear on your 24 Nov 2020 statement as STARBUCKS 0762 126N BEACONSFIELD",
+        "merged": false,
+        "components": [
+          47
+        ],
+        "box": [
+          1296,
+          1390,
+          2553,
+          1423
+        ]
+      },
+      {
+        "cell_index": 36,
+        "text": "A355 WINDSOR DRIVE",
+        "merged": false,
+        "components": [
+          49
+        ],
+        "box": [
+          526,
+          1471,
+          864,
+          1497
+        ]
+      },
+      {
+        "cell_index": 37,
+        "text": "BEACONSFIELD 000",
+        "merged": true,
+        "components": [
+          50,
+          52
+        ],
+        "box": [
+          523,
+          1517,
+          769,
+          1595
+        ]
+      },
+      {
+        "cell_index": 38,
+        "text": "CARD LALITHBHIRAJU",
+        "merged": true,
+        "components": [
+          51,
+          53
+        ],
+        "box": [
+          1298,
+          1529,
+          1545,
+          1593
+        ]
+      },
+      {
+        "cell_index": 39,
+        "text": "HP9 2SE 0190 8299 700",
+        "merged": true,
+        "components": [
+          54,
+          55
+        ],
+        "box": [
+          524,
+          1609,
+          737,
+          1686
+        ]
+      },
+      {
+        "cell_index": 40,
+        "text": "ADDITIONALINEORMATION",
+        "merged": false,
+        "components": [
+          56
+        ],
+        "box": [
+          1300,
+          1650,
+          1587,
+          1667
+        ]
+      },
+      {
+        "cell_index": 41,
+        "text": "GOODS",
+        "merged": false,
+        "components": [
+          57
+        ],
+        "box": [
+          1297,
+          1687,
+          1417,
+          1717
+        ]
+      },
+      {
+        "cell_index": 42,
+        "text": "£8.39",
+        "merged": false,
+        "components": [
+          61
+        ],
+        "box": [
+          3074,
+          1764,
+          3166,
+          1804
+        ]
+      },
+      {
+        "cell_index": 43,
+        "text": "GODADDY COM EUROPE 14455 NHAYDENROAD",
+        "merged": true,
+        "components": [
+          59,
+          62
+        ],
+        "box": [
+          528,
+          1770,
+          910,
+          1844
+        ]
+      },
+      {
+        "cell_index": 44,
+        "text": "GODADDY.COMSCOTTSDALE Will appear on your 24 Oct 2020 statement as GODADDY.COM SCOTTSDALE",
+        "merged": true,
+        "components": [
+          60,
+          63
+        ],
+        "box": [
+          1297,
+          1772,
+          2398,
+          1863
+        ]
+      },
+      {
+        "cell_index": 45,
+        "text": "20 Oct",
+        "merged": false,
+        "components": [
+          58
+        ],
+        "box": [
+          133,
+          1764,
+          239,
+          1804
+        ]
+      },
+      {
+        "cell_index": 46,
+        "text": "SCOTTSDALE",
+        "merged": false,
+        "components": [
+          64
+        ],
+        "box": [
+          527,
+          1900,
+          736,
+          1926
+        ]
+      },
+      {
+        "cell_index": 47,
+        "text": "CARD",
+        "merged": false,
+        "components": [
+          65
+        ],
+        "box": [
+          1295,
+          1907,
+          1364,
+          1936
+        ]
+      },
+      {
+        "cell_index": 48,
+        "text": "AZ 85260",
+        "merged": true,
+        "components": [
+          66,
+          68
+        ],
+        "box": [
+          521,
+          1941,
+          618,
+          2022
+        ]
+      },
+      {
+        "cell_index": 49,
+        "text": "LALITHBHIRAJU",
+        "merged": false,
+        "components": [
+          67
+        ],
+        "box": [
+          1302,
+          1955,
+          1545,
+          1976
+        ]
+      },
+      {
+        "cell_index": 50,
+        "text": "http://GODADDY.COM",
+        "merged": false,
+        "components": [
+          69
+        ],
+        "box": [
+          526,
+          2038,
+          842,
+          2068
+        ]
+      },
+      {
+        "cell_index": 51,
+        "text": "17 Oct",
+        "merged": false,
+        "components": [
+          70
+        ],
+        "box": [
+          135,
+          2099,
+          240,
+          2137
+        ]
+      },
+      {
+        "cell_index": 52,
+        "text": "ADYEN SIMONCARMIGGELSTRAAT 6-50",
+        "merged": true,
+        "components": [
+          71,
+          74
+        ],
+        "box": [
+          525,
+          2103,
+          1019,
+          2179
+        ]
+      },
+      {
+        "cell_index": 53,
+        "text": "THEWATCHHUTREADING",
+        "merged": false,
+        "components": [
+          72
+        ],
+        "box": [
+          1300,
+          2107,
+          1690,
+          2130
+        ]
+      },
+      {
+        "cell_index": 54,
+        "text": "£627.00",
+        "merged": false,
+        "components": [
+          73
+        ],
+        "box": [
+          3040,
+          2101,
+          3164,
+          2137
+        ]
+      },
+      {
+        "cell_index": 55,
+        "text": "ADYEN HOUSE",
+        "merged": false,
+        "components": [
+          76
+        ],
+        "box": [
+          525,
+          2198,
+          757,
+          2228
+        ]
+      },
+      {
+        "cell_index": 56,
+        "text": "Will appear on your 24 Oct 2020 statement as THEWATCHHUT READING",
+        "merged": false,
+        "components": [
+          75
+        ],
+        "box": [
+          1296,
+          2165,
+          2334,
+          2197
+        ]
+      },
+      {
+        "cell_index": 57,
+        "text": "CARD",
+        "merged": false,
+        "components": [
+          79
+        ],
+        "box": [
+          1295,
+          2299,
+          1365,
+          2331
+        ]
+      },
+      {
+        "cell_index": 58,
+        "text": "AMSTERDAM",
+        "merged": false,
+        "components": [
+          77
+        ],
+        "box": [
+          526,
+          2246,
+          728,
+          2273
+        ]
+      },
+      {
+        "cell_index": 59,
+        "text": "1000 EB",
+        "merged": false,
+        "components": [
+          78
+        ],
+        "box": [
+          526,
+          2291,
+          650,
+          2322
+        ]
+      },
+      {
+        "cell_index": 60,
+        "text": "LALITH BHIRAJU",
+        "merged": false,
+        "components": [
+          80
+        ],
+        "box": [
+          1297,
+          2342,
+          1547,
+          2374
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "cells": [
+      {
+        "cell_index": 0,
+        "text": "DATE",
+        "merged": false,
+        "components": [
+          0
+        ],
+        "box": [
+          134,
+          145,
+          203,
+          175
+        ]
+      },
+      {
+        "cell_index": 1,
+        "text": "DESCRIPTION",
+        "merged": false,
+        "components": [
+          1
+        ],
+        "box": [
+          1299,
+          150,
+          1450,
+          170
+        ]
+      },
+      {
+        "cell_index": 2,
+        "text": "AMOUNT",
+        "merged": false,
+        "components": [
+          2
+        ],
+        "box": [
+          3057,
+          144,
+          3164,
+          175
+        ]
+      },
+      {
+        "cell_index": 3,
+        "text": "15 Oct",
+        "merged": false,
+        "components": [
+          3
+        ],
+        "box": [
+          135,
+          231,
+          238,
+          269
+        ]
+      },
+      {
+        "cell_index": 4,
+        "text": "PAYMENTRECEIVED -THANKYOU",
+        "merged": false,
+        "components": [
+          4
+        ],
+        "box": [
+          1301,
+          237,
+          1828,
+          261
+        ]
+      },
+      {
+        "cell_index": 5,
+        "text": "-£49.17",
+        "merged": false,
+        "components": [
+          5
+        ],
+        "box": [
+          3048,
+          230,
+          3164,
+          270
+        ]
+      },
+      {
+        "cell_index": 6,
+        "text": "Credit",
+        "merged": false,
+        "components": [
+          6
+        ],
+        "box": [
+          136,
+          281,
+          228,
+          314
+        ]
+      },
+      {
+        "cell_index": 7,
+        "text": "Will appear on your 24 Oct 2020 statement as PAYMENT RECEIVED - THANK YU",
+        "merged": false,
+        "components": [
+          7
+        ],
+        "box": [
+          1298,
+          299,
+          2469,
+          326
+        ]
+      },
+      {
+        "cell_index": 8,
+        "text": "14 Oct",
+        "merged": false,
+        "components": [
+          10
+        ],
+        "box": [
+          136,
+          499,
+          237,
+          534
+        ]
+      },
+      {
+        "cell_index": 9,
+        "text": "CARD LALITH BHIRAJU",
+        "merged": true,
+        "components": [
+          8,
+          9
+        ],
+        "box": [
+          1295,
+          372,
+          1547,
+          442
+        ]
+      },
+      {
+        "cell_index": 10,
+        "text": "£17.98",
+        "merged": false,
+        "components": [
+          13
+        ],
+        "box": [
+          3058,
+          499,
+          3164,
+          534
+        ]
+      },
+      {
+        "cell_index": 11,
+        "text": "GODADDY COMEUROPE",
+        "merged": false,
+        "components": [
+          11
+        ],
+        "box": [
+          527,
+          502,
+          910,
+          529
+        ]
+      },
+      {
+        "cell_index": 12,
+        "text": "GODADDY.COMSCOTTSDALE",
+        "merged": false,
+        "components": [
+          12
+        ],
+        "box": [
+          1300,
+          503,
+          1757,
+          528
+        ]
+      },
+      {
+        "cell_index": 13,
+        "text": "14455 NHAYDENROAD",
+        "merged": false,
+        "components": [
+          14
+        ],
+        "box": [
+          527,
+          548,
+          881,
+          576
+        ]
+      },
+      {
+        "cell_index": 14,
+        "text": "Will appear on your 24 Oct 2020 statement as GODADDY.COM SCOTTSDALE",
+        "merged": false,
+        "components": [
+          15
+        ],
+        "box": [
+          1298,
+          564,
+          2398,
+          594
+        ]
+      },
+      {
+        "cell_index": 15,
+        "text": "SCOTTSDALE",
+        "merged": false,
+        "components": [
+          16
+        ],
+        "box": [
+          528,
+          632,
+          735,
+          655
+        ]
+      },
+      {
+        "cell_index": 16,
+        "text": "AZ",
+        "merged": false,
+        "components": [
+          18
+        ],
+        "box": [
+          523,
+          674,
+          574,
+          708
+        ]
+      },
+      {
+        "cell_index": 17,
+        "text": "CARD LALITHBHIRA.IL",
+        "merged": true,
+        "components": [
+          17,
+          19
+        ],
+        "box": [
+          1295,
+          637,
+          1543,
+          705
+        ]
+      },
+      {
+        "cell_index": 18,
+        "text": "85260 http://GODADDY.COM",
+        "merged": true,
+        "components": [
+          20,
+          21
+        ],
+        "box": [
+          524,
+          721,
+          841,
+          798
+        ]
+      },
+      {
+        "cell_index": 19,
+        "text": "2 Oct",
+        "merged": false,
+        "components": [
+          22
+        ],
+        "box": [
+          132,
+          831,
+          222,
+          868
+        ]
+      },
+      {
+        "cell_index": 20,
+        "text": "AMAZON",
+        "merged": false,
+        "components": [
+          23
+        ],
+        "box": [
+          526,
+          834,
+          665,
+          864
+        ]
+      },
+      {
+        "cell_index": 21,
+        "text": "AMAZON.CO.UK*SY5TF4LZ5AMAZON.CO.UK",
+        "merged": false,
+        "components": [
+          24
+        ],
+        "box": [
+          1301,
+          837,
+          1983,
+          861
+        ]
+      },
+      {
+        "cell_index": 22,
+        "text": "£71.66",
+        "merged": false,
+        "components": [
+          25
+        ],
+        "box": [
+          3056,
+          831,
+          3165,
+          869
+        ]
+      },
+      {
+        "cell_index": 23,
+        "text": "60HOLBORNVIADUCT",
+        "merged": false,
+        "components": [
+          26
+        ],
+        "box": [
+          526,
+          883,
+          871,
+          910
+        ]
+      },
+      {
+        "cell_index": 24,
+        "text": "Will appear on your 24 Oct 2020 statement as AMAZON.CO.UK*SY5TF4LZ5 AMAZON.CO.UK",
+        "merged": false,
+        "components": [
+          27
+        ],
+        "box": [
+          1298,
+          899,
+          2617,
+          928
+        ]
+      },
+      {
+        "cell_index": 25,
+        "text": "LONDON 000",
+        "merged": true,
+        "components": [
+          28,
+          30
+        ],
+        "box": [
+          523,
+          964,
+          662,
+          1042
+        ]
+      },
+      {
+        "cell_index": 26,
+        "text": "CARD",
+        "merged": false,
+        "components": [
+          29
+        ],
+        "box": [
+          1297,
+          976,
+          1364,
+          998
+        ]
+      },
+      {
+        "cell_index": 27,
+        "text": "EC1A 2BN",
+        "merged": false,
+        "components": [
+          32
+        ],
+        "box": [
+          527,
+          1058,
+          679,
+          1084
+        ]
+      },
+      {
+        "cell_index": 28,
+        "text": "LALITHBHIRAJU",
+        "merged": false,
+        "components": [
+          31
+        ],
+        "box": [
+          1301,
+          1019,
+          1546,
+          1043
+        ]
+      },
+      {
+        "cell_index": 29,
+        "text": "1 Oct",
+        "merged": false,
+        "components": [
+          34
+        ],
+        "box": [
+          135,
+          1165,
+          222,
+          1202
+        ]
+      },
+      {
+        "cell_index": 30,
+        "text": "https://www.amazon.co.uk/",
+        "merged": false,
+        "components": [
+          33
+        ],
+        "box": [
+          527,
+          1106,
+          898,
+          1133
+        ]
+      },
+      {
+        "cell_index": 31,
+        "text": "£9.36",
+        "merged": false,
+        "components": [
+          37
+        ],
+        "box": [
+          3075,
+          1165,
+          3165,
+          1202
+        ]
+      },
+      {
+        "cell_index": 32,
+        "text": "LIQUID 11",
+        "merged": false,
+        "components": [
+          35
+        ],
+        "box": [
+          525,
+          1168,
+          676,
+          1199
+        ]
+      },
+      {
+        "cell_index": 33,
+        "text": "LIQUID11LIMITEDLIQUIDUNITEDKINGDOM",
+        "merged": false,
+        "components": [
+          36
+        ],
+        "box": [
+          1301,
+          1171,
+          1969,
+          1195
+        ]
+      },
+      {
+        "cell_index": 34,
+        "text": "SEALAKEROAD LOWESTOFT",
+        "merged": true,
+        "components": [
+          38,
+          40
+        ],
+        "box": [
+          525,
+          1217,
+          777,
+          1292
+        ]
+      },
+      {
+        "cell_index": 35,
+        "text": "Will appear on your 24Oct 2020 statement as LIQUID11 LIMITED LIQUID UNITED KINGDOM",
+        "merged": false,
+        "components": [
+          39
+        ],
+        "box": [
+          1298,
+          1233,
+          2608,
+          1260
+        ]
+      },
+      {
+        "cell_index": 36,
+        "text": "SUFFOLK",
+        "merged": false,
+        "components": [
+          41
+        ],
+        "box": [
+          525,
+          1310,
+          673,
+          1338
+        ]
+      },
+      {
+        "cell_index": 37,
+        "text": "000",
+        "merged": false,
+        "components": [
+          43
+        ],
+        "box": [
+          523,
+          1355,
+          584,
+          1389
+        ]
+      },
+      {
+        "cell_index": 38,
+        "text": "CARD LALITHBHIRAJU",
+        "merged": true,
+        "components": [
+          42,
+          44
+        ],
+        "box": [
+          1297,
+          1323,
+          1546,
+          1390
+        ]
+      },
+      {
+        "cell_index": 39,
+        "text": "NR32 3LQ",
+        "merged": false,
+        "components": [
+          45
+        ],
+        "box": [
+          526,
+          1404,
+          676,
+          1432
+        ]
+      },
+      {
+        "cell_index": 40,
+        "text": "4484 4884 3000",
+        "merged": false,
+        "components": [
+          46
+        ],
+        "box": [
+          526,
+          1453,
+          754,
+          1480
+        ]
+      },
+      {
+        "cell_index": 41,
+        "text": "HTTP://WWW.LIQUID11.CO.UK/",
+        "merged": false,
+        "components": [
+          47
+        ],
+        "box": [
+          527,
+          1499,
+          983,
+          1526
+        ]
+      },
+      {
+        "cell_index": 42,
+        "text": "28 Sep",
+        "merged": false,
+        "components": [
+          48
+        ],
+        "box": [
+          131,
+          1555,
+          247,
+          1602
+        ]
+      },
+      {
+        "cell_index": 43,
+        "text": "STRIPE",
+        "merged": false,
+        "components": [
+          49
+        ],
+        "box": [
+          524,
+          1562,
+          643,
+          1593
+        ]
+      },
+      {
+        "cell_index": 44,
+        "text": "SP * MEACODEHUMIPIFIERBIRMINGHAM",
+        "merged": true,
+        "components": [
+          50,
+          51,
+          52
+        ],
+        "box": [
+          1298,
+          1561,
+          1927,
+          1590
+        ]
+      },
+      {
+        "cell_index": 45,
+        "text": "£197.90",
+        "merged": false,
+        "components": [
+          53
+        ],
+        "box": [
+          3038,
+          1559,
+          3164,
+          1597
+        ]
+      },
+      {
+        "cell_index": 46,
+        "text": "GBP SUBMISSION",
+        "merged": false,
+        "components": [
+          54
+        ],
+        "box": [
+          525,
+          1609,
+          798,
+          1639
+        ]
+      },
+      {
+        "cell_index": 47,
+        "text": "Will appear on your 24 Oct 2020 statement as SP * MEACODEHUMIDIFIER BIRMINGHAM",
+        "merged": false,
+        "components": [
+          55
+        ],
+        "box": [
+          1297,
+          1626,
+          2569,
+          1656
+        ]
+      },
+      {
+        "cell_index": 48,
+        "text": "LONDON CA",
+        "merged": true,
+        "components": [
+          56,
+          58
+        ],
+        "box": [
+          522,
+          1690,
+          662,
+          1770
+        ]
+      },
+      {
+        "cell_index": 49,
+        "text": "CARD",
+        "merged": false,
+        "components": [
+          57
+        ],
+        "box": [
+          1296,
+          1703,
+          1365,
+          1728
+        ]
+      },
+      {
+        "cell_index": 50,
+        "text": "XX XXX",
+        "merged": false,
+        "components": [
+          60
+        ],
+        "box": [
+          524,
+          1784,
+          643,
+          1815
+        ]
+      },
+      {
+        "cell_index": 51,
+        "text": "LALITH BHIRAJU",
+        "merged": false,
+        "components": [
+          59
+        ],
+        "box": [
+          1300,
+          1746,
+          1547,
+          1770
+        ]
+      },
+      {
+        "cell_index": 52,
+        "text": "https://stripe.com/gb",
+        "merged": false,
+        "components": [
+          61
+        ],
+        "box": [
+          525,
+          1831,
+          809,
+          1866
+        ]
+      },
+      {
+        "cell_index": 53,
+        "text": "27 Sep",
+        "merged": false,
+        "components": [
+          62
+        ],
+        "box": [
+          133,
+          1891,
+          246,
+          1936
+        ]
+      },
+      {
+        "cell_index": 54,
+        "text": "LEATHERSOFAWORLD.COMSPARKBROOKBIRM",
+        "merged": false,
+        "components": [
+          64
+        ],
+        "box": [
+          1301,
+          1901,
+          2047,
+          1924
+        ]
+      },
+      {
+        "cell_index": 55,
+        "text": "£399.00",
+        "merged": false,
+        "components": [
+          65
+        ],
+        "box": [
+          3039,
+          1893,
+          3163,
+          1932
+        ]
+      },
+      {
+        "cell_index": 56,
+        "text": "STRIPE GBP SUBMISSION",
+        "merged": true,
+        "components": [
+          63,
+          66
+        ],
+        "box": [
+          525,
+          1899,
+          798,
+          1973
+        ]
+      },
+      {
+        "cell_index": 57,
+        "text": "Will appear on your 24Oct 2020 statement as LEATHERSOFAWORLD.COM SPARKBROOK BIRM",
+        "merged": false,
+        "components": [
+          67
+        ],
+        "box": [
+          1296,
+          1960,
+          2678,
+          1989
+        ]
+      },
+      {
+        "cell_index": 58,
+        "text": "LONDON",
+        "merged": false,
+        "components": [
+          68
+        ],
+        "box": [
+          524,
+          2025,
+          663,
+          2056
+        ]
+      },
+      {
+        "cell_index": 59,
+        "text": "CARD",
+        "merged": false,
+        "components": [
+          69
+        ],
+        "box": [
+          1296,
+          2036,
+          1365,
+          2062
+        ]
+      },
+      {
+        "cell_index": 60,
+        "text": "CA",
+        "merged": false,
+        "components": [
+          70
+        ],
+        "box": [
+          522,
+          2070,
+          578,
+          2105
+        ]
+      },
+      {
+        "cell_index": 61,
+        "text": "LALITHBHIRAJU",
+        "merged": false,
+        "components": [
+          71
+        ],
+        "box": [
+          1301,
+          2083,
+          1545,
+          2104
+        ]
+      },
+      {
+        "cell_index": 62,
+        "text": "XX XXX",
+        "merged": false,
+        "components": [
+          72
+        ],
+        "box": [
+          524,
+          2118,
+          644,
+          2149
+        ]
+      },
+      {
+        "cell_index": 63,
+        "text": "https://stripe.com/gb",
+        "merged": false,
+        "components": [
+          73
+        ],
+        "box": [
+          525,
+          2165,
+          809,
+          2198
+        ]
+      },
+      {
+        "cell_index": 64,
+        "text": "26 Sep",
+        "merged": false,
+        "components": [
+          74
+        ],
+        "box": [
+          133,
+          2224,
+          246,
+          2270
+        ]
+      },
+      {
+        "cell_index": 65,
+        "text": "BUCKINGHAMFILLINGSTATBUCKINGHAM",
+        "merged": false,
+        "components": [
+          76
+        ],
+        "box": [
+          1300,
+          2234,
+          1957,
+          2261
+        ]
+      },
+      {
+        "cell_index": 66,
+        "text": "£78.30",
+        "merged": false,
+        "components": [
+          77
+        ],
+        "box": [
+          3057,
+          2228,
+          3165,
+          2267
+        ]
+      },
+      {
+        "cell_index": 67,
+        "text": "BUCKINGHAM BP",
+        "merged": false,
+        "components": [
+          75
+        ],
+        "box": [
+          526,
+          2232,
+          797,
+          2259
+        ]
+      },
+      {
+        "cell_index": 68,
+        "text": "STRATFORD ROAD",
+        "merged": false,
+        "components": [
+          78
+        ],
+        "box": [
+          527,
+          2281,
+          815,
+          2308
+        ]
+      },
+      {
+        "cell_index": 69,
+        "text": "Will appear on your 24 Oct 2020 statement as BUCKINGHAM FILLING STAT BUCKINGHAM",
+        "merged": false,
+        "components": [
+          79
+        ],
+        "box": [
+          1297,
+          2295,
+          2588,
+          2325
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "cells": [
+      {
+        "cell_index": 0,
+        "text": "DATE",
+        "merged": false,
+        "components": [
+          0
+        ],
+        "box": [
+          135,
+          145,
+          203,
+          175
+        ]
+      },
+      {
+        "cell_index": 1,
+        "text": "DESCRIPTION",
+        "merged": false,
+        "components": [
+          1
+        ],
+        "box": [
+          1299,
+          150,
+          1450,
+          170
+        ]
+      },
+      {
+        "cell_index": 2,
+        "text": "AMOUNT",
+        "merged": false,
+        "components": [
+          2
+        ],
+        "box": [
+          3058,
+          145,
+          3163,
+          173
+        ]
+      },
+      {
+        "cell_index": 3,
+        "text": "BUCKINGHAM BKM",
+        "merged": true,
+        "components": [
+          3,
+          5
+        ],
+        "box": [
+          524,
+          214,
+          741,
+          294
+        ]
+      },
+      {
+        "cell_index": 4,
+        "text": "CARD LALITH BHIRAJU",
+        "merged": true,
+        "components": [
+          4,
+          6
+        ],
+        "box": [
+          1295,
+          226,
+          1549,
+          298
+        ]
+      },
+      {
+        "cell_index": 5,
+        "text": "MK18 1NY 0128 0825 520",
+        "merged": true,
+        "components": [
+          7,
+          8
+        ],
+        "box": [
+          525,
+          309,
+          738,
+          387
+        ]
+      },
+      {
+        "cell_index": 6,
+        "text": "ADDITIONALINEORMATION",
+        "merged": false,
+        "components": [
+          9
+        ],
+        "box": [
+          1299,
+          489,
+          1587,
+          506
+        ]
+      },
+      {
+        "cell_index": 7,
+        "text": "OIdStratfordRoadBUCKINGHAM",
+        "merged": false,
+        "components": [
+          10
+        ],
+        "box": [
+          1300,
+          529,
+          1780,
+          553
+        ]
+      },
+      {
+        "cell_index": 8,
+        "text": "20 Sep",
+        "merged": false,
+        "components": [
+          11
+        ],
+        "box": [
+          132,
+          599,
+          247,
+          647
+        ]
+      },
+      {
+        "cell_index": 9,
+        "text": "GODADDY COM EUROPE",
+        "merged": false,
+        "components": [
+          12
+        ],
+        "box": [
+          528,
+          609,
+          910,
+          636
+        ]
+      },
+      {
+        "cell_index": 10,
+        "text": "GODADDY.COMSCOTTSDALE",
+        "merged": false,
+        "components": [
+          13
+        ],
+        "box": [
+          1301,
+          610,
+          1757,
+          634
+        ]
+      },
+      {
+        "cell_index": 11,
+        "text": "£8.39",
+        "merged": false,
+        "components": [
+          14
+        ],
+        "box": [
+          3075,
+          604,
+          3164,
+          640
+        ]
+      },
+      {
+        "cell_index": 12,
+        "text": "14455 NHAYDENROAD",
+        "merged": false,
+        "components": [
+          15
+        ],
+        "box": [
+          529,
+          655,
+          881,
+          682
+        ]
+      },
+      {
+        "cell_index": 13,
+        "text": "Will appear on your 24 Sep 2020 statement as GODADDY.COM SCOTTSDALE",
+        "merged": false,
+        "components": [
+          16
+        ],
+        "box": [
+          1297,
+          668,
+          2405,
+          700
+        ]
+      },
+      {
+        "cell_index": 14,
+        "text": "SCOTTSDALE",
+        "merged": false,
+        "components": [
+          17
+        ],
+        "box": [
+          527,
+          736,
+          736,
+          764
+        ]
+      },
+      {
+        "cell_index": 15,
+        "text": "CARD",
+        "merged": false,
+        "components": [
+          18
+        ],
+        "box": [
+          1296,
+          746,
+          1365,
+          771
+        ]
+      },
+      {
+        "cell_index": 16,
+        "text": "AZ",
+        "merged": false,
+        "components": [
+          19
+        ],
+        "box": [
+          522,
+          779,
+          574,
+          815
+        ]
+      },
+      {
+        "cell_index": 17,
+        "text": "LALITH BHIRAJU",
+        "merged": false,
+        "components": [
+          20
+        ],
+        "box": [
+          1300,
+          791,
+          1547,
+          815
+        ]
+      },
+      {
+        "cell_index": 18,
+        "text": "85260 http://GODADDY.COM",
+        "merged": true,
+        "components": [
+          21,
+          22
+        ],
+        "box": [
+          524,
+          828,
+          842,
+          907
+        ]
+      },
+      {
+        "cell_index": 19,
+        "text": "14 Sep",
+        "merged": false,
+        "components": [
+          23
+        ],
+        "box": [
+          134,
+          933,
+          246,
+          979
+        ]
+      },
+      {
+        "cell_index": 20,
+        "text": "GODADDY.COMSCOTTSDALE",
+        "merged": false,
+        "components": [
+          25
+        ],
+        "box": [
+          1300,
+          942,
+          1759,
+          969
+        ]
+      },
+      {
+        "cell_index": 21,
+        "text": "£17.98",
+        "merged": false,
+        "components": [
+          26
+        ],
+        "box": [
+          3056,
+          937,
+          3164,
+          976
+        ]
+      },
+      {
+        "cell_index": 22,
+        "text": "GODADDY COM EUROPE 14455 N HAYDEN ROAD",
+        "merged": true,
+        "components": [
+          24,
+          27
+        ],
+        "box": [
+          528,
+          943,
+          910,
+          1017
+        ]
+      },
+      {
+        "cell_index": 23,
+        "text": "Will appear on your 24 Sep 2020 statement as GODADDY.COM SCOTTSDALE",
+        "merged": false,
+        "components": [
+          28
+        ],
+        "box": [
+          1298,
+          1005,
+          2404,
+          1034
+        ]
+      },
+      {
+        "cell_index": 24,
+        "text": "SCOTTSDALE",
+        "merged": false,
+        "components": [
+          29
+        ],
+        "box": [
+          526,
+          1068,
+          738,
+          1099
+        ]
+      },
+      {
+        "cell_index": 25,
+        "text": "CARD",
+        "merged": false,
+        "components": [
+          30
+        ],
+        "box": [
+          1296,
+          1080,
+          1365,
+          1106
+        ]
+      },
+      {
+        "cell_index": 26,
+        "text": "AZ 85260",
+        "merged": true,
+        "components": [
+          31,
+          33
+        ],
+        "box": [
+          521,
+          1112,
+          617,
+          1194
+        ]
+      },
+      {
+        "cell_index": 27,
+        "text": "LALITHBHIRAJU",
+        "merged": false,
+        "components": [
+          32
+        ],
+        "box": [
+          1301,
+          1126,
+          1545,
+          1147
+        ]
+      },
+      {
+        "cell_index": 28,
+        "text": "http://GODADDY.COM",
+        "merged": false,
+        "components": [
+          34
+        ],
+        "box": [
+          525,
+          1209,
+          842,
+          1241
+        ]
+      },
+      {
+        "cell_index": 29,
+        "text": "14 Sep",
+        "merged": false,
+        "components": [
+          35
+        ],
+        "box": [
+          133,
+          1269,
+          247,
+          1315
+        ]
+      },
+      {
+        "cell_index": 30,
+        "text": "PAYMENTRECEIVED -THANKYOU",
+        "merged": false,
+        "components": [
+          36
+        ],
+        "box": [
+          1301,
+          1279,
+          1828,
+          1302
+        ]
+      },
+      {
+        "cell_index": 31,
+        "text": "-£22.88",
+        "merged": false,
+        "components": [
+          37
+        ],
+        "box": [
+          3048,
+          1272,
+          3164,
+          1309
+        ]
+      },
+      {
+        "cell_index": 32,
+        "text": "Credit",
+        "merged": false,
+        "components": [
+          38
+        ],
+        "box": [
+          133,
+          1317,
+          232,
+          1359
+        ]
+      },
+      {
+        "cell_index": 33,
+        "text": "Will appear on your 24 Sep 2020 statement as PAYMENT RECEIVED - THANK YOU",
+        "merged": false,
+        "components": [
+          39
+        ],
+        "box": [
+          1296,
+          1338,
+          2477,
+          1368
+        ]
+      },
+      {
+        "cell_index": 34,
+        "text": "CARD LALITHBHIRAJU",
+        "merged": true,
+        "components": [
+          40,
+          41
+        ],
+        "box": [
+          1296,
+          1415,
+          1546,
+          1482
+        ]
+      },
+      {
+        "cell_index": 35,
+        "text": "1 Sep",
+        "merged": false,
+        "components": [
+          42
+        ],
+        "box": [
+          133,
+          1535,
+          228,
+          1579
+        ]
+      },
+      {
+        "cell_index": 36,
+        "text": "LIQUID 11",
+        "merged": false,
+        "components": [
+          43
+        ],
+        "box": [
+          526,
+          1540,
+          677,
+          1571
+        ]
+      },
+      {
+        "cell_index": 37,
+        "text": "LIQUID11LIMITEDLIQUIDUNITEDKINGDOM",
+        "merged": false,
+        "components": [
+          44
+        ],
+        "box": [
+          1300,
+          1542,
+          1970,
+          1569
+        ]
+      },
+      {
+        "cell_index": 38,
+        "text": "£8.42",
+        "merged": false,
+        "components": [
+          45
+        ],
+        "box": [
+          3075,
+          1537,
+          3165,
+          1574
+        ]
+      },
+      {
+        "cell_index": 39,
+        "text": "SEA LAKE ROAD",
+        "merged": false,
+        "components": [
+          46
+        ],
+        "box": [
+          526,
+          1587,
+          778,
+          1617
+        ]
+      },
+      {
+        "cell_index": 40,
+        "text": "LOWESTOFT",
+        "merged": false,
+        "components": [
+          48
+        ],
+        "box": [
+          526,
+          1636,
+          723,
+          1663
+        ]
+      },
+      {
+        "cell_index": 41,
+        "text": "Will appear on your 24 Sep 2020 statement as LIQUID11 LIMITED LIQUID UNITED KINGDOM",
+        "merged": false,
+        "components": [
+          47
+        ],
+        "box": [
+          1296,
+          1601,
+          2618,
+          1636
+        ]
+      },
+      {
+        "cell_index": 42,
+        "text": "SUFFOLK",
+        "merged": false,
+        "components": [
+          49
+        ],
+        "box": [
+          526,
+          1683,
+          674,
+          1711
+        ]
+      },
+      {
+        "cell_index": 43,
+        "text": "CARD",
+        "merged": false,
+        "components": [
+          50
+        ],
+        "box": [
+          1296,
+          1693,
+          1364,
+          1718
+        ]
+      },
+      {
+        "cell_index": 44,
+        "text": "000",
+        "merged": false,
+        "components": [
+          51
+        ],
+        "box": [
+          523,
+          1727,
+          584,
+          1761
+        ]
+      },
+      {
+        "cell_index": 45,
+        "text": "LALITHBHIRAJU",
+        "merged": false,
+        "components": [
+          52
+        ],
+        "box": [
+          1301,
+          1739,
+          1545,
+          1760
+        ]
+      },
+      {
+        "cell_index": 46,
+        "text": "NR32 3LQ 4484 48843000",
+        "merged": true,
+        "components": [
+          53,
+          54
+        ],
+        "box": [
+          526,
+          1777,
+          754,
+          1852
+        ]
+      },
+      {
+        "cell_index": 47,
+        "text": "HTTP://WWW.LIQUID11.CO.UK/",
+        "merged": false,
+        "components": [
+          55
+        ],
+        "box": [
+          526,
+          1871,
+          982,
+          1898
+        ]
+      },
+      {
+        "cell_index": 48,
+        "text": "30 Aug",
+        "merged": false,
+        "components": [
+          56
+        ],
+        "box": [
+          132,
+          1927,
+          246,
+          1975
+        ]
+      },
+      {
+        "cell_index": 49,
+        "text": "GODADDYCOMEUROPE",
+        "merged": false,
+        "components": [
+          57
+        ],
+        "box": [
+          529,
+          1937,
+          909,
+          1961
+        ]
+      },
+      {
+        "cell_index": 50,
+        "text": "GODADDY.COMSCOTTSDALE",
+        "merged": false,
+        "components": [
+          58
+        ],
+        "box": [
+          1301,
+          1937,
+          1757,
+          1961
+        ]
+      },
+      {
+        "cell_index": 51,
+        "text": "£14.38",
+        "merged": false,
+        "components": [
+          59
+        ],
+        "box": [
+          3056,
+          1930,
+          3164,
+          1970
+        ]
+      },
+      {
+        "cell_index": 52,
+        "text": "14455 N HAYDENROAD",
+        "merged": false,
+        "components": [
+          60
+        ],
+        "box": [
+          528,
+          1983,
+          881,
+          2010
+        ]
+      },
+      {
+        "cell_index": 53,
+        "text": "Will appear on your 24 Sep 2020 statement as GODADDY.COM SCOTTSDALE",
+        "merged": false,
+        "components": [
+          61
+        ],
+        "box": [
+          1296,
+          1997,
+          2405,
+          2028
+        ]
+      },
+      {
+        "cell_index": 54,
+        "text": "SCOTTSDALE AZ",
+        "merged": true,
+        "components": [
+          62,
+          64
+        ],
+        "box": [
+          523,
+          2064,
+          737,
+          2142
+        ]
+      },
+      {
+        "cell_index": 55,
+        "text": "CARD LALITHBHIRAJU",
+        "merged": true,
+        "components": [
+          63,
+          65
+        ],
+        "box": [
+          1295,
+          2073,
+          1545,
+          2141
+        ]
+      },
+      {
+        "cell_index": 56,
+        "text": "85260",
+        "merged": false,
+        "components": [
+          66
+        ],
+        "box": [
+          525,
+          2157,
+          617,
+          2186
+        ]
+      },
+      {
+        "cell_index": 57,
+        "text": "http://GODADDY.COM",
+        "merged": false,
+        "components": [
+          67
+        ],
+        "box": [
+          526,
+          2204,
+          842,
+          2234
+        ]
+      },
+      {
+        "cell_index": 58,
+        "text": "20 Aug",
+        "merged": false,
+        "components": [
+          68
+        ],
+        "box": [
+          133,
+          2262,
+          246,
+          2308
+        ]
+      },
+      {
+        "cell_index": 59,
+        "text": "GODADDY COMEUROPE",
+        "merged": false,
+        "components": [
+          69
+        ],
+        "box": [
+          528,
+          2272,
+          910,
+          2296
+        ]
+      },
+      {
+        "cell_index": 60,
+        "text": "GODADDY.COMSCOTTSDALE",
+        "merged": false,
+        "components": [
+          70
+        ],
+        "box": [
+          1300,
+          2271,
+          1756,
+          2295
+        ]
+      },
+      {
+        "cell_index": 61,
+        "text": "£8.39",
+        "merged": false,
+        "components": [
+          71
+        ],
+        "box": [
+          3075,
+          2266,
+          3164,
+          2303
+        ]
+      },
+      {
+        "cell_index": 62,
+        "text": "14455NHAYDENROAD",
+        "merged": false,
+        "components": [
+          72
+        ],
+        "box": [
+          529,
+          2319,
+          880,
+          2342
+        ]
+      },
+      {
+        "cell_index": 63,
+        "text": "Will appear on your 24 Aug 2020 statement as GODADDY.COM SCOTTSDALE",
+        "merged": false,
+        "components": [
+          73
+        ],
+        "box": [
+          1296,
+          2330,
+          2406,
+          2364
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "cells": [
+      {
+        "cell_index": 0,
+        "text": "DATE",
+        "merged": false,
+        "components": [
+          0
+        ],
+        "box": [
+          135,
+          145,
+          203,
+          174
+        ]
+      },
+      {
+        "cell_index": 1,
+        "text": "DESCRIPTION",
+        "merged": false,
+        "components": [
+          1
+        ],
+        "box": [
+          1299,
+          149,
+          1450,
+          170
+        ]
+      },
+      {
+        "cell_index": 2,
+        "text": "AMOUNT",
+        "merged": false,
+        "components": [
+          2
+        ],
+        "box": [
+          3060,
+          148,
+          3163,
+          173
+        ]
+      },
+      {
+        "cell_index": 3,
+        "text": "SCOTTSDALE AZ",
+        "merged": true,
+        "components": [
+          3,
+          5
+        ],
+        "box": [
+          523,
+          218,
+          737,
+          294
+        ]
+      },
+      {
+        "cell_index": 4,
+        "text": "CARD LAUITHBHIRAJU",
+        "merged": true,
+        "components": [
+          4,
+          6
+        ],
+        "box": [
+          1296,
+          227,
+          1546,
+          294
+        ]
+      },
+      {
+        "cell_index": 5,
+        "text": "85260",
+        "merged": false,
+        "components": [
+          7
+        ],
+        "box": [
+          526,
+          310,
+          617,
+          338
+        ]
+      },
+      {
+        "cell_index": 6,
+        "text": "http://GODADDY.COM",
+        "merged": false,
+        "components": [
+          8
+        ],
+        "box": [
+          526,
+          358,
+          842,
+          386
+        ]
+      },
+      {
+        "cell_index": 7,
+        "text": "£5.99",
+        "merged": false,
+        "components": [
+          12
+        ],
+        "box": [
+          3075,
+          451,
+          3165,
+          488
+        ]
+      },
+      {
+        "cell_index": 8,
+        "text": "14 Aug",
+        "merged": false,
+        "components": [
+          9
+        ],
+        "box": [
+          134,
+          448,
+          245,
+          492
+        ]
+      },
+      {
+        "cell_index": 9,
+        "text": "GODADDYCOMEUROPE 14455 NHAYDEN ROAD",
+        "merged": true,
+        "components": [
+          10,
+          13
+        ],
+        "box": [
+          527,
+          456,
+          908,
+          529
+        ]
+      },
+      {
+        "cell_index": 10,
+        "text": "GODADDY.COMSCOTTSDALE",
+        "merged": false,
+        "components": [
+          11
+        ],
+        "box": [
+          1301,
+          456,
+          1758,
+          480
+        ]
+      },
+      {
+        "cell_index": 11,
+        "text": "Will appear on your 24 Aug 2020 statement as GODADDY.COM SCOTTSDALE",
+        "merged": false,
+        "components": [
+          14
+        ],
+        "box": [
+          1296,
+          515,
+          2405,
+          547
+        ]
+      },
+      {
+        "cell_index": 12,
+        "text": "SCOTTSDALE",
+        "merged": false,
+        "components": [
+          15
+        ],
+        "box": [
+          528,
+          585,
+          735,
+          609
+        ]
+      },
+      {
+        "cell_index": 13,
+        "text": "CARD LALITH BHIRAJU",
+        "merged": true,
+        "components": [
+          16,
+          18
+        ],
+        "box": [
+          1296,
+          593,
+          1548,
+          662
+        ]
+      },
+      {
+        "cell_index": 14,
+        "text": "AZ 85260",
+        "merged": true,
+        "components": [
+          17,
+          19
+        ],
+        "box": [
+          522,
+          626,
+          617,
+          706
+        ]
+      },
+      {
+        "cell_index": 15,
+        "text": "http://GODADDY.COM",
+        "merged": false,
+        "components": [
+          20
+        ],
+        "box": [
+          526,
+          723,
+          841,
+          752
+        ]
+      },
+      {
+        "cell_index": 16,
+        "text": "PAYMENTRECEIVED -THANKYOU Will appear on your 24 Aug 2020 statement as PAYMENT RECEIVED - THANK YOU",
+        "merged": true,
+        "components": [
+          22,
+          25
+        ],
+        "box": [
+          1297,
+          789,
+          2477,
+          881
+        ]
+      },
+      {
+        "cell_index": 17,
+        "text": "-£153.08",
+        "merged": false,
+        "components": [
+          23
+        ],
+        "box": [
+          3033,
+          785,
+          3164,
+          821
+        ]
+      },
+      {
+        "cell_index": 18,
+        "text": "14 Aug Credit 1 Aug",
+        "merged": true,
+        "components": [
+          21,
+          24,
+          28
+        ],
+        "box": [
+          133,
+          781,
+          247,
+          1094
+        ]
+      },
+      {
+        "cell_index": 19,
+        "text": "CARD",
+        "merged": false,
+        "components": [
+          26
+        ],
+        "box": [
+          1296,
+          928,
+          1365,
+          953
+        ]
+      },
+      {
+        "cell_index": 20,
+        "text": "LALITHBHIRAJU",
+        "merged": false,
+        "components": [
+          27
+        ],
+        "box": [
+          1300,
+          972,
+          1545,
+          996
+        ]
+      },
+      {
+        "cell_index": 21,
+        "text": "LIQUID 11",
+        "merged": false,
+        "components": [
+          29
+        ],
+        "box": [
+          525,
+          1054,
+          677,
+          1084
+        ]
+      },
+      {
+        "cell_index": 22,
+        "text": "LIQUID11LIMITEDLIQUIDUNITEDKINGDOM",
+        "merged": false,
+        "components": [
+          30
+        ],
+        "box": [
+          1300,
+          1056,
+          1970,
+          1082
+        ]
+      },
+      {
+        "cell_index": 23,
+        "text": "£8.50",
+        "merged": false,
+        "components": [
+          31
+        ],
+        "box": [
+          3073,
+          1048,
+          3164,
+          1089
+        ]
+      },
+      {
+        "cell_index": 24,
+        "text": "SEA LAKE ROAD",
+        "merged": false,
+        "components": [
+          32
+        ],
+        "box": [
+          525,
+          1100,
+          778,
+          1130
+        ]
+      },
+      {
+        "cell_index": 25,
+        "text": "LOWESTOFT",
+        "merged": false,
+        "components": [
+          34
+        ],
+        "box": [
+          524,
+          1146,
+          724,
+          1179
+        ]
+      },
+      {
+        "cell_index": 26,
+        "text": "Will appear on your 24 Aug 2020 statement as LIQUID11 LIMITED LIQUID UNITED KINGDOM",
+        "merged": false,
+        "components": [
+          33
+        ],
+        "box": [
+          1296,
+          1115,
+          2618,
+          1148
+        ]
+      },
+      {
+        "cell_index": 27,
+        "text": "SUFFOLK",
+        "merged": false,
+        "components": [
+          35
+        ],
+        "box": [
+          524,
+          1192,
+          675,
+          1225
+        ]
+      },
+      {
+        "cell_index": 28,
+        "text": "CARD",
+        "merged": false,
+        "components": [
+          36
+        ],
+        "box": [
+          1296,
+          1206,
+          1364,
+          1232
+        ]
+      },
+      {
+        "cell_index": 29,
+        "text": "000",
+        "merged": false,
+        "components": [
+          37
+        ],
+        "box": [
+          523,
+          1239,
+          584,
+          1274
+        ]
+      },
+      {
+        "cell_index": 30,
+        "text": "LALITH BHIRAJU",
+        "merged": false,
+        "components": [
+          38
+        ],
+        "box": [
+          1299,
+          1249,
+          1547,
+          1276
+        ]
+      },
+      {
+        "cell_index": 31,
+        "text": "NR32 3LQ",
+        "merged": false,
+        "components": [
+          39
+        ],
+        "box": [
+          524,
+          1287,
+          679,
+          1321
+        ]
+      },
+      {
+        "cell_index": 32,
+        "text": "4484 4884 3000 HTTP://WWW.LIQUID11.CO.UK/",
+        "merged": true,
+        "components": [
+          40,
+          41
+        ],
+        "box": [
+          525,
+          1335,
+          984,
+          1413
+        ]
+      }
+    ]
+  }
+]

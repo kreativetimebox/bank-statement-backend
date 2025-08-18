@@ -1,0 +1,4831 @@
+[
+  {
+    "page_number": 1,
+    "cells": [
+      {
+        "cell_index": 0,
+        "text": "DATE",
+        "merged": false,
+        "components": [
+          1
+        ],
+        "box": [
+          123,
+          962,
+          220,
+          994
+        ]
+      },
+      {
+        "cell_index": 1,
+        "text": "TYPE",
+        "merged": false,
+        "components": [
+          2
+        ],
+        "box": [
+          385,
+          963,
+          475,
+          992
+        ]
+      },
+      {
+        "cell_index": 2,
+        "text": "TRANSACTION",
+        "merged": false,
+        "components": [
+          3
+        ],
+        "box": [
+          793,
+          963,
+          1047,
+          994
+        ]
+      },
+      {
+        "cell_index": 3,
+        "text": "IN",
+        "merged": false,
+        "components": [
+          4
+        ],
+        "box": [
+          1815,
+          961,
+          1857,
+          996
+        ]
+      },
+      {
+        "cell_index": 4,
+        "text": "OUT",
+        "merged": false,
+        "components": [
+          5
+        ],
+        "box": [
+          2010,
+          960,
+          2092,
+          996
+        ]
+      },
+      {
+        "cell_index": 5,
+        "text": "END OF DAY",
+        "merged": false,
+        "components": [
+          0
+        ],
+        "box": [
+          2140,
+          911,
+          2362,
+          945
+        ]
+      },
+      {
+        "cell_index": 6,
+        "text": "ACCOUNT BALANCE",
+        "merged": true,
+        "components": [
+          6,
+          7
+        ],
+        "box": [
+          2180,
+          963,
+          2361,
+          1043
+        ]
+      },
+      {
+        "cell_index": 7,
+        "text": "OPENING BALANCE",
+        "merged": false,
+        "components": [
+          8
+        ],
+        "box": [
+          386,
+          1075,
+          725,
+          1105
+        ]
+      },
+      {
+        "cell_index": 8,
+        "text": "£31897.05",
+        "merged": false,
+        "components": [
+          9
+        ],
+        "box": [
+          2181,
+          1075,
+          2356,
+          1106
+        ]
+      },
+      {
+        "cell_index": 9,
+        "text": "03/08/2020",
+        "merged": false,
+        "components": [
+          10
+        ],
+        "box": [
+          122,
+          1123,
+          320,
+          1158
+        ]
+      },
+      {
+        "cell_index": 10,
+        "text": "ONLINE PAYMENT",
+        "merged": false,
+        "components": [
+          11
+        ],
+        "box": [
+          388,
+          1127,
+          698,
+          1154
+        ]
+      },
+      {
+        "cell_index": 11,
+        "text": "Remitly",
+        "merged": false,
+        "components": [
+          12
+        ],
+        "box": [
+          790,
+          1120,
+          922,
+          1163
+        ]
+      },
+      {
+        "cell_index": 12,
+        "text": "£3000.06",
+        "merged": false,
+        "components": [
+          13
+        ],
+        "box": [
+          1932,
+          1124,
+          2090,
+          1158
+        ]
+      },
+      {
+        "cell_index": 13,
+        "text": "03/08/2020",
+        "merged": false,
+        "components": [
+          14
+        ],
+        "box": [
+          121,
+          1174,
+          320,
+          1208
+        ]
+      },
+      {
+        "cell_index": 14,
+        "text": "ONLINE PAYMENT",
+        "merged": false,
+        "components": [
+          15
+        ],
+        "box": [
+          387,
+          1177,
+          699,
+          1204
+        ]
+      },
+      {
+        "cell_index": 15,
+        "text": "Remitly",
+        "merged": false,
+        "components": [
+          16
+        ],
+        "box": [
+          790,
+          1172,
+          923,
+          1213
+        ]
+      },
+      {
+        "cell_index": 16,
+        "text": "£1901.99",
+        "merged": false,
+        "components": [
+          17
+        ],
+        "box": [
+          1932,
+          1174,
+          2090,
+          1208
+        ]
+      },
+      {
+        "cell_index": 17,
+        "text": "03/08/2020",
+        "merged": false,
+        "components": [
+          18
+        ],
+        "box": [
+          121,
+          1224,
+          320,
+          1258
+        ]
+      },
+      {
+        "cell_index": 18,
+        "text": "ONLINE PAYMENT",
+        "merged": false,
+        "components": [
+          19
+        ],
+        "box": [
+          388,
+          1226,
+          698,
+          1253
+        ]
+      },
+      {
+        "cell_index": 19,
+        "text": "Remitly",
+        "merged": false,
+        "components": [
+          20
+        ],
+        "box": [
+          790,
+          1222,
+          922,
+          1263
+        ]
+      },
+      {
+        "cell_index": 20,
+        "text": "£2499.99",
+        "merged": false,
+        "components": [
+          21
+        ],
+        "box": [
+          1932,
+          1224,
+          2090,
+          1258
+        ]
+      },
+      {
+        "cell_index": 21,
+        "text": "03/08/2020",
+        "merged": false,
+        "components": [
+          22
+        ],
+        "box": [
+          121,
+          1273,
+          320,
+          1308
+        ]
+      },
+      {
+        "cell_index": 22,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          23
+        ],
+        "box": [
+          388,
+          1277,
+          698,
+          1304
+        ]
+      },
+      {
+        "cell_index": 23,
+        "text": "INSYS SYSTEMS LIMI (JUN- JULY)",
+        "merged": false,
+        "components": [
+          24
+        ],
+        "box": [
+          792,
+          1275,
+          1364,
+          1309
+        ]
+      },
+      {
+        "cell_index": 24,
+        "text": "£16800.00",
+        "merged": false,
+        "components": [
+          25
+        ],
+        "box": [
+          1676,
+          1274,
+          1853,
+          1309
+        ]
+      },
+      {
+        "cell_index": 25,
+        "text": "£41295.01",
+        "merged": false,
+        "components": [
+          26
+        ],
+        "box": [
+          2180,
+          1274,
+          2357,
+          1308
+        ]
+      },
+      {
+        "cell_index": 26,
+        "text": "04/08/2020",
+        "merged": false,
+        "components": [
+          27
+        ],
+        "box": [
+          119,
+          1319,
+          321,
+          1359
+        ]
+      },
+      {
+        "cell_index": 27,
+        "text": "ONLINE PAYMENT",
+        "merged": false,
+        "components": [
+          28
+        ],
+        "box": [
+          388,
+          1327,
+          698,
+          1354
+        ]
+      },
+      {
+        "cell_index": 28,
+        "text": "Remitly",
+        "merged": false,
+        "components": [
+          29
+        ],
+        "box": [
+          790,
+          1321,
+          923,
+          1363
+        ]
+      },
+      {
+        "cell_index": 29,
+        "text": "£2499.99",
+        "merged": false,
+        "components": [
+          30
+        ],
+        "box": [
+          1933,
+          1322,
+          2090,
+          1357
+        ]
+      },
+      {
+        "cell_index": 30,
+        "text": "£38795.02",
+        "merged": false,
+        "components": [
+          31
+        ],
+        "box": [
+          2180,
+          1323,
+          2357,
+          1358
+        ]
+      },
+      {
+        "cell_index": 31,
+        "text": "07/08/2020",
+        "merged": false,
+        "components": [
+          32
+        ],
+        "box": [
+          121,
+          1373,
+          320,
+          1408
+        ]
+      },
+      {
+        "cell_index": 32,
+        "text": "ONLINE PAYMENT",
+        "merged": false,
+        "components": [
+          33
+        ],
+        "box": [
+          388,
+          1377,
+          698,
+          1404
+        ]
+      },
+      {
+        "cell_index": 33,
+        "text": "HMRC",
+        "merged": false,
+        "components": [
+          34
+        ],
+        "box": [
+          792,
+          1373,
+          904,
+          1408
+        ]
+      },
+      {
+        "cell_index": 34,
+        "text": "£254.72",
+        "merged": false,
+        "components": [
+          35
+        ],
+        "box": [
+          1952,
+          1373,
+          2090,
+          1408
+        ]
+      },
+      {
+        "cell_index": 35,
+        "text": "£38540.30",
+        "merged": false,
+        "components": [
+          36
+        ],
+        "box": [
+          2180,
+          1374,
+          2357,
+          1408
+        ]
+      },
+      {
+        "cell_index": 36,
+        "text": "08/08/2020",
+        "merged": false,
+        "components": [
+          37
+        ],
+        "box": [
+          121,
+          1423,
+          320,
+          1458
+        ]
+      },
+      {
+        "cell_index": 37,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          38
+        ],
+        "box": [
+          388,
+          1427,
+          697,
+          1453
+        ]
+      },
+      {
+        "cell_index": 38,
+        "text": "Tecpoint LTD (TP-JUNE INV 1)",
+        "merged": false,
+        "components": [
+          39
+        ],
+        "box": [
+          790,
+          1423,
+          1296,
+          1460
+        ]
+      },
+      {
+        "cell_index": 39,
+        "text": "£49134.90",
+        "merged": false,
+        "components": [
+          40
+        ],
+        "box": [
+          1677,
+          1425,
+          1852,
+          1456
+        ]
+      },
+      {
+        "cell_index": 40,
+        "text": "£87675.20",
+        "merged": false,
+        "components": [
+          41
+        ],
+        "box": [
+          2180,
+          1424,
+          2357,
+          1458
+        ]
+      },
+      {
+        "cell_index": 41,
+        "text": "10/08/2020",
+        "merged": false,
+        "components": [
+          42
+        ],
+        "box": [
+          120,
+          1470,
+          321,
+          1510
+        ]
+      },
+      {
+        "cell_index": 42,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          43
+        ],
+        "box": [
+          388,
+          1477,
+          698,
+          1504
+        ]
+      },
+      {
+        "cell_index": 43,
+        "text": "AKSHA IT CONSULTANTS LTD (Aksha June Inv)",
+        "merged": false,
+        "components": [
+          44
+        ],
+        "box": [
+          790,
+          1470,
+          1578,
+          1511
+        ]
+      },
+      {
+        "cell_index": 44,
+        "text": "£16068.00",
+        "merged": false,
+        "components": [
+          45
+        ],
+        "box": [
+          1913,
+          1474,
+          2090,
+          1508
+        ]
+      },
+      {
+        "cell_index": 45,
+        "text": "10/08/2020",
+        "merged": false,
+        "components": [
+          46
+        ],
+        "box": [
+          122,
+          1524,
+          320,
+          1559
+        ]
+      },
+      {
+        "cell_index": 46,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          47
+        ],
+        "box": [
+          388,
+          1527,
+          698,
+          1554
+        ]
+      },
+      {
+        "cell_index": 47,
+        "text": "Advice Consultant Ltd (Invins Raj)",
+        "merged": false,
+        "components": [
+          48
+        ],
+        "box": [
+          789,
+          1522,
+          1350,
+          1566
+        ]
+      },
+      {
+        "cell_index": 48,
+        "text": "£7680.00",
+        "merged": false,
+        "components": [
+          49
+        ],
+        "box": [
+          1931,
+          1523,
+          2091,
+          1560
+        ]
+      },
+      {
+        "cell_index": 49,
+        "text": "£63927.20",
+        "merged": false,
+        "components": [
+          50
+        ],
+        "box": [
+          2179,
+          1524,
+          2357,
+          1558
+        ]
+      },
+      {
+        "cell_index": 50,
+        "text": "11/08/2020",
+        "merged": false,
+        "components": [
+          51
+        ],
+        "box": [
+          120,
+          1570,
+          321,
+          1611
+        ]
+      },
+      {
+        "cell_index": 51,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          52
+        ],
+        "box": [
+          388,
+          1577,
+          698,
+          1604
+        ]
+      },
+      {
+        "cell_index": 52,
+        "text": "EYS CONSULTING LIMITED (Eys Sud Inv May)",
+        "merged": false,
+        "components": [
+          53
+        ],
+        "box": [
+          791,
+          1573,
+          1551,
+          1613
+        ]
+      },
+      {
+        "cell_index": 53,
+        "text": "£9744.00",
+        "merged": false,
+        "components": [
+          54
+        ],
+        "box": [
+          1932,
+          1575,
+          2090,
+          1608
+        ]
+      },
+      {
+        "cell_index": 54,
+        "text": "11/08/2020",
+        "merged": false,
+        "components": [
+          55
+        ],
+        "box": [
+          122,
+          1623,
+          320,
+          1658
+        ]
+      },
+      {
+        "cell_index": 55,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          56
+        ],
+        "box": [
+          388,
+          1626,
+          698,
+          1653
+        ]
+      },
+      {
+        "cell_index": 56,
+        "text": "Guduru Global Limited (Guduru Ab Inv June)",
+        "merged": false,
+        "components": [
+          57
+        ],
+        "box": [
+          792,
+          1623,
+          1518,
+          1659
+        ]
+      },
+      {
+        "cell_index": 57,
+        "text": "£9435.00",
+        "merged": false,
+        "components": [
+          58
+        ],
+        "box": [
+          1932,
+          1624,
+          2090,
+          1658
+        ]
+      },
+      {
+        "cell_index": 58,
+        "text": "11/08/2020",
+        "merged": false,
+        "components": [
+          59
+        ],
+        "box": [
+          122,
+          1673,
+          320,
+          1708
+        ]
+      },
+      {
+        "cell_index": 59,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          60
+        ],
+        "box": [
+          388,
+          1677,
+          698,
+          1704
+        ]
+      },
+      {
+        "cell_index": 60,
+        "text": "Eshwar (Advice)",
+        "merged": false,
+        "components": [
+          61
+        ],
+        "box": [
+          792,
+          1673,
+          1061,
+          1709
+        ]
+      },
+      {
+        "cell_index": 61,
+        "text": "£1000.00",
+        "merged": false,
+        "components": [
+          62
+        ],
+        "box": [
+          1932,
+          1674,
+          2090,
+          1708
+        ]
+      },
+      {
+        "cell_index": 62,
+        "text": "11/08/2020",
+        "merged": false,
+        "components": [
+          63
+        ],
+        "box": [
+          121,
+          1722,
+          321,
+          1760
+        ]
+      },
+      {
+        "cell_index": 63,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          64
+        ],
+        "box": [
+          388,
+          1727,
+          698,
+          1754
+        ]
+      },
+      {
+        "cell_index": 64,
+        "text": "Eshwar (Advice)",
+        "merged": false,
+        "components": [
+          65
+        ],
+        "box": [
+          793,
+          1725,
+          1061,
+          1759
+        ]
+      },
+      {
+        "cell_index": 65,
+        "text": "£4000.00",
+        "merged": false,
+        "components": [
+          66
+        ],
+        "box": [
+          1932,
+          1724,
+          2090,
+          1758
+        ]
+      },
+      {
+        "cell_index": 66,
+        "text": "£39748.20",
+        "merged": false,
+        "components": [
+          67
+        ],
+        "box": [
+          2180,
+          1724,
+          2357,
+          1758
+        ]
+      },
+      {
+        "cell_index": 67,
+        "text": "25/08/2020",
+        "merged": false,
+        "components": [
+          68
+        ],
+        "box": [
+          121,
+          1772,
+          321,
+          1810
+        ]
+      },
+      {
+        "cell_index": 68,
+        "text": "ONLINE PAYMENT",
+        "merged": false,
+        "components": [
+          69
+        ],
+        "box": [
+          386,
+          1776,
+          699,
+          1806
+        ]
+      },
+      {
+        "cell_index": 69,
+        "text": "Luxminet-",
+        "merged": false,
+        "components": [
+          70
+        ],
+        "box": [
+          794,
+          1776,
+          961,
+          1807
+        ]
+      },
+      {
+        "cell_index": 70,
+        "text": "£11.99",
+        "merged": false,
+        "components": [
+          71
+        ],
+        "box": [
+          1971,
+          1771,
+          2092,
+          1809
+        ]
+      },
+      {
+        "cell_index": 71,
+        "text": "£39736.21",
+        "merged": false,
+        "components": [
+          72
+        ],
+        "box": [
+          2179,
+          1774,
+          2357,
+          1808
+        ]
+      },
+      {
+        "cell_index": 72,
+        "text": "28/08/2020",
+        "merged": false,
+        "components": [
+          73
+        ],
+        "box": [
+          121,
+          1822,
+          321,
+          1860
+        ]
+      },
+      {
+        "cell_index": 73,
+        "text": "DIRECT CREDIT",
+        "merged": false,
+        "components": [
+          74
+        ],
+        "box": [
+          387,
+          1826,
+          652,
+          1856
+        ]
+      },
+      {
+        "cell_index": 74,
+        "text": "HMRC JRS Grant (846PH00280198)",
+        "merged": false,
+        "components": [
+          75
+        ],
+        "box": [
+          792,
+          1824,
+          1384,
+          1859
+        ]
+      },
+      {
+        "cell_index": 75,
+        "text": "£2133.33",
+        "merged": false,
+        "components": [
+          76
+        ],
+        "box": [
+          1696,
+          1824,
+          1852,
+          1859
+        ]
+      },
+      {
+        "cell_index": 76,
+        "text": "£41869.54",
+        "merged": false,
+        "components": [
+          77
+        ],
+        "box": [
+          2181,
+          1826,
+          2356,
+          1857
+        ]
+      },
+      {
+        "cell_index": 77,
+        "text": "01/09/2020",
+        "merged": false,
+        "components": [
+          78
+        ],
+        "box": [
+          121,
+          1874,
+          320,
+          1908
+        ]
+      },
+      {
+        "cell_index": 78,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          79
+        ],
+        "box": [
+          386,
+          1876,
+          699,
+          1905
+        ]
+      },
+      {
+        "cell_index": 79,
+        "text": "Lalith Bhiraju (From Yes Group I..)",
+        "merged": false,
+        "components": [
+          80
+        ],
+        "box": [
+          792,
+          1873,
+          1350,
+          1912
+        ]
+      },
+      {
+        "cell_index": 80,
+        "text": "£2000.00",
+        "merged": false,
+        "components": [
+          81
+        ],
+        "box": [
+          1932,
+          1874,
+          2090,
+          1908
+        ]
+      },
+      {
+        "cell_index": 81,
+        "text": "£39869.54",
+        "merged": false,
+        "components": [
+          82
+        ],
+        "box": [
+          2179,
+          1875,
+          2357,
+          1908
+        ]
+      },
+      {
+        "cell_index": 82,
+        "text": "02/09/2020",
+        "merged": false,
+        "components": [
+          83
+        ],
+        "box": [
+          121,
+          1923,
+          320,
+          1958
+        ]
+      },
+      {
+        "cell_index": 83,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          84
+        ],
+        "box": [
+          387,
+          1925,
+          699,
+          1955
+        ]
+      },
+      {
+        "cell_index": 84,
+        "text": "FundingCircle Limited (FC000O0OOO01d092)",
+        "merged": false,
+        "components": [
+          85
+        ],
+        "box": [
+          794,
+          1925,
+          1523,
+          1959
+        ]
+      },
+      {
+        "cell_index": 85,
+        "text": "£150000.00",
+        "merged": false,
+        "components": [
+          86
+        ],
+        "box": [
+          1655,
+          1924,
+          1852,
+          1958
+        ]
+      },
+      {
+        "cell_index": 86,
+        "text": "02/09/2020",
+        "merged": false,
+        "components": [
+          87
+        ],
+        "box": [
+          121,
+          1973,
+          320,
+          2008
+        ]
+      },
+      {
+        "cell_index": 87,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          88
+        ],
+        "box": [
+          386,
+          1975,
+          699,
+          2005
+        ]
+      },
+      {
+        "cell_index": 88,
+        "text": "Advice Consultant Limited (Aug Inv Yesgroup)",
+        "merged": false,
+        "components": [
+          89
+        ],
+        "box": [
+          790,
+          1972,
+          1541,
+          2012
+        ]
+      },
+      {
+        "cell_index": 89,
+        "text": "£4800.00",
+        "merged": false,
+        "components": [
+          90
+        ],
+        "box": [
+          1933,
+          1973,
+          2090,
+          2008
+        ]
+      },
+      {
+        "cell_index": 90,
+        "text": "£185069.54",
+        "merged": false,
+        "components": [
+          91
+        ],
+        "box": [
+          2159,
+          1972,
+          2357,
+          2009
+        ]
+      },
+      {
+        "cell_index": 91,
+        "text": "03/09/2020",
+        "merged": false,
+        "components": [
+          92
+        ],
+        "box": [
+          121,
+          2023,
+          320,
+          2058
+        ]
+      },
+      {
+        "cell_index": 92,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          93
+        ],
+        "box": [
+          387,
+          2027,
+          698,
+          2054
+        ]
+      },
+      {
+        "cell_index": 93,
+        "text": "Advice Consultant Ltd (Aug Inv)",
+        "merged": false,
+        "components": [
+          94
+        ],
+        "box": [
+          790,
+          2022,
+          1314,
+          2062
+        ]
+      },
+      {
+        "cell_index": 94,
+        "text": "£8800.00",
+        "merged": false,
+        "components": [
+          95
+        ],
+        "box": [
+          1933,
+          2024,
+          2090,
+          2058
+        ]
+      },
+      {
+        "cell_index": 95,
+        "text": "03/09/2020",
+        "merged": false,
+        "components": [
+          96
+        ],
+        "box": [
+          121,
+          2073,
+          320,
+          2108
+        ]
+      },
+      {
+        "cell_index": 96,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          97
+        ],
+        "box": [
+          386,
+          2076,
+          699,
+          2106
+        ]
+      },
+      {
+        "cell_index": 97,
+        "text": "ANGEL BUSINESS CONSULTANTS (Yes Group",
+        "merged": false,
+        "components": [
+          98
+        ],
+        "box": [
+          790,
+          2070,
+          1559,
+          2113
+        ]
+      },
+      {
+        "cell_index": 98,
+        "text": "£3000.00",
+        "merged": false,
+        "components": [
+          99
+        ],
+        "box": [
+          1932,
+          2074,
+          2090,
+          2109
+        ]
+      },
+      {
+        "cell_index": 99,
+        "text": "£173269.54",
+        "merged": false,
+        "components": [
+          100
+        ],
+        "box": [
+          2159,
+          2073,
+          2356,
+          2107
+        ]
+      },
+      {
+        "cell_index": 100,
+        "text": "04/09/2020",
+        "merged": false,
+        "components": [
+          102
+        ],
+        "box": [
+          121,
+          2174,
+          320,
+          2208
+        ]
+      },
+      {
+        "cell_index": 101,
+        "text": "ONLINE PAYMENT",
+        "merged": false,
+        "components": [
+          103
+        ],
+        "box": [
+          387,
+          2176,
+          699,
+          2205
+        ]
+      },
+      {
+        "cell_index": 102,
+        "text": "Intld) Icon Offices",
+        "merged": true,
+        "components": [
+          101,
+          104
+        ],
+        "box": [
+          789,
+          2119,
+          990,
+          2208
+        ]
+      },
+      {
+        "cell_index": 103,
+        "text": "£5.99",
+        "merged": false,
+        "components": [
+          105
+        ],
+        "box": [
+          1992,
+          2173,
+          2091,
+          2208
+        ]
+      },
+      {
+        "cell_index": 104,
+        "text": "04/09/2020",
+        "merged": false,
+        "components": [
+          106
+        ],
+        "box": [
+          121,
+          2223,
+          320,
+          2258
+        ]
+      },
+      {
+        "cell_index": 105,
+        "text": "ONLINE PAYMENT",
+        "merged": false,
+        "components": [
+          107
+        ],
+        "box": [
+          387,
+          2227,
+          699,
+          2254
+        ]
+      },
+      {
+        "cell_index": 106,
+        "text": "Icon Offices",
+        "merged": false,
+        "components": [
+          108
+        ],
+        "box": [
+          791,
+          2223,
+          991,
+          2258
+        ]
+      },
+      {
+        "cell_index": 107,
+        "text": "£64.87",
+        "merged": false,
+        "components": [
+          109
+        ],
+        "box": [
+          1972,
+          2223,
+          2090,
+          2258
+        ]
+      },
+      {
+        "cell_index": 108,
+        "text": "04/09/2020",
+        "merged": false,
+        "components": [
+          110
+        ],
+        "box": [
+          121,
+          2273,
+          320,
+          2308
+        ]
+      },
+      {
+        "cell_index": 109,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          111
+        ],
+        "box": [
+          387,
+          2277,
+          698,
+          2304
+        ]
+      },
+      {
+        "cell_index": 110,
+        "text": "Advice Consultant Ltd (Aug Inv)",
+        "merged": false,
+        "components": [
+          112
+        ],
+        "box": [
+          791,
+          2273,
+          1311,
+          2310
+        ]
+      },
+      {
+        "cell_index": 111,
+        "text": "£5760.00",
+        "merged": false,
+        "components": [
+          113
+        ],
+        "box": [
+          1933,
+          2274,
+          2090,
+          2309
+        ]
+      },
+      {
+        "cell_index": 112,
+        "text": "04/09/2020",
+        "merged": false,
+        "components": [
+          114
+        ],
+        "box": [
+          121,
+          2323,
+          320,
+          2358
+        ]
+      },
+      {
+        "cell_index": 113,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          115
+        ],
+        "box": [
+          386,
+          2325,
+          700,
+          2355
+        ]
+      },
+      {
+        "cell_index": 114,
+        "text": "Advice Consultant Ltd (Aug Inv)",
+        "merged": false,
+        "components": [
+          116
+        ],
+        "box": [
+          791,
+          2323,
+          1312,
+          2360
+        ]
+      },
+      {
+        "cell_index": 115,
+        "text": "£4800.00",
+        "merged": false,
+        "components": [
+          117
+        ],
+        "box": [
+          1932,
+          2324,
+          2090,
+          2358
+        ]
+      },
+      {
+        "cell_index": 116,
+        "text": "£162638.68",
+        "merged": false,
+        "components": [
+          118
+        ],
+        "box": [
+          2159,
+          2324,
+          2356,
+          2358
+        ]
+      },
+      {
+        "cell_index": 117,
+        "text": "05/09/2020",
+        "merged": false,
+        "components": [
+          119
+        ],
+        "box": [
+          121,
+          2373,
+          320,
+          2408
+        ]
+      },
+      {
+        "cell_index": 118,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          120
+        ],
+        "box": [
+          387,
+          2377,
+          698,
+          2404
+        ]
+      },
+      {
+        "cell_index": 119,
+        "text": "Advice Consultant Limited (Aug Inv Yesgroup)",
+        "merged": false,
+        "components": [
+          121
+        ],
+        "box": [
+          790,
+          2371,
+          1540,
+          2412
+        ]
+      },
+      {
+        "cell_index": 120,
+        "text": "£5900.00",
+        "merged": false,
+        "components": [
+          122
+        ],
+        "box": [
+          1932,
+          2373,
+          2090,
+          2408
+        ]
+      },
+      {
+        "cell_index": 121,
+        "text": "05/09/2020",
+        "merged": false,
+        "components": [
+          123
+        ],
+        "box": [
+          119,
+          2420,
+          321,
+          2460
+        ]
+      },
+      {
+        "cell_index": 122,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          124
+        ],
+        "box": [
+          388,
+          2427,
+          698,
+          2454
+        ]
+      },
+      {
+        "cell_index": 123,
+        "text": "Advice Consultant Ltd (Aug Inv Yes Group)",
+        "merged": false,
+        "components": [
+          125
+        ],
+        "box": [
+          791,
+          2424,
+          1488,
+          2460
+        ]
+      },
+      {
+        "cell_index": 124,
+        "text": "£6600.00",
+        "merged": false,
+        "components": [
+          126
+        ],
+        "box": [
+          1933,
+          2424,
+          2090,
+          2459
+        ]
+      },
+      {
+        "cell_index": 125,
+        "text": "£150138.68",
+        "merged": false,
+        "components": [
+          127
+        ],
+        "box": [
+          2160,
+          2424,
+          2356,
+          2458
+        ]
+      },
+      {
+        "cell_index": 126,
+        "text": "07/09/2020",
+        "merged": false,
+        "components": [
+          128
+        ],
+        "box": [
+          120,
+          2472,
+          321,
+          2509
+        ]
+      },
+      {
+        "cell_index": 127,
+        "text": "ONLINE PAYMENT",
+        "merged": false,
+        "components": [
+          129
+        ],
+        "box": [
+          387,
+          2478,
+          698,
+          2504
+        ]
+      },
+      {
+        "cell_index": 128,
+        "text": "Icon Offices",
+        "merged": false,
+        "components": [
+          130
+        ],
+        "box": [
+          791,
+          2474,
+          991,
+          2508
+        ]
+      },
+      {
+        "cell_index": 129,
+        "text": "£5.99",
+        "merged": false,
+        "components": [
+          131
+        ],
+        "box": [
+          1753,
+          2472,
+          1855,
+          2510
+        ]
+      },
+      {
+        "cell_index": 130,
+        "text": "07/09/2020",
+        "merged": false,
+        "components": [
+          132
+        ],
+        "box": [
+          121,
+          2523,
+          320,
+          2558
+        ]
+      },
+      {
+        "cell_index": 131,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          133
+        ],
+        "box": [
+          388,
+          2527,
+          698,
+          2554
+        ]
+      },
+      {
+        "cell_index": 132,
+        "text": "S Roy (Yes Group Sal Aug)",
+        "merged": false,
+        "components": [
+          134
+        ],
+        "box": [
+          788,
+          2520,
+          1226,
+          2562
+        ]
+      },
+      {
+        "cell_index": 133,
+        "text": "£955.84",
+        "merged": false,
+        "components": [
+          135
+        ],
+        "box": [
+          1952,
+          2522,
+          2091,
+          2557
+        ]
+      },
+      {
+        "cell_index": 134,
+        "text": "07/09/2020",
+        "merged": false,
+        "components": [
+          136
+        ],
+        "box": [
+          121,
+          2573,
+          320,
+          2608
+        ]
+      },
+      {
+        "cell_index": 135,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          137
+        ],
+        "box": [
+          388,
+          2577,
+          698,
+          2604
+        ]
+      },
+      {
+        "cell_index": 136,
+        "text": "J L Consultancy Limited (CIBIL Consult Fee)",
+        "merged": false,
+        "components": [
+          138
+        ],
+        "box": [
+          791,
+          2573,
+          1511,
+          2609
+        ]
+      },
+      {
+        "cell_index": 137,
+        "text": "£250.00",
+        "merged": false,
+        "components": [
+          139
+        ],
+        "box": [
+          1953,
+          2575,
+          2089,
+          2607
+        ]
+      },
+      {
+        "cell_index": 138,
+        "text": "07/09/2020",
+        "merged": false,
+        "components": [
+          140
+        ],
+        "box": [
+          121,
+          2623,
+          320,
+          2658
+        ]
+      },
+      {
+        "cell_index": 139,
+        "text": "ONLINE PAYMENT",
+        "merged": false,
+        "components": [
+          141
+        ],
+        "box": [
+          388,
+          2627,
+          698,
+          2654
+        ]
+      },
+      {
+        "cell_index": 140,
+        "text": "GoDaddy",
+        "merged": false,
+        "components": [
+          142
+        ],
+        "box": [
+          790,
+          2622,
+          951,
+          2662
+        ]
+      },
+      {
+        "cell_index": 141,
+        "text": "£10.98",
+        "merged": false,
+        "components": [
+          143
+        ],
+        "box": [
+          1972,
+          2623,
+          2091,
+          2658
+        ]
+      },
+      {
+        "cell_index": 142,
+        "text": "£148927.85",
+        "merged": false,
+        "components": [
+          144
+        ],
+        "box": [
+          2160,
+          2624,
+          2356,
+          2658
+        ]
+      },
+      {
+        "cell_index": 143,
+        "text": "08/09/2020",
+        "merged": false,
+        "components": [
+          145
+        ],
+        "box": [
+          121,
+          2674,
+          320,
+          2709
+        ]
+      },
+      {
+        "cell_index": 144,
+        "text": "ONLINE PAYMENT",
+        "merged": false,
+        "components": [
+          146
+        ],
+        "box": [
+          386,
+          2676,
+          699,
+          2706
+        ]
+      },
+      {
+        "cell_index": 145,
+        "text": "HMRC",
+        "merged": false,
+        "components": [
+          147
+        ],
+        "box": [
+          792,
+          2673,
+          904,
+          2709
+        ]
+      },
+      {
+        "cell_index": 146,
+        "text": "£254.92",
+        "merged": false,
+        "components": [
+          148
+        ],
+        "box": [
+          1952,
+          2674,
+          2090,
+          2709
+        ]
+      },
+      {
+        "cell_index": 147,
+        "text": "08/09/2020",
+        "merged": false,
+        "components": [
+          149
+        ],
+        "box": [
+          121,
+          2724,
+          320,
+          2759
+        ]
+      },
+      {
+        "cell_index": 148,
+        "text": "ONLINE PAYMENT",
+        "merged": false,
+        "components": [
+          150
+        ],
+        "box": [
+          388,
+          2728,
+          698,
+          2755
+        ]
+      },
+      {
+        "cell_index": 149,
+        "text": "HMRC",
+        "merged": false,
+        "components": [
+          151
+        ],
+        "box": [
+          792,
+          2723,
+          904,
+          2758
+        ]
+      },
+      {
+        "cell_index": 150,
+        "text": "£254.72",
+        "merged": false,
+        "components": [
+          152
+        ],
+        "box": [
+          1952,
+          2724,
+          2090,
+          2759
+        ]
+      },
+      {
+        "cell_index": 151,
+        "text": "£148418.21",
+        "merged": false,
+        "components": [
+          153
+        ],
+        "box": [
+          2161,
+          2726,
+          2355,
+          2757
+        ]
+      },
+      {
+        "cell_index": 152,
+        "text": "09/09/2020",
+        "merged": false,
+        "components": [
+          154
+        ],
+        "box": [
+          120,
+          2772,
+          321,
+          2809
+        ]
+      },
+      {
+        "cell_index": 153,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          155
+        ],
+        "box": [
+          387,
+          2776,
+          699,
+          2805
+        ]
+      },
+      {
+        "cell_index": 154,
+        "text": "Advice Consultant Limited (Aug Inv Yesgroup)",
+        "merged": false,
+        "components": [
+          156
+        ],
+        "box": [
+          790,
+          2770,
+          1541,
+          2811
+        ]
+      },
+      {
+        "cell_index": 155,
+        "text": "£6600.00",
+        "merged": false,
+        "components": [
+          157
+        ],
+        "box": [
+          1933,
+          2775,
+          2090,
+          2808
+        ]
+      },
+      {
+        "cell_index": 156,
+        "text": "£141818.21",
+        "merged": false,
+        "components": [
+          158
+        ],
+        "box": [
+          2161,
+          2776,
+          2355,
+          2806
+        ]
+      },
+      {
+        "cell_index": 157,
+        "text": "10/09/2020",
+        "merged": false,
+        "components": [
+          159
+        ],
+        "box": [
+          122,
+          2823,
+          320,
+          2858
+        ]
+      },
+      {
+        "cell_index": 158,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          160
+        ],
+        "box": [
+          388,
+          2827,
+          698,
+          2854
+        ]
+      },
+      {
+        "cell_index": 159,
+        "text": "Tecpoint LTD (TP-JULY INV 1)",
+        "merged": false,
+        "components": [
+          161
+        ],
+        "box": [
+          791,
+          2825,
+          1288,
+          2859
+        ]
+      },
+      {
+        "cell_index": 160,
+        "text": "£35142.00",
+        "merged": false,
+        "components": [
+          162
+        ],
+        "box": [
+          1675,
+          2824,
+          1853,
+          2858
+        ]
+      },
+      {
+        "cell_index": 161,
+        "text": "10/09/2020",
+        "merged": false,
+        "components": [
+          163
+        ],
+        "box": [
+          120,
+          2870,
+          321,
+          2910
+        ]
+      },
+      {
+        "cell_index": 162,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          164
+        ],
+        "box": [
+          388,
+          2876,
+          698,
+          2903
+        ]
+      },
+      {
+        "cell_index": 163,
+        "text": "Guduru Global Limited (Guduru Ab Inv July)",
+        "merged": false,
+        "components": [
+          165
+        ],
+        "box": [
+          791,
+          2870,
+          1505,
+          2912
+        ]
+      },
+      {
+        "cell_index": 164,
+        "text": "£9384.00",
+        "merged": false,
+        "components": [
+          166
+        ],
+        "box": [
+          1932,
+          2874,
+          2090,
+          2908
+        ]
+      },
+      {
+        "cell_index": 165,
+        "text": "10/09/2020",
+        "merged": false,
+        "components": [
+          167
+        ],
+        "box": [
+          122,
+          2924,
+          320,
+          2959
+        ]
+      },
+      {
+        "cell_index": 166,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          168
+        ],
+        "box": [
+          388,
+          2927,
+          698,
+          2954
+        ]
+      },
+      {
+        "cell_index": 167,
+        "text": "EYS CONSULTING LIMITED (Eys Sud Inv July)",
+        "merged": false,
+        "components": [
+          169
+        ],
+        "box": [
+          791,
+          2922,
+          1546,
+          2962
+        ]
+      },
+      {
+        "cell_index": 168,
+        "text": "£8832.00",
+        "merged": false,
+        "components": [
+          170
+        ],
+        "box": [
+          1932,
+          2924,
+          2090,
+          2958
+        ]
+      },
+      {
+        "cell_index": 169,
+        "text": "£158744.21",
+        "merged": false,
+        "components": [
+          171
+        ],
+        "box": [
+          2160,
+          2924,
+          2356,
+          2958
+        ]
+      },
+      {
+        "cell_index": 170,
+        "text": "11/09/2020",
+        "merged": false,
+        "components": [
+          172
+        ],
+        "box": [
+          122,
+          2974,
+          320,
+          3009
+        ]
+      },
+      {
+        "cell_index": 171,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          173
+        ],
+        "box": [
+          387,
+          2976,
+          699,
+          3006
+        ]
+      },
+      {
+        "cell_index": 172,
+        "text": "AKSHA IT CONSULTANTS LTD (Aksha July Inv)",
+        "merged": false,
+        "components": [
+          174
+        ],
+        "box": [
+          789,
+          2969,
+          1566,
+          3013
+        ]
+      },
+      {
+        "cell_index": 173,
+        "text": "£14280.00",
+        "merged": false,
+        "components": [
+          175
+        ],
+        "box": [
+          1913,
+          2974,
+          2090,
+          3009
+        ]
+      },
+      {
+        "cell_index": 174,
+        "text": "£144464.21",
+        "merged": false,
+        "components": [
+          176
+        ],
+        "box": [
+          2161,
+          2976,
+          2355,
+          3007
+        ]
+      },
+      {
+        "cell_index": 175,
+        "text": "16/09/2020",
+        "merged": false,
+        "components": [
+          177
+        ],
+        "box": [
+          122,
+          3024,
+          320,
+          3059
+        ]
+      },
+      {
+        "cell_index": 176,
+        "text": "DIRECT DEBIT",
+        "merged": false,
+        "components": [
+          178
+        ],
+        "box": [
+          387,
+          3026,
+          628,
+          3056
+        ]
+      },
+      {
+        "cell_index": 177,
+        "text": "American Express (37420721877)",
+        "merged": false,
+        "components": [
+          179
+        ],
+        "box": [
+          791,
+          3024,
+          1341,
+          3060
+        ]
+      },
+      {
+        "cell_index": 178,
+        "text": "£22.88",
+        "merged": false,
+        "components": [
+          180
+        ],
+        "box": [
+          1971,
+          3024,
+          2091,
+          3059
+        ]
+      },
+      {
+        "cell_index": 179,
+        "text": "16/09/2020",
+        "merged": false,
+        "components": [
+          181
+        ],
+        "box": [
+          122,
+          3073,
+          320,
+          3108
+        ]
+      },
+      {
+        "cell_index": 180,
+        "text": "DIRECT DEBIT",
+        "merged": false,
+        "components": [
+          182
+        ],
+        "box": [
+          387,
+          3075,
+          628,
+          3106
+        ]
+      },
+      {
+        "cell_index": 181,
+        "text": "Vitality Corporate Services (51950673)",
+        "merged": false,
+        "components": [
+          183
+        ],
+        "box": [
+          790,
+          3072,
+          1428,
+          3110
+        ]
+      },
+      {
+        "cell_index": 182,
+        "text": "£325.53",
+        "merged": false,
+        "components": [
+          184
+        ],
+        "box": [
+          1952,
+          3073,
+          2090,
+          3108
+        ]
+      },
+      {
+        "cell_index": 183,
+        "text": "£144115.80",
+        "merged": false,
+        "components": [
+          185
+        ],
+        "box": [
+          2160,
+          3073,
+          2356,
+          3107
+        ]
+      },
+      {
+        "cell_index": 184,
+        "text": "17/09/2020",
+        "merged": false,
+        "components": [
+          186
+        ],
+        "box": [
+          122,
+          3123,
+          320,
+          3158
+        ]
+      },
+      {
+        "cell_index": 185,
+        "text": "DIRECT DEBIT",
+        "merged": false,
+        "components": [
+          187
+        ],
+        "box": [
+          387,
+          3125,
+          627,
+          3155
+        ]
+      },
+      {
+        "cell_index": 186,
+        "text": "EE (Q04878970)",
+        "merged": false,
+        "components": [
+          188
+        ],
+        "box": [
+          792,
+          3123,
+          1067,
+          3160
+        ]
+      },
+      {
+        "cell_index": 187,
+        "text": "£97.63",
+        "merged": false,
+        "components": [
+          189
+        ],
+        "box": [
+          1972,
+          3123,
+          2090,
+          3158
+        ]
+      },
+      {
+        "cell_index": 188,
+        "text": "£144018.17",
+        "merged": false,
+        "components": [
+          190
+        ],
+        "box": [
+          2161,
+          3125,
+          2355,
+          3156
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "cells": [
+      {
+        "cell_index": 0,
+        "text": "DATE",
+        "merged": false,
+        "components": [
+          1
+        ],
+        "box": [
+          123,
+          962,
+          220,
+          994
+        ]
+      },
+      {
+        "cell_index": 1,
+        "text": "TYPE",
+        "merged": false,
+        "components": [
+          2
+        ],
+        "box": [
+          384,
+          963,
+          475,
+          992
+        ]
+      },
+      {
+        "cell_index": 2,
+        "text": "TRANSACTION",
+        "merged": false,
+        "components": [
+          3
+        ],
+        "box": [
+          793,
+          963,
+          1047,
+          993
+        ]
+      },
+      {
+        "cell_index": 3,
+        "text": "IN",
+        "merged": false,
+        "components": [
+          4
+        ],
+        "box": [
+          1814,
+          961,
+          1857,
+          996
+        ]
+      },
+      {
+        "cell_index": 4,
+        "text": "OUT",
+        "merged": false,
+        "components": [
+          5
+        ],
+        "box": [
+          2010,
+          960,
+          2092,
+          996
+        ]
+      },
+      {
+        "cell_index": 5,
+        "text": "END OF DAY",
+        "merged": false,
+        "components": [
+          0
+        ],
+        "box": [
+          2140,
+          911,
+          2361,
+          945
+        ]
+      },
+      {
+        "cell_index": 6,
+        "text": "ACCOUNT BALANCE",
+        "merged": true,
+        "components": [
+          6,
+          7
+        ],
+        "box": [
+          2180,
+          963,
+          2361,
+          1043
+        ]
+      },
+      {
+        "cell_index": 7,
+        "text": "19/09/2020",
+        "merged": false,
+        "components": [
+          8
+        ],
+        "box": [
+          122,
+          1073,
+          320,
+          1108
+        ]
+      },
+      {
+        "cell_index": 8,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          9
+        ],
+        "box": [
+          386,
+          1075,
+          697,
+          1104
+        ]
+      },
+      {
+        "cell_index": 9,
+        "text": "INSYS SYSTEMS LIMI (JUL-AUG)",
+        "merged": false,
+        "components": [
+          10
+        ],
+        "box": [
+          792,
+          1073,
+          1339,
+          1108
+        ]
+      },
+      {
+        "cell_index": 10,
+        "text": "£16800.00",
+        "merged": false,
+        "components": [
+          11
+        ],
+        "box": [
+          1676,
+          1073,
+          1853,
+          1108
+        ]
+      },
+      {
+        "cell_index": 11,
+        "text": "£160818.17",
+        "merged": false,
+        "components": [
+          12
+        ],
+        "box": [
+          2161,
+          1075,
+          2355,
+          1106
+        ]
+      },
+      {
+        "cell_index": 12,
+        "text": "21/09/2020",
+        "merged": false,
+        "components": [
+          13
+        ],
+        "box": [
+          122,
+          1123,
+          320,
+          1158
+        ]
+      },
+      {
+        "cell_index": 13,
+        "text": "DIRECT DEBIT",
+        "merged": false,
+        "components": [
+          14
+        ],
+        "box": [
+          387,
+          1125,
+          628,
+          1155
+        ]
+      },
+      {
+        "cell_index": 14,
+        "text": "Hiscox (1275813)",
+        "merged": false,
+        "components": [
+          15
+        ],
+        "box": [
+          795,
+          1126,
+          1075,
+          1157
+        ]
+      },
+      {
+        "cell_index": 15,
+        "text": "£28.32",
+        "merged": false,
+        "components": [
+          16
+        ],
+        "box": [
+          1972,
+          1123,
+          2091,
+          1158
+        ]
+      },
+      {
+        "cell_index": 16,
+        "text": "21/09/2020",
+        "merged": false,
+        "components": [
+          17
+        ],
+        "box": [
+          122,
+          1174,
+          320,
+          1208
+        ]
+      },
+      {
+        "cell_index": 17,
+        "text": "ONLINE PAYMENT",
+        "merged": false,
+        "components": [
+          18
+        ],
+        "box": [
+          387,
+          1176,
+          698,
+          1203
+        ]
+      },
+      {
+        "cell_index": 18,
+        "text": "Experian",
+        "merged": false,
+        "components": [
+          19
+        ],
+        "box": [
+          793,
+          1175,
+          938,
+          1210
+        ]
+      },
+      {
+        "cell_index": 19,
+        "text": "£14.99",
+        "merged": false,
+        "components": [
+          20
+        ],
+        "box": [
+          1973,
+          1174,
+          2089,
+          1206
+        ]
+      },
+      {
+        "cell_index": 20,
+        "text": "£160774.86",
+        "merged": false,
+        "components": [
+          21
+        ],
+        "box": [
+          2159,
+          1174,
+          2357,
+          1208
+        ]
+      },
+      {
+        "cell_index": 21,
+        "text": "01/10/2020",
+        "merged": false,
+        "components": [
+          22
+        ],
+        "box": [
+          120,
+          1222,
+          320,
+          1259
+        ]
+      },
+      {
+        "cell_index": 22,
+        "text": "DIRECT CREDIT",
+        "merged": false,
+        "components": [
+          23
+        ],
+        "box": [
+          388,
+          1226,
+          651,
+          1253
+        ]
+      },
+      {
+        "cell_index": 23,
+        "text": "HMRC JRS Grant (846PH00280198)",
+        "merged": false,
+        "components": [
+          24
+        ],
+        "box": [
+          794,
+          1225,
+          1384,
+          1259
+        ]
+      },
+      {
+        "cell_index": 24,
+        "text": "£1866.66",
+        "merged": false,
+        "components": [
+          25
+        ],
+        "box": [
+          1694,
+          1223,
+          1853,
+          1260
+        ]
+      },
+      {
+        "cell_index": 25,
+        "text": "01/10/2020",
+        "merged": false,
+        "components": [
+          26
+        ],
+        "box": [
+          121,
+          1274,
+          320,
+          1308
+        ]
+      },
+      {
+        "cell_index": 26,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          27
+        ],
+        "box": [
+          388,
+          1277,
+          698,
+          1304
+        ]
+      },
+      {
+        "cell_index": 27,
+        "text": "MIGBP SPARE 42 PRM (L06642 Advance)",
+        "merged": false,
+        "components": [
+          28
+        ],
+        "box": [
+          791,
+          1273,
+          1477,
+          1309
+        ]
+      },
+      {
+        "cell_index": 28,
+        "text": "£150000.00",
+        "merged": false,
+        "components": [
+          29
+        ],
+        "box": [
+          1655,
+          1272,
+          1853,
+          1309
+        ]
+      },
+      {
+        "cell_index": 29,
+        "text": "£312641.52",
+        "merged": false,
+        "components": [
+          30
+        ],
+        "box": [
+          2160,
+          1274,
+          2356,
+          1308
+        ]
+      },
+      {
+        "cell_index": 30,
+        "text": "03/10/2020",
+        "merged": false,
+        "components": [
+          31
+        ],
+        "box": [
+          121,
+          1323,
+          320,
+          1358
+        ]
+      },
+      {
+        "cell_index": 31,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          32
+        ],
+        "box": [
+          388,
+          1326,
+          698,
+          1353
+        ]
+      },
+      {
+        "cell_index": 32,
+        "text": "Advice Consultant Limited (Aug Inv)",
+        "merged": false,
+        "components": [
+          33
+        ],
+        "box": [
+          790,
+          1322,
+          1382,
+          1361
+        ]
+      },
+      {
+        "cell_index": 33,
+        "text": "£4800.00",
+        "merged": false,
+        "components": [
+          34
+        ],
+        "box": [
+          1933,
+          1323,
+          2090,
+          1358
+        ]
+      },
+      {
+        "cell_index": 34,
+        "text": "03/10/2020",
+        "merged": false,
+        "components": [
+          35
+        ],
+        "box": [
+          121,
+          1373,
+          320,
+          1408
+        ]
+      },
+      {
+        "cell_index": 35,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          36
+        ],
+        "box": [
+          388,
+          1377,
+          697,
+          1404
+        ]
+      },
+      {
+        "cell_index": 36,
+        "text": "Advice Consultant Ltd (Aug Inv)",
+        "merged": false,
+        "components": [
+          37
+        ],
+        "box": [
+          791,
+          1373,
+          1313,
+          1409
+        ]
+      },
+      {
+        "cell_index": 37,
+        "text": "£7200.00",
+        "merged": false,
+        "components": [
+          38
+        ],
+        "box": [
+          1932,
+          1374,
+          2090,
+          1408
+        ]
+      },
+      {
+        "cell_index": 38,
+        "text": "£300641.52",
+        "merged": false,
+        "components": [
+          39
+        ],
+        "box": [
+          2161,
+          1375,
+          2355,
+          1406
+        ]
+      },
+      {
+        "cell_index": 39,
+        "text": "05/10/2020",
+        "merged": false,
+        "components": [
+          40
+        ],
+        "box": [
+          120,
+          1422,
+          321,
+          1460
+        ]
+      },
+      {
+        "cell_index": 40,
+        "text": "DIRECT DEBIT",
+        "merged": false,
+        "components": [
+          41
+        ],
+        "box": [
+          388,
+          1427,
+          626,
+          1454
+        ]
+      },
+      {
+        "cell_index": 41,
+        "text": "NEST Pensions (IT000005084431)",
+        "merged": false,
+        "components": [
+          42
+        ],
+        "box": [
+          792,
+          1423,
+          1343,
+          1459
+        ]
+      },
+      {
+        "cell_index": 42,
+        "text": "£227.74",
+        "merged": false,
+        "components": [
+          43
+        ],
+        "box": [
+          1953,
+          1425,
+          2090,
+          1457
+        ]
+      },
+      {
+        "cell_index": 43,
+        "text": "05/10/2020",
+        "merged": false,
+        "components": [
+          44
+        ],
+        "box": [
+          120,
+          1472,
+          321,
+          1510
+        ]
+      },
+      {
+        "cell_index": 44,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          45
+        ],
+        "box": [
+          388,
+          1477,
+          698,
+          1504
+        ]
+      },
+      {
+        "cell_index": 45,
+        "text": "Advice Consultant Limited (Raj Insys)",
+        "merged": false,
+        "components": [
+          46
+        ],
+        "box": [
+          790,
+          1472,
+          1403,
+          1512
+        ]
+      },
+      {
+        "cell_index": 46,
+        "text": "£7200.00",
+        "merged": false,
+        "components": [
+          47
+        ],
+        "box": [
+          1932,
+          1474,
+          2090,
+          1509
+        ]
+      },
+      {
+        "cell_index": 47,
+        "text": "05/10/2020",
+        "merged": false,
+        "components": [
+          48
+        ],
+        "box": [
+          121,
+          1524,
+          320,
+          1559
+        ]
+      },
+      {
+        "cell_index": 48,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          49
+        ],
+        "box": [
+          387,
+          1527,
+          698,
+          1554
+        ]
+      },
+      {
+        "cell_index": 49,
+        "text": "Advice Consultant Ltd (Raj Insys)",
+        "merged": false,
+        "components": [
+          50
+        ],
+        "box": [
+          790,
+          1520,
+          1335,
+          1562
+        ]
+      },
+      {
+        "cell_index": 50,
+        "text": "£4800.00",
+        "merged": false,
+        "components": [
+          51
+        ],
+        "box": [
+          1932,
+          1525,
+          2090,
+          1559
+        ]
+      },
+      {
+        "cell_index": 51,
+        "text": "05/10/2020",
+        "merged": false,
+        "components": [
+          52
+        ],
+        "box": [
+          121,
+          1574,
+          320,
+          1608
+        ]
+      },
+      {
+        "cell_index": 52,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          53
+        ],
+        "box": [
+          386,
+          1575,
+          699,
+          1607
+        ]
+      },
+      {
+        "cell_index": 53,
+        "text": "S Roy (Yes Group Salary)",
+        "merged": false,
+        "components": [
+          54
+        ],
+        "box": [
+          790,
+          1572,
+          1205,
+          1612
+        ]
+      },
+      {
+        "cell_index": 54,
+        "text": "£955.84",
+        "merged": false,
+        "components": [
+          55
+        ],
+        "box": [
+          1953,
+          1576,
+          2089,
+          1608
+        ]
+      },
+      {
+        "cell_index": 55,
+        "text": "£287457.94",
+        "merged": false,
+        "components": [
+          56
+        ],
+        "box": [
+          2161,
+          1576,
+          2355,
+          1607
+        ]
+      },
+      {
+        "cell_index": 56,
+        "text": "06/10/2020",
+        "merged": false,
+        "components": [
+          57
+        ],
+        "box": [
+          121,
+          1623,
+          320,
+          1658
+        ]
+      },
+      {
+        "cell_index": 57,
+        "text": "ONLINE PAYMENT",
+        "merged": false,
+        "components": [
+          58
+        ],
+        "box": [
+          387,
+          1625,
+          698,
+          1654
+        ]
+      },
+      {
+        "cell_index": 58,
+        "text": "HMRC",
+        "merged": false,
+        "components": [
+          59
+        ],
+        "box": [
+          790,
+          1620,
+          904,
+          1659
+        ]
+      },
+      {
+        "cell_index": 59,
+        "text": "£254.72",
+        "merged": false,
+        "components": [
+          60
+        ],
+        "box": [
+          1952,
+          1623,
+          2090,
+          1658
+        ]
+      },
+      {
+        "cell_index": 60,
+        "text": "£287203.22",
+        "merged": false,
+        "components": [
+          61
+        ],
+        "box": [
+          2161,
+          1625,
+          2355,
+          1656
+        ]
+      },
+      {
+        "cell_index": 61,
+        "text": "12/10/2020",
+        "merged": false,
+        "components": [
+          62
+        ],
+        "box": [
+          122,
+          1673,
+          320,
+          1708
+        ]
+      },
+      {
+        "cell_index": 62,
+        "text": "DIRECT DEBIT",
+        "merged": false,
+        "components": [
+          63
+        ],
+        "box": [
+          388,
+          1677,
+          627,
+          1704
+        ]
+      },
+      {
+        "cell_index": 63,
+        "text": "Vitality Corporate Services (51950673)",
+        "merged": false,
+        "components": [
+          64
+        ],
+        "box": [
+          792,
+          1674,
+          1427,
+          1708
+        ]
+      },
+      {
+        "cell_index": 64,
+        "text": "£325.53",
+        "merged": false,
+        "components": [
+          65
+        ],
+        "box": [
+          1954,
+          1675,
+          2089,
+          1707
+        ]
+      },
+      {
+        "cell_index": 65,
+        "text": "£286877.69",
+        "merged": false,
+        "components": [
+          66
+        ],
+        "box": [
+          2160,
+          1674,
+          2356,
+          1708
+        ]
+      },
+      {
+        "cell_index": 66,
+        "text": "13/10/2020",
+        "merged": false,
+        "components": [
+          67
+        ],
+        "box": [
+          120,
+          1720,
+          321,
+          1760
+        ]
+      },
+      {
+        "cell_index": 67,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          68
+        ],
+        "box": [
+          388,
+          1727,
+          698,
+          1754
+        ]
+      },
+      {
+        "cell_index": 68,
+        "text": "13000620 (YES GROUP INTERNAT)",
+        "merged": false,
+        "components": [
+          69
+        ],
+        "box": [
+          791,
+          1723,
+          1373,
+          1758
+        ]
+      },
+      {
+        "cell_index": 69,
+        "text": "£320.29",
+        "merged": false,
+        "components": [
+          70
+        ],
+        "box": [
+          1715,
+          1723,
+          1853,
+          1758
+        ]
+      },
+      {
+        "cell_index": 70,
+        "text": "13/10/2020",
+        "merged": false,
+        "components": [
+          71
+        ],
+        "box": [
+          122,
+          1774,
+          320,
+          1809
+        ]
+      },
+      {
+        "cell_index": 71,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          72
+        ],
+        "box": [
+          387,
+          1776,
+          699,
+          1806
+        ]
+      },
+      {
+        "cell_index": 72,
+        "text": "Tecpoint LTD (TP-AUG-INV 1)",
+        "merged": false,
+        "components": [
+          73
+        ],
+        "box": [
+          790,
+          1774,
+          1285,
+          1811
+        ]
+      },
+      {
+        "cell_index": 73,
+        "text": "£34062.00",
+        "merged": false,
+        "components": [
+          74
+        ],
+        "box": [
+          1676,
+          1774,
+          1853,
+          1809
+        ]
+      },
+      {
+        "cell_index": 74,
+        "text": "13/10/2020",
+        "merged": false,
+        "components": [
+          75
+        ],
+        "box": [
+          122,
+          1824,
+          320,
+          1859
+        ]
+      },
+      {
+        "cell_index": 75,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          76
+        ],
+        "box": [
+          386,
+          1825,
+          699,
+          1857
+        ]
+      },
+      {
+        "cell_index": 76,
+        "text": "EYS CONSULTING LIMITED (Eys Sud Inv Aug)",
+        "merged": false,
+        "components": [
+          77
+        ],
+        "box": [
+          789,
+          1821,
+          1546,
+          1863
+        ]
+      },
+      {
+        "cell_index": 77,
+        "text": "£9264.00",
+        "merged": false,
+        "components": [
+          78
+        ],
+        "box": [
+          1934,
+          1826,
+          2089,
+          1857
+        ]
+      },
+      {
+        "cell_index": 78,
+        "text": "13/10/2020",
+        "merged": false,
+        "components": [
+          79
+        ],
+        "box": [
+          122,
+          1874,
+          320,
+          1908
+        ]
+      },
+      {
+        "cell_index": 79,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          80
+        ],
+        "box": [
+          386,
+          1876,
+          699,
+          1905
+        ]
+      },
+      {
+        "cell_index": 80,
+        "text": "Guduru Global Limited (Guduru Ab Inv Aug)",
+        "merged": false,
+        "components": [
+          81
+        ],
+        "box": [
+          790,
+          1873,
+          1504,
+          1911
+        ]
+      },
+      {
+        "cell_index": 81,
+        "text": "£9690.00",
+        "merged": false,
+        "components": [
+          82
+        ],
+        "box": [
+          1933,
+          1875,
+          2089,
+          1908
+        ]
+      },
+      {
+        "cell_index": 82,
+        "text": "13/10/2020",
+        "merged": false,
+        "components": [
+          83
+        ],
+        "box": [
+          122,
+          1923,
+          320,
+          1958
+        ]
+      },
+      {
+        "cell_index": 83,
+        "text": "CARD PAYMENT",
+        "merged": false,
+        "components": [
+          84
+        ],
+        "box": [
+          387,
+          1927,
+          664,
+          1954
+        ]
+      },
+      {
+        "cell_index": 84,
+        "text": "Three",
+        "merged": false,
+        "components": [
+          85
+        ],
+        "box": [
+          788,
+          1921,
+          891,
+          1961
+        ]
+      },
+      {
+        "cell_index": 85,
+        "text": "£14.00",
+        "merged": false,
+        "components": [
+          86
+        ],
+        "box": [
+          1972,
+          1923,
+          2090,
+          1958
+        ]
+      },
+      {
+        "cell_index": 86,
+        "text": "£302291.98",
+        "merged": false,
+        "components": [
+          87
+        ],
+        "box": [
+          2161,
+          1925,
+          2355,
+          1956
+        ]
+      },
+      {
+        "cell_index": 87,
+        "text": "15/10/2020",
+        "merged": false,
+        "components": [
+          88
+        ],
+        "box": [
+          122,
+          1973,
+          320,
+          2008
+        ]
+      },
+      {
+        "cell_index": 88,
+        "text": "DIRECT DEBIT",
+        "merged": false,
+        "components": [
+          89
+        ],
+        "box": [
+          387,
+          1975,
+          627,
+          2005
+        ]
+      },
+      {
+        "cell_index": 89,
+        "text": "American Express (37420721877)",
+        "merged": false,
+        "components": [
+          90
+        ],
+        "box": [
+          792,
+          1973,
+          1342,
+          2010
+        ]
+      },
+      {
+        "cell_index": 90,
+        "text": "£49.17",
+        "merged": false,
+        "components": [
+          91
+        ],
+        "box": [
+          1972,
+          1973,
+          2090,
+          2008
+        ]
+      },
+      {
+        "cell_index": 91,
+        "text": "15/10/2020",
+        "merged": false,
+        "components": [
+          92
+        ],
+        "box": [
+          120,
+          2020,
+          321,
+          2060
+        ]
+      },
+      {
+        "cell_index": 92,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          93
+        ],
+        "box": [
+          388,
+          2027,
+          698,
+          2054
+        ]
+      },
+      {
+        "cell_index": 93,
+        "text": "Lalith Bhiraju (From Yes Group I..)",
+        "merged": false,
+        "components": [
+          94
+        ],
+        "box": [
+          792,
+          2023,
+          1349,
+          2062
+        ]
+      },
+      {
+        "cell_index": 94,
+        "text": "£1000.00",
+        "merged": false,
+        "components": [
+          95
+        ],
+        "box": [
+          1933,
+          2024,
+          2090,
+          2059
+        ]
+      },
+      {
+        "cell_index": 95,
+        "text": "15/10/2020",
+        "merged": false,
+        "components": [
+          96
+        ],
+        "box": [
+          120,
+          2070,
+          321,
+          2110
+        ]
+      },
+      {
+        "cell_index": 96,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          97
+        ],
+        "box": [
+          387,
+          2076,
+          699,
+          2106
+        ]
+      },
+      {
+        "cell_index": 97,
+        "text": "Eshwar (FL NV)",
+        "merged": false,
+        "components": [
+          98
+        ],
+        "box": [
+          792,
+          2074,
+          1055,
+          2110
+        ]
+      },
+      {
+        "cell_index": 98,
+        "text": "£3170.00",
+        "merged": false,
+        "components": [
+          99
+        ],
+        "box": [
+          1933,
+          2074,
+          2090,
+          2109
+        ]
+      },
+      {
+        "cell_index": 99,
+        "text": "£298072.81",
+        "merged": false,
+        "components": [
+          100
+        ],
+        "box": [
+          2160,
+          2074,
+          2355,
+          2108
+        ]
+      },
+      {
+        "cell_index": 100,
+        "text": "19/10/2020",
+        "merged": false,
+        "components": [
+          101
+        ],
+        "box": [
+          122,
+          2124,
+          320,
+          2159
+        ]
+      },
+      {
+        "cell_index": 101,
+        "text": "DIRECT DEBIT",
+        "merged": false,
+        "components": [
+          102
+        ],
+        "box": [
+          387,
+          2126,
+          628,
+          2156
+        ]
+      },
+      {
+        "cell_index": 102,
+        "text": "EE (Q04878970)",
+        "merged": false,
+        "components": [
+          103
+        ],
+        "box": [
+          791,
+          2124,
+          1065,
+          2161
+        ]
+      },
+      {
+        "cell_index": 103,
+        "text": "£97.08",
+        "merged": false,
+        "components": [
+          104
+        ],
+        "box": [
+          1972,
+          2124,
+          2091,
+          2159
+        ]
+      },
+      {
+        "cell_index": 104,
+        "text": "19/10/2020",
+        "merged": false,
+        "components": [
+          105
+        ],
+        "box": [
+          122,
+          2174,
+          320,
+          2208
+        ]
+      },
+      {
+        "cell_index": 105,
+        "text": "ONLINE PAYMENT",
+        "merged": false,
+        "components": [
+          106
+        ],
+        "box": [
+          386,
+          2173,
+          699,
+          2207
+        ]
+      },
+      {
+        "cell_index": 106,
+        "text": "Three",
+        "merged": false,
+        "components": [
+          107
+        ],
+        "box": [
+          789,
+          2171,
+          891,
+          2211
+        ]
+      },
+      {
+        "cell_index": 107,
+        "text": "£5.27",
+        "merged": false,
+        "components": [
+          108
+        ],
+        "box": [
+          1992,
+          2174,
+          2090,
+          2209
+        ]
+      },
+      {
+        "cell_index": 108,
+        "text": "19/10/2020",
+        "merged": false,
+        "components": [
+          109
+        ],
+        "box": [
+          122,
+          2223,
+          320,
+          2258
+        ]
+      },
+      {
+        "cell_index": 109,
+        "text": "ONLINE PAYMENT",
+        "merged": false,
+        "components": [
+          110
+        ],
+        "box": [
+          386,
+          2225,
+          699,
+          2255
+        ]
+      },
+      {
+        "cell_index": 110,
+        "text": "Experian",
+        "merged": false,
+        "components": [
+          111
+        ],
+        "box": [
+          791,
+          2223,
+          939,
+          2261
+        ]
+      },
+      {
+        "cell_index": 111,
+        "text": "£14.99",
+        "merged": false,
+        "components": [
+          112
+        ],
+        "box": [
+          1972,
+          2222,
+          2090,
+          2257
+        ]
+      },
+      {
+        "cell_index": 112,
+        "text": "£297955.47",
+        "merged": false,
+        "components": [
+          113
+        ],
+        "box": [
+          2161,
+          2225,
+          2354,
+          2256
+        ]
+      },
+      {
+        "cell_index": 113,
+        "text": "20/10/2020",
+        "merged": false,
+        "components": [
+          114
+        ],
+        "box": [
+          122,
+          2273,
+          320,
+          2308
+        ]
+      },
+      {
+        "cell_index": 114,
+        "text": "DIRECT DEBIT",
+        "merged": false,
+        "components": [
+          115
+        ],
+        "box": [
+          387,
+          2275,
+          628,
+          2305
+        ]
+      },
+      {
+        "cell_index": 115,
+        "text": "Hiscox (1275813)",
+        "merged": false,
+        "components": [
+          116
+        ],
+        "box": [
+          792,
+          2273,
+          1077,
+          2310
+        ]
+      },
+      {
+        "cell_index": 116,
+        "text": "£28.29",
+        "merged": false,
+        "components": [
+          117
+        ],
+        "box": [
+          1972,
+          2273,
+          2090,
+          2308
+        ]
+      },
+      {
+        "cell_index": 117,
+        "text": "£297927.18",
+        "merged": false,
+        "components": [
+          118
+        ],
+        "box": [
+          2160,
+          2274,
+          2356,
+          2308
+        ]
+      },
+      {
+        "cell_index": 118,
+        "text": "21/10/2020",
+        "merged": false,
+        "components": [
+          119
+        ],
+        "box": [
+          122,
+          2324,
+          320,
+          2359
+        ]
+      },
+      {
+        "cell_index": 119,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          120
+        ],
+        "box": [
+          386,
+          2325,
+          699,
+          2355
+        ]
+      },
+      {
+        "cell_index": 120,
+        "text": "AKSHA IT CONSULTANTS LTD (Aksha Aug Inv)",
+        "merged": false,
+        "components": [
+          121
+        ],
+        "box": [
+          789,
+          2321,
+          1563,
+          2361
+        ]
+      },
+      {
+        "cell_index": 121,
+        "text": "£12480.00",
+        "merged": false,
+        "components": [
+          122
+        ],
+        "box": [
+          1912,
+          2324,
+          2090,
+          2358
+        ]
+      },
+      {
+        "cell_index": 122,
+        "text": "21/10/2020",
+        "merged": false,
+        "components": [
+          123
+        ],
+        "box": [
+          122,
+          2374,
+          320,
+          2409
+        ]
+      },
+      {
+        "cell_index": 123,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          124
+        ],
+        "box": [
+          386,
+          2376,
+          699,
+          2406
+        ]
+      },
+      {
+        "cell_index": 124,
+        "text": "AKSHA IT CONSULTANTS LTD (Aksha Exp Inv",
+        "merged": false,
+        "components": [
+          125
+        ],
+        "box": [
+          791,
+          2373,
+          1547,
+          2410
+        ]
+      },
+      {
+        "cell_index": 125,
+        "text": "£480.00",
+        "merged": false,
+        "components": [
+          126
+        ],
+        "box": [
+          1952,
+          2373,
+          2090,
+          2408
+        ]
+      },
+      {
+        "cell_index": 126,
+        "text": "Apr)",
+        "merged": false,
+        "components": [
+          127
+        ],
+        "box": [
+          789,
+          2421,
+          873,
+          2466
+        ]
+      },
+      {
+        "cell_index": 127,
+        "text": "21/10/2020",
+        "merged": false,
+        "components": [
+          128
+        ],
+        "box": [
+          121,
+          2472,
+          321,
+          2509
+        ]
+      },
+      {
+        "cell_index": 128,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          129
+        ],
+        "box": [
+          386,
+          2475,
+          699,
+          2504
+        ]
+      },
+      {
+        "cell_index": 129,
+        "text": "Raja Tatapudi (FL-Suresh)",
+        "merged": false,
+        "components": [
+          130
+        ],
+        "box": [
+          791,
+          2473,
+          1229,
+          2513
+        ]
+      },
+      {
+        "cell_index": 130,
+        "text": "£1100.00",
+        "merged": false,
+        "components": [
+          131
+        ],
+        "box": [
+          1932,
+          2474,
+          2090,
+          2508
+        ]
+      },
+      {
+        "cell_index": 131,
+        "text": "£283867.18",
+        "merged": false,
+        "components": [
+          132
+        ],
+        "box": [
+          2160,
+          2474,
+          2357,
+          2507
+        ]
+      },
+      {
+        "cell_index": 132,
+        "text": "27/10/2020",
+        "merged": false,
+        "components": [
+          133
+        ],
+        "box": [
+          122,
+          2523,
+          320,
+          2558
+        ]
+      },
+      {
+        "cell_index": 133,
+        "text": "CHIP& PIN",
+        "merged": false,
+        "components": [
+          134
+        ],
+        "box": [
+          386,
+          2525,
+          571,
+          2556
+        ]
+      },
+      {
+        "cell_index": 134,
+        "text": "Maya Foods",
+        "merged": false,
+        "components": [
+          135
+        ],
+        "box": [
+          791,
+          2522,
+          997,
+          2563
+        ]
+      },
+      {
+        "cell_index": 135,
+        "text": "£65.09",
+        "merged": false,
+        "components": [
+          136
+        ],
+        "box": [
+          1972,
+          2523,
+          2091,
+          2558
+        ]
+      },
+      {
+        "cell_index": 136,
+        "text": "27/10/2020",
+        "merged": false,
+        "components": [
+          137
+        ],
+        "box": [
+          122,
+          2573,
+          320,
+          2608
+        ]
+      },
+      {
+        "cell_index": 137,
+        "text": "CHIP& PIN",
+        "merged": false,
+        "components": [
+          138
+        ],
+        "box": [
+          386,
+          2575,
+          571,
+          2606
+        ]
+      },
+      {
+        "cell_index": 138,
+        "text": "Rentamech",
+        "merged": false,
+        "components": [
+          139
+        ],
+        "box": [
+          793,
+          2574,
+          982,
+          2608
+        ]
+      },
+      {
+        "cell_index": 139,
+        "text": "£200.00",
+        "merged": false,
+        "components": [
+          140
+        ],
+        "box": [
+          1952,
+          2573,
+          2091,
+          2608
+        ]
+      },
+      {
+        "cell_index": 140,
+        "text": "27/10/2020",
+        "merged": false,
+        "components": [
+          141
+        ],
+        "box": [
+          122,
+          2623,
+          320,
+          2658
+        ]
+      },
+      {
+        "cell_index": 141,
+        "text": "FASTER PAYMENT",
+        "merged": false,
+        "components": [
+          142
+        ],
+        "box": [
+          386,
+          2626,
+          699,
+          2656
+        ]
+      },
+      {
+        "cell_index": 142,
+        "text": "Raja Tatapudi (suresh FL)",
+        "merged": false,
+        "components": [
+          143
+        ],
+        "box": [
+          791,
+          2622,
+          1217,
+          2663
+        ]
+      },
+      {
+        "cell_index": 143,
+        "text": "£3500.00",
+        "merged": false,
+        "components": [
+          144
+        ],
+        "box": [
+          1932,
+          2624,
+          2090,
+          2658
+        ]
+      },
+      {
+        "cell_index": 144,
+        "text": "£280102.09",
+        "merged": false,
+        "components": [
+          145
+        ],
+        "box": [
+          2159,
+          2623,
+          2356,
+          2659
+        ]
+      },
+      {
+        "cell_index": 145,
+        "text": "28/10/2020",
+        "merged": false,
+        "components": [
+          146
+        ],
+        "box": [
+          122,
+          2674,
+          320,
+          2708
+        ]
+      },
+      {
+        "cell_index": 146,
+        "text": "CONTACTLESS",
+        "merged": false,
+        "components": [
+          147
+        ],
+        "box": [
+          386,
+          2676,
+          645,
+          2706
+        ]
+      },
+      {
+        "cell_index": 147,
+        "text": "Rentamech",
+        "merged": false,
+        "components": [
+          148
+        ],
+        "box": [
+          794,
+          2676,
+          981,
+          2707
+        ]
+      },
+      {
+        "cell_index": 148,
+        "text": "£140.60",
+        "merged": false,
+        "components": [
+          149
+        ],
+        "box": [
+          1715,
+          2674,
+          1853,
+          2709
+        ]
+      },
+      {
+        "cell_index": 149,
+        "text": "£280242.69",
+        "merged": false,
+        "components": [
+          150
+        ],
+        "box": [
+          2161,
+          2676,
+          2356,
+          2707
+        ]
+      },
+      {
+        "cell_index": 150,
+        "text": "29/10/2020",
+        "merged": false,
+        "components": [
+          151
+        ],
+        "box": [
+          122,
+          2724,
+          320,
+          2758
+        ]
+      },
+      {
+        "cell_index": 151,
+        "text": "CONTACTLESS",
+        "merged": false,
+        "components": [
+          152
+        ],
+        "box": [
+          386,
+          2726,
+          645,
+          2756
+        ]
+      },
+      {
+        "cell_index": 152,
+        "text": "Shell",
+        "merged": false,
+        "components": [
+          153
+        ],
+        "box": [
+          789,
+          2719,
+          879,
+          2762
+        ]
+      },
+      {
+        "cell_index": 153,
+        "text": "£23.20",
+        "merged": false,
+        "components": [
+          154
+        ],
+        "box": [
+          1972,
+          2722,
+          2091,
+          2758
+        ]
+      },
+      {
+        "cell_index": 154,
+        "text": "£280219.49",
+        "merged": false,
+        "components": [
+          155
+        ],
+        "box": [
+          2159,
+          2723,
+          2356,
+          2759
+        ]
+      }
+    ]
+  }
+]
