@@ -1,0 +1,33 @@
+{
+  "gt_parse": {
+    "supplier_name": "STORES",
+    "receipt_no": "",
+    "receipt_date": "08/03/25",
+    "currency": "GBP",
+    "transaction_id": "",
+    "payment_method": "",
+    "special_instructions": "",
+    "vat_code": "",
+    "vat_percent": "",
+    "vat_amount": "",
+    "sub_total": "",
+    "net_amount": "",
+    "total_discount": "",
+    "coupon_name": "",
+    "coupon_amount": "",
+    "total_amount": "93.62",
+    "change_amount": "",
+    "total_item_count": "",
+    "sale_amount": "",
+    "payment_date": "",
+    "payment_mode": "",
+    "card_details": "",
+    "items": [
+      {
+        "item_quantity": "2",
+        "item_code": "22026",
+        "item_amount": "1.59"
+      }
+    ]
+  }
+}

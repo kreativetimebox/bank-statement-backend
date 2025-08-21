@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "supplier_name": "PARTNERS",
+    "receipt_no": "",
+    "receipt_date": "16/03/2025",
+    "currency": "£",
+    "transaction_id": "",
+    "payment_method": "",
+    "special_instructions": "",
+    "vat_code": "",
+    "vat_percent": "",
+    "vat_amount": "",
+    "sub_total": "",
+    "net_amount": "",
+    "total_discount": "",
+    "coupon_name": "",
+    "coupon_amount": "",
+    "total_amount": "GBP51.34",
+    "change_amount": "",
+    "total_item_count": "",
+    "sale_amount": "",
+    "payment_date": "",
+    "payment_mode": "",
+    "card_details": "",
+    "items": [
+      {
+        "item_amount": "2.00",
+        "item_quantity": "2"
+      }
+    ]
+  }
+}

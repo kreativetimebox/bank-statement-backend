@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "supplier_name": "Shell",
+    "receipt_no": "",
+    "receipt_date": "18-03-2025",
+    "currency": "L",
+    "transaction_id": "",
+    "payment_method": "",
+    "special_instructions": "",
+    "vat_code": "",
+    "vat_percent": "",
+    "vat_amount": "",
+    "sub_total": "",
+    "net_amount": "",
+    "total_discount": "",
+    "coupon_name": "",
+    "coupon_amount": "",
+    "total_amount": "40.00",
+    "change_amount": "",
+    "total_item_count": "",
+    "sale_amount": "",
+    "payment_date": "",
+    "payment_mode": "",
+    "card_details": "",
+    "items": [
+      {
+        "item_amount": "40,00",
+        "item_quantity": "22.87 L"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "supplier_name": "Rushden",
+    "receipt_no": "",
+    "receipt_date": "28.03.2025",
+    "currency": "GBP",
+    "transaction_id": "",
+    "payment_method": "",
+    "special_instructions": "",
+    "vat_code": "",
+    "vat_percent": "",
+    "vat_amount": "",
+    "sub_total": "",
+    "net_amount": "",
+    "total_discount": "",
+    "coupon_name": "",
+    "coupon_amount": "",
+    "total_amount": "£30.01",
+    "change_amount": "",
+    "total_item_count": "",
+    "sale_amount": "",
+    "payment_date": "",
+    "payment_mode": "",
+    "card_details": "",
+    "items": [
+      {
+        "item_amount": "£30.01",
+        "item_quantity": "21.92L"
+      }
+    ]
+  }
+}
