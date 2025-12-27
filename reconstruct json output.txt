@@ -1,0 +1,35 @@
+=== Parsed JSON Output ===
+{
+  "date": "17/03/23",
+  "supplier_name": "Irew bns ayab OE niriw eaerlonug) lolooig",
+  "items_purchased": [
+    {
+      "item": "\u00a3 C",
+      "price": "16.50"
+    },
+    {
+      "item": "\u00a3 C",
+      "price": "20.97"
+    }
+  ],
+  "payment_type": null,
+  "total_balance": null
+}
+
+=== Reconstructed Receipt ===
+Store: Irew bns ayab OE niriw eaerlonug) lolooig
+Date: 17/03/23
+------------------------------
+£ C                    16.50
+£ C                    20.97
+------------------------------
+Payment: N/A
+Total: N/A
+
+({'date': '17/03/23',
+  'supplier_name': 'Irew bns ayab OE niriw eaerlonug) lolooig',
+  'items_purchased': [{'item': '£ C', 'price': '16.50'},
+   {'item': '£ C', 'price': '20.97'}],
+  'payment_type': None,
+  'total_balance': None},
+ '\n=== Reconstructed Receipt ===\nStore: Irew bns ayab OE niriw eaerlonug) lolooig\nDate: 17/03/23\n------------------------------\n£ C                    16.50\n£ C                    20.97\n------------------------------\nPayment: N/A\nTotal: N/A\n')

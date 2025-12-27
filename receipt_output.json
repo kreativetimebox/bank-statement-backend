@@ -1,0 +1,24 @@
+{
+  "date": null,
+  "supplier_name": "Waitrose",
+  "items_purchased": [
+    {
+      "item": "litre Pump # 04",
+      "price": "51.32"
+    },
+    {
+      "item": "E",
+      "price": "67.69"
+    },
+    {
+      "item": "9 C / litro",
+      "price": "1.31"
+    },
+    {
+      "item": "A",
+      "price": "0.50"
+    }
+  ],
+  "payment_type": null,
+  "total_balance": "68.19"
+}
