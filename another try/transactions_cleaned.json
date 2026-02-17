@@ -1,0 +1,30 @@
+[
+    {
+        "Date": "01 Jun 20",
+        "Description": "B/F 3,844.28 Cr",
+        "Money Out": null,
+        "Money In": null,
+        "Balance": "3,844.28"
+    },
+    {
+        "Date": "07 Jun 20",
+        "Description": "O 061 Jun 20 VALDT/CHQ:01JUN20/DIRECT DEB/ 49.58 3,794.70 Cr",
+        "Money Out": "49.58",
+        "Money In": null,
+        "Balance": "3,794.70"
+    },
+    {
+        "Date": "30 Jun 20",
+        "Description": "30Jun20 VALDT/CHQ:30JUN20/ 2.00 3,792.70 Cr  TRANSACTION CHARGE",
+        "Money Out": "2.00",
+        "Money In": null,
+        "Balance": "3,792.70"
+    },
+    {
+        "Date": "30 Jun 20",
+        "Description": "30Jun20 VALDT/CHQ:30JUN20/ . ee eee - MAINTENANCE CHARGE",
+        "Money Out": null,
+        "Money In": null,
+        "Balance": null
+    }
+]

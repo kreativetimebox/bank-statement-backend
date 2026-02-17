@@ -1,0 +1,142 @@
+[
+  {
+    "Date":"01\/05\/2025",
+    "Description":"SALARY FROM ABC LTD",
+    "Money In":2000.0,
+    "Money Out":null,
+    "Balance":"\u00a32000.00"
+  },
+  {
+    "Date":"02\/05\/2025",
+    "Description":"TESCO STORES",
+    "Money In":null,
+    "Money Out":45.6,
+    "Balance":"\u00a31954.40"
+  },
+  {
+    "Date":"03\/05\/2025",
+    "Description":"GYM MEMBERSHIP",
+    "Money In":null,
+    "Money Out":35.0,
+    "Balance":"\u00a31919.40"
+  },
+  {
+    "Date":"04\/05\/2025",
+    "Description":"AMAZON UK",
+    "Money In":null,
+    "Money Out":29.99,
+    "Balance":"\u00a31889.41"
+  },
+  {
+    "Date":"05\/05\/2025",
+    "Description":"TFL TRAVEL",
+    "Money In":null,
+    "Money Out":3.2,
+    "Balance":"\u00a31886.21"
+  },
+  {
+    "Date":"06\/05\/2025",
+    "Description":"COFFEE SHOP",
+    "Money In":null,
+    "Money Out":2.5,
+    "Balance":"\u00a31883.71"
+  },
+  {
+    "Date":"07\/05\/2025",
+    "Description":"RESTAURANT BILL",
+    "Money In":null,
+    "Money Out":32.0,
+    "Balance":"\u00a31851.71"
+  },
+  {
+    "Date":"08\/05\/2025",
+    "Description":"UBER TRIP",
+    "Money In":null,
+    "Money Out":15.8,
+    "Balance":"\u00a31835.91"
+  },
+  {
+    "Date":"09\/05\/2025",
+    "Description":"HMRC TAX REFUND",
+    "Money In":120.0,
+    "Money Out":null,
+    "Balance":"\u00a31955.91"
+  },
+  {
+    "Date":"10\/05\/2025",
+    "Description":"TRANSFER TO SAVINGS",
+    "Money In":null,
+    "Money Out":300.0,
+    "Balance":"\u00a31655.91"
+  },
+  {
+    "Date":"11\/05\/2025",
+    "Description":"DIRECT DEBIT TV LICENCE",
+    "Money In":null,
+    "Money Out":13.25,
+    "Balance":"\u00a31642.66"
+  },
+  {
+    "Date":"12\/05\/2025",
+    "Description":"HMRC VAT PAYMENT",
+    "Money In":null,
+    "Money Out":250.0,
+    "Balance":"\u00a31392.66"
+  },
+  {
+    "Date":"13\/05\/2025",
+    "Description":"INSURANCE PAYMENT",
+    "Money In":null,
+    "Money Out":75.0,
+    "Balance":"\u00a31317.66"
+  },
+  {
+    "Date":"14\/05\/2025",
+    "Description":"NETFLIX SUBSCRIPTION",
+    "Money In":null,
+    "Money Out":10.99,
+    "Balance":"\u00a31306.67"
+  },
+  {
+    "Date":"15\/05\/2025",
+    "Description":"PAYMENT FROM JOHN DOE",
+    "Money In":150.0,
+    "Money Out":null,
+    "Balance":"\u00a31456.67"
+  },
+  {
+    "Date":"16\/05\/2025",
+    "Description":"ELECTRICITY BILL",
+    "Money In":null,
+    "Money Out":60.0,
+    "Balance":"\u00a31396.67"
+  },
+  {
+    "Date":"17\/05\/2025",
+    "Description":"ASDA SUPERMARKET",
+    "Money In":null,
+    "Money Out":54.3,
+    "Balance":"\u00a31342.37"
+  },
+  {
+    "Date":"18\/05\/2025",
+    "Description":"PHONE BILL",
+    "Money In":null,
+    "Money Out":40.0,
+    "Balance":"\u00a31302.37"
+  },
+  {
+    "Date":"19\/05\/2025",
+    "Description":"INTEREST CREDIT",
+    "Money In":0.84,
+    "Money Out":null,
+    "Balance":"\u00a31303.21"
+  },
+  {
+    "Date":"20\/05\/2025",
+    "Description":"CASH WITHDRAWAL",
+    "Money In":null,
+    "Money Out":100.0,
+    "Balance":"\u00a31203.21"
+  }
+]
