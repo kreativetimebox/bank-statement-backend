@@ -1,0 +1,20 @@
+﻿Image Label Tools,Service,Git Link,Description
+labelimg,open source,https://github.com/HumanSignal/labelImg,Open-source desktop tool for image bounding box annotations.
+CVAT,open source,https://github.com/cvat-ai/cvat,Powerful web-based tool for image/video annotation with team collaboration.
+labelime,open source,https://github.com/wkentaro/labelme, Python tool for polygon/image annotation in JSON format.
+VoTT,open source,https://github.com/microsoft/VoTT,"Microsoft's tool for tagging images and videos, supports export to YOLO/TF."
+imglab,open source,https://github.com/NaturalIntelligence/imglab,"Lightweight web tool for drawing bounding boxes, built for Dlib projects."
+Yolo_mark,open source,https://github.com/AlexeyAB/Yolo_mark,C++ tool for creating YOLO training data via bounding boxes.
+PixelAnnotationTool,open source,https://github.com/abreheret/PixelAnnotationTool,Software that allows you to manually and quickly annotate images in directories
+OpenLabeling,open source,https://github.com/Cartucho/OpenLabeling, Minimalistic annotation tool with auto-saving and video support.
+imagetagger,open source,https://github.com/bit-bots/imagetagger, An open source online platform for collaborative image labeling
+deeplabel,open source,https://github.com/jveitchmichaelis/deeplabel,Cross-platform annotation tool supporting image and video labeling.
+MedTagger,open source,https://github.com/medtagger/MedTagger,Annotation platform focused on medical images and segmentation.
+Labelbox,Paid,https://github.com/Labelbox/Labelbox,Commercial cloud-based platform with advanced management and automation.
+turktool,open source,https://github.com/jaxony/turktool,A modern React app for scalable bounding box annotation of images
+pixie,open source,https://github.com/buni-rock/Pixie,"GUI-based tool supporting polygon, free-hand and bounding box annotation."
+openLabeler,open source,https://github.com/kinhong/OpenLabeler,OpenLabeler is an open source desktop application for annotating objects for AI appplications
+Anno-Mage,paid,https://github.com/virajmavani/semi-auto-image-annotation-tool,A Semi Automatic Image Annotation Tool which helps you  for 80 object classes using a pre-trained model
+CATMAID,open source,https://github.com/catmaid/CATMAID,Web tool for collaborative 3D neuron tracing in neuroscience imaging.
+LOST,open source,https://github.com/l3p-cv/lost," Lightweight, lesser-known tool for manual image or text annotations."
+Sloth,open source,https://github.com/cvhciKIT/sloth," Lightweight, lesser-known tool for manual image or text annotations."
