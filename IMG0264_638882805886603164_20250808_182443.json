@@ -1,0 +1,841 @@
+{
+    "pages": [
+        {
+            "page_number": 1,
+            "lines": [
+                {
+                    "text": "BRANCH 266 NORTHAMPTON",
+                    "average_ocr_confidence": 0.9679609735806783,
+                    "named_entities": [
+                        {
+                            "text": "BRANCH",
+                            "type": "ORG",
+                            "ner_confidence": 0.9795887470245361
+                        },
+                        {
+                            "text": "NO",
+                            "type": "ORG",
+                            "ner_confidence": 0.5087670683860779
+                        },
+                        {
+                            "text": "##HAMPTO",
+                            "type": "ORG",
+                            "ner_confidence": 0.7886850833892822
+                        }
+                    ]
+                },
+                {
+                    "text": "BOOKER",
+                    "average_ocr_confidence": 0.9989892840385437,
+                    "named_entities": []
+                },
+                {
+                    "text": "Ravens Way",
+                    "average_ocr_confidence": 0.9974057376384735,
+                    "named_entities": [
+                        {
+                            "text": "Ravens Way",
+                            "type": "ORG",
+                            "ner_confidence": 0.9828423857688904
+                        }
+                    ]
+                },
+                {
+                    "text": "www.booker.co.uk",
+                    "average_ocr_confidence": 0.7284627556800842,
+                    "named_entities": []
+                },
+                {
+                    "text": "Crow Lane Ind Est",
+                    "average_ocr_confidence": 0.9343792051076889,
+                    "named_entities": [
+                        {
+                            "text": "Crow",
+                            "type": "LOC",
+                            "ner_confidence": 0.44856831431388855
+                        },
+                        {
+                            "text": "Lane",
+                            "type": "ORG",
+                            "ner_confidence": 0.5446376204490662
+                        },
+                        {
+                            "text": "E",
+                            "type": "ORG",
+                            "ner_confidence": 0.3853662610054016
+                        }
+                    ]
+                },
+                {
+                    "text": "Booker isthet trading name of Booker Limited",
+                    "average_ocr_confidence": 0.9053655181612287,
+                    "named_entities": [
+                        {
+                            "text": "Booker",
+                            "type": "ORG",
+                            "ner_confidence": 0.9212831258773804
+                        },
+                        {
+                            "text": "Booker Limited",
+                            "type": "ORG",
+                            "ner_confidence": 0.9982985258102417
+                        }
+                    ]
+                },
+                {
+                    "text": "Gt Billing",
+                    "average_ocr_confidence": 0.7675040066242218,
+                    "named_entities": [
+                        {
+                            "text": "G",
+                            "type": "PER",
+                            "ner_confidence": 0.9927241206169128
+                        },
+                        {
+                            "text": "##t Billing",
+                            "type": "PER",
+                            "ner_confidence": 0.7628602981567383
+                        }
+                    ]
+                },
+                {
+                    "text": "RegisteredOffice:E EquityHouse, Inthlingborough Road, Wellingborough, Northants NN81 1LT",
+                    "average_ocr_confidence": 0.8677880838513374,
+                    "named_entities": [
+                        {
+                            "text": "E EquityHouse",
+                            "type": "ORG",
+                            "ner_confidence": 0.9833744764328003
+                        },
+                        {
+                            "text": "In",
+                            "type": "LOC",
+                            "ner_confidence": 0.9758124947547913
+                        },
+                        {
+                            "text": "##thlingborough Road",
+                            "type": "LOC",
+                            "ner_confidence": 0.9239354729652405
+                        },
+                        {
+                            "text": "Wellingborough",
+                            "type": "LOC",
+                            "ner_confidence": 0.9948672652244568
+                        },
+                        {
+                            "text": "Northants",
+                            "type": "LOC",
+                            "ner_confidence": 0.9853451251983643
+                        }
+                    ]
+                },
+                {
+                    "text": "Telephone: 019333 371000",
+                    "average_ocr_confidence": 0.8925939400990804,
+                    "named_entities": []
+                },
+                {
+                    "text": "Northampton",
+                    "average_ocr_confidence": 0.9651875495910645,
+                    "named_entities": [
+                        {
+                            "text": "Northampton",
+                            "type": "ORG",
+                            "ner_confidence": 0.9987142086029053
+                        }
+                    ]
+                },
+                {
+                    "text": "01604 787707",
+                    "average_ocr_confidence": 0.9016242921352386,
+                    "named_entities": []
+                },
+                {
+                    "text": "RegistoredinE England. Number 197380, VAT Number GB 220430231",
+                    "average_ocr_confidence": 0.9231291264295578,
+                    "named_entities": [
+                        {
+                            "text": "England",
+                            "type": "ORG",
+                            "ner_confidence": 0.4345709979534149
+                        }
+                    ]
+                },
+                {
+                    "text": "NN3 9UD TEL : 01604 787706",
+                    "average_ocr_confidence": 0.9436081747213999,
+                    "named_entities": []
+                },
+                {
+                    "text": "FAX :",
+                    "average_ocr_confidence": 0.9961867332458496,
+                    "named_entities": []
+                },
+                {
+                    "text": "Alcohol Wholesalel Registration No XTAW00000102869",
+                    "average_ocr_confidence": 0.8623282551765442,
+                    "named_entities": [
+                        {
+                            "text": "Alco",
+                            "type": "ORG",
+                            "ner_confidence": 0.7256819009780884
+                        },
+                        {
+                            "text": "##hol",
+                            "type": "MISC",
+                            "ner_confidence": 0.5957361459732056
+                        },
+                        {
+                            "text": "Wholesal",
+                            "type": "ORG",
+                            "ner_confidence": 0.6823399662971497
+                        },
+                        {
+                            "text": "##el Regis",
+                            "type": "MISC",
+                            "ner_confidence": 0.7176304459571838
+                        }
+                    ]
+                },
+                {
+                    "text": "INVOICE NUMBER 0341673",
+                    "average_ocr_confidence": 0.9894604881604513,
+                    "named_entities": []
+                },
+                {
+                    "text": "PAGE 01",
+                    "average_ocr_confidence": 0.9998884797096252,
+                    "named_entities": []
+                },
+                {
+                    "text": "CUSTOMER 741535856 MR",
+                    "average_ocr_confidence": 0.9972283442815145,
+                    "named_entities": [
+                        {
+                            "text": "CUSTOMER",
+                            "type": "ORG",
+                            "ner_confidence": 0.8463191986083984
+                        }
+                    ]
+                },
+                {
+                    "text": "LEWIS",
+                    "average_ocr_confidence": 0.8132641315460205,
+                    "named_entities": [
+                        {
+                            "text": "LEWIS",
+                            "type": "ORG",
+                            "ner_confidence": 0.9341009855270386
+                        }
+                    ]
+                },
+                {
+                    "text": "DATE 13/02/25 TIME 12:44",
+                    "average_ocr_confidence": 0.9824640601873398,
+                    "named_entities": []
+                },
+                {
+                    "text": "LEWIS INVESTMENTS CORPORA",
+                    "average_ocr_confidence": 0.9868466655413309,
+                    "named_entities": [
+                        {
+                            "text": "LE",
+                            "type": "ORG",
+                            "ner_confidence": 0.9004275798797607
+                        }
+                    ]
+                },
+                {
+                    "text": "41 NORTH END",
+                    "average_ocr_confidence": 0.9915478825569153,
+                    "named_entities": []
+                },
+                {
+                    "text": "HIGHAM FERRERS",
+                    "average_ocr_confidence": 0.9980586767196655,
+                    "named_entities": [
+                        {
+                            "text": "H",
+                            "type": "ORG",
+                            "ner_confidence": 0.965364396572113
+                        },
+                        {
+                            "text": "##HAM FER",
+                            "type": "ORG",
+                            "ner_confidence": 0.8101369142532349
+                        }
+                    ]
+                },
+                {
+                    "text": "NORTHAMPTONSHIRE",
+                    "average_ocr_confidence": 0.6762598156929016,
+                    "named_entities": [
+                        {
+                            "text": "NORTHAMPTONSH",
+                            "type": "ORG",
+                            "ner_confidence": 0.9056154489517212
+                        }
+                    ]
+                },
+                {
+                    "text": "TILL 03 OPERATOR 133 SELFSCAN",
+                    "average_ocr_confidence": 0.9911443591117859,
+                    "named_entities": []
+                },
+                {
+                    "text": "RUSHDEN",
+                    "average_ocr_confidence": 0.9951424598693848,
+                    "named_entities": [
+                        {
+                            "text": "R",
+                            "type": "LOC",
+                            "ner_confidence": 0.4743843674659729
+                        }
+                    ]
+                },
+                {
+                    "text": "NN10 8JB",
+                    "average_ocr_confidence": 0.9361997544765472,
+                    "named_entities": []
+                },
+                {
+                    "text": "TEL: 07809448799",
+                    "average_ocr_confidence": 0.9984087347984314,
+                    "named_entities": []
+                },
+                {
+                    "text": "STD",
+                    "average_ocr_confidence": 0.9997900128364563,
+                    "named_entities": []
+                },
+                {
+                    "text": "PACK SIZE",
+                    "average_ocr_confidence": 0.9996529221534729,
+                    "named_entities": [
+                        {
+                            "text": "PA",
+                            "type": "LOC",
+                            "ner_confidence": 0.9521206021308899
+                        },
+                        {
+                            "text": "##C",
+                            "type": "ORG",
+                            "ner_confidence": 0.3724101185798645
+                        },
+                        {
+                            "text": "##K S",
+                            "type": "LOC",
+                            "ner_confidence": 0.7131948471069336
+                        },
+                        {
+                            "text": "##I",
+                            "type": "ORG",
+                            "ner_confidence": 0.4598534107208252
+                        }
+                    ]
+                },
+                {
+                    "text": "QTY",
+                    "average_ocr_confidence": 0.9974541068077087,
+                    "named_entities": []
+                },
+                {
+                    "text": "PRICE VALUE VAT RRP POR",
+                    "average_ocr_confidence": 0.9983447670936585,
+                    "named_entities": []
+                },
+                {
+                    "text": "CODE DESCRIPTION",
+                    "average_ocr_confidence": 0.9746783077716827,
+                    "named_entities": [
+                        {
+                            "text": "CO",
+                            "type": "MISC",
+                            "ner_confidence": 0.8318949937820435
+                        },
+                        {
+                            "text": "##RI",
+                            "type": "MISC",
+                            "ner_confidence": 0.6421775817871094
+                        }
+                    ]
+                },
+                {
+                    "text": "084803 Strathmore Still Water Glass 12 750ml",
+                    "average_ocr_confidence": 0.9260890994753156,
+                    "named_entities": [
+                        {
+                            "text": "Strathmore Still Water",
+                            "type": "ORG",
+                            "ner_confidence": 0.7507824301719666
+                        }
+                    ]
+                },
+                {
+                    "text": "1",
+                    "average_ocr_confidence": 0.9996825456619263,
+                    "named_entities": []
+                },
+                {
+                    "text": "9.55",
+                    "average_ocr_confidence": 0.9330082535743713,
+                    "named_entities": []
+                },
+                {
+                    "text": "9.55 B B",
+                    "average_ocr_confidence": 0.979904294013977,
+                    "named_entities": []
+                },
+                {
+                    "text": "1.25 2.95 67.6% 51.0%",
+                    "average_ocr_confidence": 0.9985839575529099,
+                    "named_entities": []
+                },
+                {
+                    "text": "811034 Rio Tropical Can",
+                    "average_ocr_confidence": 0.998563751578331,
+                    "named_entities": [
+                        {
+                            "text": "Rio Tropical",
+                            "type": "MISC",
+                            "ner_confidence": 0.9881727695465088
+                        }
+                    ]
+                },
+                {
+                    "text": "24 330ml",
+                    "average_ocr_confidence": 0.8580022752285004,
+                    "named_entities": []
+                },
+                {
+                    "text": "1 12.25 P 12.25 10.85 B",
+                    "average_ocr_confidence": 0.9890778362751007,
+                    "named_entities": []
+                },
+                {
+                    "text": "1.20 54.8%",
+                    "average_ocr_confidence": 0.9860551655292511,
+                    "named_entities": []
+                },
+                {
+                    "text": "063724 Coke Zero",
+                    "average_ocr_confidence": 0.9913214445114136,
+                    "named_entities": []
+                },
+                {
+                    "text": "24 330ml",
+                    "average_ocr_confidence": 0.9617460668087006,
+                    "named_entities": []
+                },
+                {
+                    "text": "1 1 10.85",
+                    "average_ocr_confidence": 0.9860791563987732,
+                    "named_entities": []
+                },
+                {
+                    "text": "5.99 B",
+                    "average_ocr_confidence": 0.9762947261333466,
+                    "named_entities": []
+                },
+                {
+                    "text": "274303 CP Fresh Linen Fabric Cond",
+                    "average_ocr_confidence": 0.9966468711694082,
+                    "named_entities": [
+                        {
+                            "text": "CP Fresh Line",
+                            "type": "ORG",
+                            "ner_confidence": 0.9662783145904541
+                        },
+                        {
+                            "text": "Con",
+                            "type": "MISC",
+                            "ner_confidence": 0.8604590892791748
+                        }
+                    ]
+                },
+                {
+                    "text": "1 5ltr",
+                    "average_ocr_confidence": 0.9981570839881897,
+                    "named_entities": []
+                },
+                {
+                    "text": "5.99",
+                    "average_ocr_confidence": 0.9996751546859741,
+                    "named_entities": []
+                },
+                {
+                    "text": "051332 KTC Pure Veg Oil",
+                    "average_ocr_confidence": 0.9966109156608581,
+                    "named_entities": [
+                        {
+                            "text": "KTC Pure Veg Oil",
+                            "type": "ORG",
+                            "ner_confidence": 0.9699538350105286
+                        }
+                    ]
+                },
+                {
+                    "text": "1 20ltr",
+                    "average_ocr_confidence": 0.9524275958538055,
+                    "named_entities": []
+                },
+                {
+                    "text": "1 27.49",
+                    "average_ocr_confidence": 0.8066817820072174,
+                    "named_entities": []
+                },
+                {
+                    "text": "27.49 29.79 A A",
+                    "average_ocr_confidence": 0.9012891948223114,
+                    "named_entities": []
+                },
+                {
+                    "text": "150784 HZ ALV Mayonnaise",
+                    "average_ocr_confidence": 0.9069249033927917,
+                    "named_entities": [
+                        {
+                            "text": "H",
+                            "type": "ORG",
+                            "ner_confidence": 0.5333897471427917
+                        },
+                        {
+                            "text": "ALV Mayonna",
+                            "type": "ORG",
+                            "ner_confidence": 0.8966019153594971
+                        }
+                    ]
+                },
+                {
+                    "text": "1 10ltr",
+                    "average_ocr_confidence": 0.994770348072052,
+                    "named_entities": []
+                },
+                {
+                    "text": "1 1 29.79 13.99",
+                    "average_ocr_confidence": 0.9976997524499893,
+                    "named_entities": []
+                },
+                {
+                    "text": "13.99 A",
+                    "average_ocr_confidence": 0.9841170907020569,
+                    "named_entities": []
+                },
+                {
+                    "text": "156568 CL Ground Black Pepper",
+                    "average_ocr_confidence": 0.9592195510864258,
+                    "named_entities": [
+                        {
+                            "text": "CL Ground Black Pepper",
+                            "type": "ORG",
+                            "ner_confidence": 0.9809794425964355
+                        }
+                    ]
+                },
+                {
+                    "text": "1 500g",
+                    "average_ocr_confidence": 0.999041885137558,
+                    "named_entities": []
+                },
+                {
+                    "text": "1 14.89",
+                    "average_ocr_confidence": 0.9943726062774658,
+                    "named_entities": []
+                },
+                {
+                    "text": "14.89 A",
+                    "average_ocr_confidence": 0.9971334636211395,
+                    "named_entities": []
+                },
+                {
+                    "text": "159648 D/Egb Pure Gold",
+                    "average_ocr_confidence": 0.9370821416378021,
+                    "named_entities": [
+                        {
+                            "text": "Gold",
+                            "type": "MISC",
+                            "ner_confidence": 0.6155561804771423
+                        }
+                    ]
+                },
+                {
+                    "text": "1 400g",
+                    "average_ocr_confidence": 0.9996065497398376,
+                    "named_entities": []
+                },
+                {
+                    "text": "PAYMENT CARD RECEIPT DETAILS",
+                    "average_ocr_confidence": 0.9986191838979721,
+                    "named_entities": []
+                },
+                {
+                    "text": "***Please debit my account*",
+                    "average_ocr_confidence": 0.805793821811676,
+                    "named_entities": []
+                },
+                {
+                    "text": "DEBIT MASTERCARD",
+                    "average_ocr_confidence": 0.985295444726944,
+                    "named_entities": []
+                },
+                {
+                    "text": "**9921",
+                    "average_ocr_confidence": 0.5080525279045105,
+                    "named_entities": []
+                },
+                {
+                    "text": "Sale CONTACTLESS",
+                    "average_ocr_confidence": 0.9990371465682983,
+                    "named_entities": []
+                },
+                {
+                    "text": "DATE: 13/02/2025 TIME: 12:46:25",
+                    "average_ocr_confidence": 0.9133392572402954,
+                    "named_entities": []
+                },
+                {
+                    "text": "AUTHCODE: 690377 TOKEN ID: 4291688332",
+                    "average_ocr_confidence": 0.9940065622329712,
+                    "named_entities": []
+                },
+                {
+                    "text": "APP SEQ: 00 AID: A0000000041010 MID: 38530544",
+                    "average_ocr_confidence": 0.953472409929548,
+                    "named_entities": []
+                },
+                {
+                    "text": "PTID: 39289935 TID: 37611438",
+                    "average_ocr_confidence": 0.9935156106948853,
+                    "named_entities": []
+                },
+                {
+                    "text": "CARDHOLDER DEVICE VERIFIED",
+                    "average_ocr_confidence": 0.9979649583498637,
+                    "named_entities": []
+                },
+                {
+                    "text": "AMOUNT: £132. 53 TOTAL: £132.53",
+                    "average_ocr_confidence": 0.8905984401702881,
+                    "named_entities": []
+                },
+                {
+                    "text": "successful",
+                    "average_ocr_confidence": 0.9983673691749573,
+                    "named_entities": []
+                },
+                {
+                    "text": "Registration details result: Registration",
+                    "average_ocr_confidence": 0.97377510368824,
+                    "named_entities": []
+                },
+                {
+                    "text": "TOTAL ITEMS: 8",
+                    "average_ocr_confidence": 0.9970445036888123,
+                    "named_entities": []
+                },
+                {
+                    "text": "MULT",
+                    "average_ocr_confidence": 0.9971166849136353,
+                    "named_entities": []
+                },
+                {
+                    "text": "NETT",
+                    "average_ocr_confidence": 0.9970864653587341,
+                    "named_entities": [
+                        {
+                            "text": "NETT",
+                            "type": "LOC",
+                            "ner_confidence": 0.988274097442627
+                        }
+                    ]
+                },
+                {
+                    "text": "VAT",
+                    "average_ocr_confidence": 0.9993719458580017,
+                    "named_entities": []
+                },
+                {
+                    "text": "TOTALS: GOODS",
+                    "average_ocr_confidence": 0.9952658414840698,
+                    "named_entities": []
+                },
+                {
+                    "text": "124.80 CASH",
+                    "average_ocr_confidence": 0.994379073381424,
+                    "named_entities": [
+                        {
+                            "text": "CASH",
+                            "type": "ORG",
+                            "ner_confidence": 0.8785431385040283
+                        }
+                    ]
+                },
+                {
+                    "text": "0.00",
+                    "average_ocr_confidence": 0.9988058805465698,
+                    "named_entities": []
+                },
+                {
+                    "text": "RATE",
+                    "average_ocr_confidence": 0.9992952346801758,
+                    "named_entities": []
+                },
+                {
+                    "text": "GOODS 86.16",
+                    "average_ocr_confidence": 0.997154712677002,
+                    "named_entities": []
+                },
+                {
+                    "text": "0.00",
+                    "average_ocr_confidence": 0.9815720319747925,
+                    "named_entities": []
+                },
+                {
+                    "text": "86.16",
+                    "average_ocr_confidence": 0.9985643029212952,
+                    "named_entities": []
+                },
+                {
+                    "text": "0.00",
+                    "average_ocr_confidence": 0.9983501434326172,
+                    "named_entities": []
+                },
+                {
+                    "text": "VAT",
+                    "average_ocr_confidence": 0.9929961562156677,
+                    "named_entities": []
+                },
+                {
+                    "text": "7.73 CREDIT",
+                    "average_ocr_confidence": 0.9664245843887329,
+                    "named_entities": []
+                },
+                {
+                    "text": "0.00",
+                    "average_ocr_confidence": 0.9949105381965637,
+                    "named_entities": []
+                },
+                {
+                    "text": "A: 0.00",
+                    "average_ocr_confidence": 0.9994930624961853,
+                    "named_entities": []
+                },
+                {
+                    "text": "38.64",
+                    "average_ocr_confidence": 0.964450478553772,
+                    "named_entities": []
+                },
+                {
+                    "text": "0.00",
+                    "average_ocr_confidence": 0.9996428489685059,
+                    "named_entities": []
+                },
+                {
+                    "text": "38.64",
+                    "average_ocr_confidence": 0.96864253282547,
+                    "named_entities": []
+                },
+                {
+                    "text": "7.73",
+                    "average_ocr_confidence": 0.9995118379592896,
+                    "named_entities": []
+                },
+                {
+                    "text": ":CHQ B",
+                    "average_ocr_confidence": 0.9278800189495087,
+                    "named_entities": []
+                },
+                {
+                    "text": "0.00",
+                    "average_ocr_confidence": 0.9992302656173706,
+                    "named_entities": []
+                },
+                {
+                    "text": "B:20.00",
+                    "average_ocr_confidence": 0.9572113752365112,
+                    "named_entities": []
+                },
+                {
+                    "text": "INVOICE TOTAL",
+                    "average_ocr_confidence": 0.9982591569423676,
+                    "named_entities": []
+                },
+                {
+                    "text": "132.53 :CHQ P",
+                    "average_ocr_confidence": 0.8364547888437907,
+                    "named_entities": []
+                },
+                {
+                    "text": "0.00",
+                    "average_ocr_confidence": 0.9976966977119446,
+                    "named_entities": []
+                },
+                {
+                    "text": "OUTSTANDING",
+                    "average_ocr_confidence": 0.9916768074035645,
+                    "named_entities": []
+                },
+                {
+                    "text": "0.00 :C/CARD",
+                    "average_ocr_confidence": 0.9854583144187927,
+                    "named_entities": []
+                },
+                {
+                    "text": "0.00",
+                    "average_ocr_confidence": 0.9993662238121033,
+                    "named_entities": []
+                },
+                {
+                    "text": "WAITING TO PAY",
+                    "average_ocr_confidence": 0.9949509700139364,
+                    "named_entities": []
+                },
+                {
+                    "text": "0.00 :D/CARD 132.53",
+                    "average_ocr_confidence": 0.9678296248118082,
+                    "named_entities": []
+                },
+                {
+                    "text": ":T/COUP",
+                    "average_ocr_confidence": 0.9885319471359253,
+                    "named_entities": []
+                },
+                {
+                    "text": "0.00",
+                    "average_ocr_confidence": 0.9989355206489563,
+                    "named_entities": []
+                },
+                {
+                    "text": "GRAND TOTAL",
+                    "average_ocr_confidence": 0.9745143055915833,
+                    "named_entities": [
+                        {
+                            "text": "G",
+                            "type": "LOC",
+                            "ner_confidence": 0.4633775055408478
+                        },
+                        {
+                            "text": "##RAND",
+                            "type": "LOC",
+                            "ner_confidence": 0.5673340559005737
+                        }
+                    ]
+                },
+                {
+                    "text": "132.53 :R/COUP",
+                    "average_ocr_confidence": 0.8943360149860382,
+                    "named_entities": []
+                },
+                {
+                    "text": "0.00",
+                    "average_ocr_confidence": 0.9981928467750549,
+                    "named_entities": []
+                },
+                {
+                    "text": "THANK YOU FOR YOUR CUSTOM",
+                    "average_ocr_confidence": 0.9868754744529724,
+                    "named_entities": []
+                }
+            ]
+        }
+    ]
+}

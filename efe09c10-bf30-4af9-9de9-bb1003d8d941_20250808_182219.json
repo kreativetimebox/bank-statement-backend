@@ -1,0 +1,638 @@
+{
+    "pages": [
+        {
+            "page_number": 1,
+            "lines": [
+                {
+                    "text": "Shipping invoice",
+                    "average_ocr_confidence": 0.9604104459285736,
+                    "named_entities": []
+                },
+                {
+                    "text": "Your Logo Here",
+                    "average_ocr_confidence": 0.9191672007242838,
+                    "named_entities": []
+                },
+                {
+                    "text": "Smart Shipping Services",
+                    "average_ocr_confidence": 0.9840240478515625,
+                    "named_entities": [
+                        {
+                            "text": "Smart Shipping Services",
+                            "type": "ORG",
+                            "ner_confidence": 0.9986274242401123
+                        }
+                    ]
+                },
+                {
+                    "text": "Date:",
+                    "average_ocr_confidence": 0.9968186616897583,
+                    "named_entities": []
+                },
+                {
+                    "text": "07/14/2022",
+                    "average_ocr_confidence": 0.9992641806602478,
+                    "named_entities": []
+                },
+                {
+                    "text": "Invoice #:",
+                    "average_ocr_confidence": 0.9911921620368958,
+                    "named_entities": []
+                },
+                {
+                    "text": "93-22343548",
+                    "average_ocr_confidence": 0.996062695980072,
+                    "named_entities": []
+                },
+                {
+                    "text": "Bill to:",
+                    "average_ocr_confidence": 0.9926624596118927,
+                    "named_entities": []
+                },
+                {
+                    "text": "Jack Smart",
+                    "average_ocr_confidence": 0.9919804930686951,
+                    "named_entities": [
+                        {
+                            "text": "Jack Smart",
+                            "type": "PER",
+                            "ner_confidence": 0.9996923804283142
+                        }
+                    ]
+                },
+                {
+                    "text": "Ship to:",
+                    "average_ocr_confidence": 0.9994103610515594,
+                    "named_entities": []
+                },
+                {
+                    "text": "John Smart",
+                    "average_ocr_confidence": 0.9967333078384399,
+                    "named_entities": [
+                        {
+                            "text": "John Smart",
+                            "type": "PER",
+                            "ner_confidence": 0.9997278451919556
+                        }
+                    ]
+                },
+                {
+                    "text": "Smart Inc",
+                    "average_ocr_confidence": 0.7821349501609802,
+                    "named_entities": [
+                        {
+                            "text": "Smart Inc",
+                            "type": "ORG",
+                            "ner_confidence": 0.9992228150367737
+                        }
+                    ]
+                },
+                {
+                    "text": "Smart compnay",
+                    "average_ocr_confidence": 0.9684740602970123,
+                    "named_entities": []
+                },
+                {
+                    "text": "2812 James Avenue",
+                    "average_ocr_confidence": 0.9490438302357992,
+                    "named_entities": [
+                        {
+                            "text": "James Avenue",
+                            "type": "LOC",
+                            "ner_confidence": 0.8604913949966431
+                        }
+                    ]
+                },
+                {
+                    "text": "3188 Apple Lane",
+                    "average_ocr_confidence": 0.9741202791531881,
+                    "named_entities": [
+                        {
+                            "text": "Apple Lane",
+                            "type": "LOC",
+                            "ner_confidence": 0.7700915336608887
+                        }
+                    ]
+                },
+                {
+                    "text": "Syracuse, NY 13202",
+                    "average_ocr_confidence": 0.9339709877967834,
+                    "named_entities": [
+                        {
+                            "text": "Syracuse",
+                            "type": "LOC",
+                            "ner_confidence": 0.8986762166023254
+                        },
+                        {
+                            "text": "NY",
+                            "type": "LOC",
+                            "ner_confidence": 0.9959049820899963
+                        }
+                    ]
+                },
+                {
+                    "text": "Davenport, IL 52804",
+                    "average_ocr_confidence": 0.8653750419616699,
+                    "named_entities": [
+                        {
+                            "text": "Davenport",
+                            "type": "LOC",
+                            "ner_confidence": 0.9521377682685852
+                        },
+                        {
+                            "text": "IL",
+                            "type": "LOC",
+                            "ner_confidence": 0.9983246922492981
+                        }
+                    ]
+                },
+                {
+                    "text": "315-903-8179",
+                    "average_ocr_confidence": 0.9881677031517029,
+                    "named_entities": []
+                },
+                {
+                    "text": "309-235-7503",
+                    "average_ocr_confidence": 0.9751279950141907,
+                    "named_entities": []
+                },
+                {
+                    "text": "Shipping",
+                    "average_ocr_confidence": 0.8492350578308105,
+                    "named_entities": []
+                },
+                {
+                    "text": "Delivery",
+                    "average_ocr_confidence": 0.9923585057258606,
+                    "named_entities": []
+                },
+                {
+                    "text": "Due",
+                    "average_ocr_confidence": 0.9998811483383179,
+                    "named_entities": []
+                },
+                {
+                    "text": "Purchase",
+                    "average_ocr_confidence": 0.9988252520561218,
+                    "named_entities": []
+                },
+                {
+                    "text": "Customer",
+                    "average_ocr_confidence": 0.997511625289917,
+                    "named_entities": []
+                },
+                {
+                    "text": "Shipping method",
+                    "average_ocr_confidence": 0.9966318905353546,
+                    "named_entities": []
+                },
+                {
+                    "text": "terms",
+                    "average_ocr_confidence": 0.7485727071762085,
+                    "named_entities": []
+                },
+                {
+                    "text": "date",
+                    "average_ocr_confidence": 0.9993014335632324,
+                    "named_entities": []
+                },
+                {
+                    "text": "Payment terms date",
+                    "average_ocr_confidence": 0.9964550733566284,
+                    "named_entities": []
+                },
+                {
+                    "text": "order #",
+                    "average_ocr_confidence": 0.9736537635326385,
+                    "named_entities": []
+                },
+                {
+                    "text": "ID.",
+                    "average_ocr_confidence": 0.9998224377632141,
+                    "named_entities": []
+                },
+                {
+                    "text": "Overnight",
+                    "average_ocr_confidence": 0.9893261194229126,
+                    "named_entities": []
+                },
+                {
+                    "text": "DAP",
+                    "average_ocr_confidence": 0.9978717565536499,
+                    "named_entities": [
+                        {
+                            "text": "DAP",
+                            "type": "ORG",
+                            "ner_confidence": 0.8947962522506714
+                        }
+                    ]
+                },
+                {
+                    "text": "07/14/2022",
+                    "average_ocr_confidence": 0.996905505657196,
+                    "named_entities": []
+                },
+                {
+                    "text": "CBS",
+                    "average_ocr_confidence": 0.9996285438537598,
+                    "named_entities": [
+                        {
+                            "text": "CBS",
+                            "type": "ORG",
+                            "ner_confidence": 0.9983229041099548
+                        }
+                    ]
+                },
+                {
+                    "text": "09/14/2022",
+                    "average_ocr_confidence": 0.9916695356369019,
+                    "named_entities": []
+                },
+                {
+                    "text": "789450",
+                    "average_ocr_confidence": 0.9994795918464661,
+                    "named_entities": []
+                },
+                {
+                    "text": "88-4563",
+                    "average_ocr_confidence": 0.9988042116165161,
+                    "named_entities": []
+                },
+                {
+                    "text": "Qty",
+                    "average_ocr_confidence": 0.9924812316894531,
+                    "named_entities": []
+                },
+                {
+                    "text": "Item #",
+                    "average_ocr_confidence": 0.9966766238212585,
+                    "named_entities": []
+                },
+                {
+                    "text": "Description",
+                    "average_ocr_confidence": 0.9069421291351318,
+                    "named_entities": []
+                },
+                {
+                    "text": "Unit price",
+                    "average_ocr_confidence": 0.9963524639606476,
+                    "named_entities": []
+                },
+                {
+                    "text": "Discount",
+                    "average_ocr_confidence": 0.9991905093193054,
+                    "named_entities": []
+                },
+                {
+                    "text": "Line total",
+                    "average_ocr_confidence": 0.9580317139625549,
+                    "named_entities": []
+                },
+                {
+                    "text": "145",
+                    "average_ocr_confidence": 0.9996916055679321,
+                    "named_entities": []
+                },
+                {
+                    "text": "JUK545",
+                    "average_ocr_confidence": 0.9984575510025024,
+                    "named_entities": []
+                },
+                {
+                    "text": "Nanotek frend TM system",
+                    "average_ocr_confidence": 0.9397233426570892,
+                    "named_entities": [
+                        {
+                            "text": "Nan",
+                            "type": "ORG",
+                            "ner_confidence": 0.6950823664665222
+                        }
+                    ]
+                },
+                {
+                    "text": "$22.00",
+                    "average_ocr_confidence": 0.9965204000473022,
+                    "named_entities": []
+                },
+                {
+                    "text": "$5.00",
+                    "average_ocr_confidence": 0.999334990978241,
+                    "named_entities": []
+                },
+                {
+                    "text": "$3,185.00",
+                    "average_ocr_confidence": 0.9938619136810303,
+                    "named_entities": []
+                },
+                {
+                    "text": "900",
+                    "average_ocr_confidence": 0.9712971448898315,
+                    "named_entities": []
+                },
+                {
+                    "text": "KJE475",
+                    "average_ocr_confidence": 0.9895245432853699,
+                    "named_entities": [
+                        {
+                            "text": "##J",
+                            "type": "ORG",
+                            "ner_confidence": 0.5423253178596497
+                        }
+                    ]
+                },
+                {
+                    "text": "Pro advantagee mojility",
+                    "average_ocr_confidence": 0.8412517309188843,
+                    "named_entities": []
+                },
+                {
+                    "text": "$45.50",
+                    "average_ocr_confidence": 0.9989094734191895,
+                    "named_entities": []
+                },
+                {
+                    "text": "$45.00",
+                    "average_ocr_confidence": 0.9995050430297852,
+                    "named_entities": []
+                },
+                {
+                    "text": "$40,905.00",
+                    "average_ocr_confidence": 0.9966111779212952,
+                    "named_entities": []
+                },
+                {
+                    "text": "350",
+                    "average_ocr_confidence": 0.999104917049408,
+                    "named_entities": []
+                },
+                {
+                    "text": "VNJ483",
+                    "average_ocr_confidence": 0.7449931502342224,
+                    "named_entities": [
+                        {
+                            "text": "VNJ48",
+                            "type": "ORG",
+                            "ner_confidence": 0.8046451210975647
+                        }
+                    ]
+                },
+                {
+                    "text": "Symmetry surgical light",
+                    "average_ocr_confidence": 0.9815914233525594,
+                    "named_entities": []
+                },
+                {
+                    "text": "$33.00",
+                    "average_ocr_confidence": 0.9632928967475891,
+                    "named_entities": []
+                },
+                {
+                    "text": "$65.00",
+                    "average_ocr_confidence": 0.5144122242927551,
+                    "named_entities": []
+                },
+                {
+                    "text": "$11,485.00",
+                    "average_ocr_confidence": 0.9949437975883484,
+                    "named_entities": []
+                },
+                {
+                    "text": "455",
+                    "average_ocr_confidence": 0.9667859077453613,
+                    "named_entities": []
+                },
+                {
+                    "text": "LKU987",
+                    "average_ocr_confidence": 0.9990536570549011,
+                    "named_entities": [
+                        {
+                            "text": "LKU",
+                            "type": "ORG",
+                            "ner_confidence": 0.9888603091239929
+                        }
+                    ]
+                },
+                {
+                    "text": "Richmond cotton",
+                    "average_ocr_confidence": 0.9991646409034729,
+                    "named_entities": [
+                        {
+                            "text": "Richmond",
+                            "type": "LOC",
+                            "ner_confidence": 0.9641968607902527
+                        }
+                    ]
+                },
+                {
+                    "text": "$65.00",
+                    "average_ocr_confidence": 0.9924293160438538,
+                    "named_entities": []
+                },
+                {
+                    "text": "$25.00",
+                    "average_ocr_confidence": 0.9983024597167969,
+                    "named_entities": []
+                },
+                {
+                    "text": "$29,550.00",
+                    "average_ocr_confidence": 0.999067485332489,
+                    "named_entities": []
+                },
+                {
+                    "text": "720",
+                    "average_ocr_confidence": 0.9998385906219482,
+                    "named_entities": []
+                },
+                {
+                    "text": "JUN395",
+                    "average_ocr_confidence": 0.9848490357398987,
+                    "named_entities": []
+                },
+                {
+                    "text": "Medtest sptochem",
+                    "average_ocr_confidence": 0.9897424578666687,
+                    "named_entities": [
+                        {
+                            "text": "Me",
+                            "type": "ORG",
+                            "ner_confidence": 0.6858416199684143
+                        }
+                    ]
+                },
+                {
+                    "text": "$72.00",
+                    "average_ocr_confidence": 0.9965807795524597,
+                    "named_entities": []
+                },
+                {
+                    "text": "$50.00",
+                    "average_ocr_confidence": 0.9632986783981323,
+                    "named_entities": []
+                },
+                {
+                    "text": "$51,790.00",
+                    "average_ocr_confidence": 0.9975296854972839,
+                    "named_entities": []
+                },
+                {
+                    "text": "800",
+                    "average_ocr_confidence": 0.9979386925697327,
+                    "named_entities": []
+                },
+                {
+                    "text": "BE0793",
+                    "average_ocr_confidence": 0.9262235760688782,
+                    "named_entities": []
+                },
+                {
+                    "text": "Siemns xprecia stride",
+                    "average_ocr_confidence": 0.9910413225491842,
+                    "named_entities": []
+                },
+                {
+                    "text": "$22.50",
+                    "average_ocr_confidence": 0.9795072674751282,
+                    "named_entities": []
+                },
+                {
+                    "text": "$75.00",
+                    "average_ocr_confidence": 0.9988588094711304,
+                    "named_entities": []
+                },
+                {
+                    "text": "$17,925.00",
+                    "average_ocr_confidence": 0.9916462302207947,
+                    "named_entities": []
+                },
+                {
+                    "text": "120",
+                    "average_ocr_confidence": 0.98382169008255,
+                    "named_entities": []
+                },
+                {
+                    "text": "VJE846",
+                    "average_ocr_confidence": 0.9830560684204102,
+                    "named_entities": [
+                        {
+                            "text": "V",
+                            "type": "ORG",
+                            "ner_confidence": 0.7008610367774963
+                        }
+                    ]
+                },
+                {
+                    "text": "gogo purelle es4",
+                    "average_ocr_confidence": 0.8273951709270477,
+                    "named_entities": []
+                },
+                {
+                    "text": "$34.00",
+                    "average_ocr_confidence": 0.9987609386444092,
+                    "named_entities": []
+                },
+                {
+                    "text": "$29.00",
+                    "average_ocr_confidence": 0.9995222091674805,
+                    "named_entities": []
+                },
+                {
+                    "text": "$4,051.00",
+                    "average_ocr_confidence": 0.9964721202850342,
+                    "named_entities": []
+                },
+                {
+                    "text": "650",
+                    "average_ocr_confidence": 0.9998601675033569,
+                    "named_entities": []
+                },
+                {
+                    "text": "KIS948",
+                    "average_ocr_confidence": 0.9994145631790161,
+                    "named_entities": [
+                        {
+                            "text": "KIS948",
+                            "type": "ORG",
+                            "ner_confidence": 0.840743362903595
+                        }
+                    ]
+                },
+                {
+                    "text": "Sklar reusable surgical",
+                    "average_ocr_confidence": 0.9889824787775675,
+                    "named_entities": [
+                        {
+                            "text": "S",
+                            "type": "PER",
+                            "ner_confidence": 0.5785085558891296
+                        }
+                    ]
+                },
+                {
+                    "text": "$66.00",
+                    "average_ocr_confidence": 0.9942179918289185,
+                    "named_entities": []
+                },
+                {
+                    "text": "$35.00",
+                    "average_ocr_confidence": 0.981905460357666,
+                    "named_entities": []
+                },
+                {
+                    "text": "$42,865.00",
+                    "average_ocr_confidence": 0.7540159821510315,
+                    "named_entities": []
+                },
+                {
+                    "text": "Total discount",
+                    "average_ocr_confidence": 0.9929604530334473,
+                    "named_entities": []
+                },
+                {
+                    "text": "$329.00",
+                    "average_ocr_confidence": 0.5282180905342102,
+                    "named_entities": []
+                },
+                {
+                    "text": "Subtotal",
+                    "average_ocr_confidence": 0.9968934059143066,
+                    "named_entities": []
+                },
+                {
+                    "text": "$201,427.00",
+                    "average_ocr_confidence": 0.9178487658500671,
+                    "named_entities": []
+                },
+                {
+                    "text": "Sales tax",
+                    "average_ocr_confidence": 0.9978518784046173,
+                    "named_entities": []
+                },
+                {
+                    "text": "7.50%",
+                    "average_ocr_confidence": 0.8164287805557251,
+                    "named_entities": []
+                },
+                {
+                    "text": "Total",
+                    "average_ocr_confidence": 0.9958040118217468,
+                    "named_entities": []
+                },
+                {
+                    "text": "$216,534",
+                    "average_ocr_confidence": 0.977260172367096,
+                    "named_entities": []
+                },
+                {
+                    "text": "Make all checks payable to smart shipping services",
+                    "average_ocr_confidence": 0.9779395163059235,
+                    "named_entities": []
+                },
+                {
+                    "text": "Thank you for your business!",
+                    "average_ocr_confidence": 0.8519458949565888,
+                    "named_entities": []
+                }
+            ]
+        }
+    ]
+}

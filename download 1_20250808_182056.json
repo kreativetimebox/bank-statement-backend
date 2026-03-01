@@ -1,0 +1,452 @@
+{
+    "pages": [
+        {
+            "page_number": 1,
+            "lines": [
+                {
+                    "text": "ACME Corporation",
+                    "average_ocr_confidence": 0.9152216017246246,
+                    "named_entities": [
+                        {
+                            "text": "ACME Corporation",
+                            "type": "ORG",
+                            "ner_confidence": 0.9993076920509338
+                        }
+                    ]
+                },
+                {
+                    "text": "Recipient",
+                    "average_ocr_confidence": 0.8281992077827454,
+                    "named_entities": []
+                },
+                {
+                    "text": "INVOICE",
+                    "average_ocr_confidence": 0.8683839440345764,
+                    "named_entities": []
+                },
+                {
+                    "text": "Wile E. Coyote",
+                    "average_ocr_confidence": 0.9240937829017639,
+                    "named_entities": [
+                        {
+                            "text": "W",
+                            "type": "PER",
+                            "ner_confidence": 0.9804489016532898
+                        },
+                        {
+                            "text": "##ile E. Coyote",
+                            "type": "PER",
+                            "ner_confidence": 0.9556244015693665
+                        }
+                    ]
+                },
+                {
+                    "text": "1 Monument Valley",
+                    "average_ocr_confidence": 0.9598474105199178,
+                    "named_entities": [
+                        {
+                            "text": "Monument Valley",
+                            "type": "LOC",
+                            "ner_confidence": 0.9088958501815796
+                        }
+                    ]
+                },
+                {
+                    "text": "wile.e@coyote.is",
+                    "average_ocr_confidence": 0.47241830825805664,
+                    "named_entities": []
+                },
+                {
+                    "text": "Ornithologist",
+                    "average_ocr_confidence": 0.9050224423408508,
+                    "named_entities": []
+                },
+                {
+                    "text": "Arizona, United States LaleXemplates.com",
+                    "average_ocr_confidence": 0.9245375245809555,
+                    "named_entities": [
+                        {
+                            "text": "Arizona",
+                            "type": "LOC",
+                            "ner_confidence": 0.9997873902320862
+                        },
+                        {
+                            "text": "United States",
+                            "type": "LOC",
+                            "ner_confidence": 0.9994262456893921
+                        },
+                        {
+                            "text": "LaleXemplate",
+                            "type": "ORG",
+                            "ner_confidence": 0.8539592623710632
+                        }
+                    ]
+                },
+                {
+                    "text": "Invoice Number",
+                    "average_ocr_confidence": 0.9473493099212646,
+                    "named_entities": []
+                },
+                {
+                    "text": "Date",
+                    "average_ocr_confidence": 0.9976111650466919,
+                    "named_entities": []
+                },
+                {
+                    "text": "Payment Due",
+                    "average_ocr_confidence": 0.9986060559749603,
+                    "named_entities": []
+                },
+                {
+                    "text": "Project Name",
+                    "average_ocr_confidence": 0.9685361683368683,
+                    "named_entities": []
+                },
+                {
+                    "text": "1632-F",
+                    "average_ocr_confidence": 0.9972113966941833,
+                    "named_entities": []
+                },
+                {
+                    "text": "September: 23, 2021",
+                    "average_ocr_confidence": 0.9465978145599365,
+                    "named_entities": []
+                },
+                {
+                    "text": "September 30, 2021",
+                    "average_ocr_confidence": 0.9371304512023926,
+                    "named_entities": []
+                },
+                {
+                    "text": "Pest Eradication",
+                    "average_ocr_confidence": 0.9958990216255188,
+                    "named_entities": [
+                        {
+                            "text": "Era",
+                            "type": "MISC",
+                            "ner_confidence": 0.5835859775543213
+                        }
+                    ]
+                },
+                {
+                    "text": "ITEM",
+                    "average_ocr_confidence": 0.9931083917617798,
+                    "named_entities": [
+                        {
+                            "text": "IT",
+                            "type": "ORG",
+                            "ner_confidence": 0.5065416097640991
+                        }
+                    ]
+                },
+                {
+                    "text": "QUANTITY",
+                    "average_ocr_confidence": 0.8893736004829407,
+                    "named_entities": [
+                        {
+                            "text": "QUANTI",
+                            "type": "ORG",
+                            "ner_confidence": 0.5323145985603333
+                        },
+                        {
+                            "text": "##TY",
+                            "type": "MISC",
+                            "ner_confidence": 0.422724187374115
+                        }
+                    ]
+                },
+                {
+                    "text": "RATE",
+                    "average_ocr_confidence": 0.9996531009674072,
+                    "named_entities": []
+                },
+                {
+                    "text": "SUBTOTAL",
+                    "average_ocr_confidence": 0.9987019300460815,
+                    "named_entities": [
+                        {
+                            "text": "##BTOTA",
+                            "type": "ORG",
+                            "ner_confidence": 0.6812445521354675
+                        }
+                    ]
+                },
+                {
+                    "text": "Heavy wrought anvil",
+                    "average_ocr_confidence": 0.953805943330129,
+                    "named_entities": []
+                },
+                {
+                    "text": "1",
+                    "average_ocr_confidence": 0.998833954334259,
+                    "named_entities": []
+                },
+                {
+                    "text": "$5,600",
+                    "average_ocr_confidence": 0.9838604927062988,
+                    "named_entities": []
+                },
+                {
+                    "text": "$5,600.00",
+                    "average_ocr_confidence": 0.9978367686271667,
+                    "named_entities": []
+                },
+                {
+                    "text": "Dynamite sticks",
+                    "average_ocr_confidence": 0.9687601327896118,
+                    "named_entities": []
+                },
+                {
+                    "text": "25",
+                    "average_ocr_confidence": 0.9866782426834106,
+                    "named_entities": []
+                },
+                {
+                    "text": "$25.95",
+                    "average_ocr_confidence": 0.8846400380134583,
+                    "named_entities": []
+                },
+                {
+                    "text": "$648.75",
+                    "average_ocr_confidence": 0.9986506104469299,
+                    "named_entities": []
+                },
+                {
+                    "text": "Exploding tennis balls",
+                    "average_ocr_confidence": 0.9936074415842692,
+                    "named_entities": []
+                },
+                {
+                    "text": "7",
+                    "average_ocr_confidence": 0.9993569254875183,
+                    "named_entities": []
+                },
+                {
+                    "text": "$49.99",
+                    "average_ocr_confidence": 0.9987177848815918,
+                    "named_entities": []
+                },
+                {
+                    "text": "$349.93",
+                    "average_ocr_confidence": 0.9902410507202148,
+                    "named_entities": []
+                },
+                {
+                    "text": "Gross",
+                    "average_ocr_confidence": 0.9997085928916931,
+                    "named_entities": []
+                },
+                {
+                    "text": "$6,598.68",
+                    "average_ocr_confidence": 0.9992436170578003,
+                    "named_entities": []
+                },
+                {
+                    "text": "Tax",
+                    "average_ocr_confidence": 0.9998273253440857,
+                    "named_entities": []
+                },
+                {
+                    "text": "$989.80",
+                    "average_ocr_confidence": 0.998683750629425,
+                    "named_entities": []
+                },
+                {
+                    "text": "Net",
+                    "average_ocr_confidence": 0.9930222630500793,
+                    "named_entities": []
+                },
+                {
+                    "text": "$7,588.48",
+                    "average_ocr_confidence": 0.9985040426254272,
+                    "named_entities": []
+                },
+                {
+                    "text": "Terms and Conditions",
+                    "average_ocr_confidence": 0.8857587774594625,
+                    "named_entities": []
+                },
+                {
+                    "text": "Amount Due",
+                    "average_ocr_confidence": 0.9941271543502808,
+                    "named_entities": []
+                },
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent porttitor",
+                    "average_ocr_confidence": 0.9589141845703125,
+                    "named_entities": []
+                },
+                {
+                    "text": "arcu luctus, imperdiet urna iaculis, mattis eros. Pellentesque iaculis odio",
+                    "average_ocr_confidence": 0.9292053878307343,
+                    "named_entities": [
+                        {
+                            "text": "P",
+                            "type": "MISC",
+                            "ner_confidence": 0.5192018151283264
+                        },
+                        {
+                            "text": "##ntesque",
+                            "type": "MISC",
+                            "ner_confidence": 0.7742599248886108
+                        }
+                    ]
+                },
+                {
+                    "text": "vel nisl ullamcorper, nec faucibus ipsum molestie. Sed dictum nisl non",
+                    "average_ocr_confidence": 0.9589973363009366,
+                    "named_entities": []
+                },
+                {
+                    "text": "aliquet porttitor. Etiam vulputate arcu dignissim, finibus sem et, viverra nisl.",
+                    "average_ocr_confidence": 0.8757773746143688,
+                    "named_entities": [
+                        {
+                            "text": "E",
+                            "type": "PER",
+                            "ner_confidence": 0.9464974403381348
+                        }
+                    ]
+                },
+                {
+                    "text": "Aeneanl luctus congue massa, utl laoreet metus ornare in.",
+                    "average_ocr_confidence": 0.8772028419706557,
+                    "named_entities": [
+                        {
+                            "text": "A",
+                            "type": "PER",
+                            "ner_confidence": 0.5783135294914246
+                        },
+                        {
+                            "text": "##ene",
+                            "type": "ORG",
+                            "ner_confidence": 0.23962995409965515
+                        }
+                    ]
+                },
+                {
+                    "text": "$7,588.48",
+                    "average_ocr_confidence": 0.9075276851654053,
+                    "named_entities": []
+                },
+                {
+                    "text": "Aliquam arcu turpis, ultrices sed luctus ac, vehicula id metus. Morbi",
+                    "average_ocr_confidence": 0.9559141180732034,
+                    "named_entities": [
+                        {
+                            "text": "Mo",
+                            "type": "PER",
+                            "ner_confidence": 0.8858413696289062
+                        }
+                    ]
+                },
+                {
+                    "text": "eu feugiat velit, ett tempus augue. Proin ac mattis tortor. Donec tincidunt,",
+                    "average_ocr_confidence": 0.835012341539065,
+                    "named_entities": [
+                        {
+                            "text": "Done",
+                            "type": "PER",
+                            "ner_confidence": 0.8724036812782288
+                        }
+                    ]
+                },
+                {
+                    "text": "ante rhoncus luctus semper, arcu lorem lobortis justo, nec convallis ante",
+                    "average_ocr_confidence": 0.9554056471044367,
+                    "named_entities": []
+                },
+                {
+                    "text": "quam quis lectus. Aenean tincidunt sodales massa, et hendrerit tellus",
+                    "average_ocr_confidence": 0.88630912899971,
+                    "named_entities": [
+                        {
+                            "text": "A",
+                            "type": "ORG",
+                            "ner_confidence": 0.7900590300559998
+                        },
+                        {
+                            "text": "##enean",
+                            "type": "MISC",
+                            "ner_confidence": 0.5818420648574829
+                        }
+                    ]
+                },
+                {
+                    "text": "mattis ac. Sed non pretium nibh.",
+                    "average_ocr_confidence": 0.8763442834218343,
+                    "named_entities": []
+                },
+                {
+                    "text": "Sender",
+                    "average_ocr_confidence": 0.995101809501648,
+                    "named_entities": []
+                },
+                {
+                    "text": "John Smith",
+                    "average_ocr_confidence": 0.9758667051792145,
+                    "named_entities": [
+                        {
+                            "text": "John Smith",
+                            "type": "PER",
+                            "ner_confidence": 0.9994628429412842
+                        }
+                    ]
+                },
+                {
+                    "text": "1 ACME Plaza",
+                    "average_ocr_confidence": 0.9768439531326294,
+                    "named_entities": [
+                        {
+                            "text": "ACME Plaza",
+                            "type": "ORG",
+                            "ner_confidence": 0.8227662444114685
+                        }
+                    ]
+                },
+                {
+                    "text": "john@acmecorp.com",
+                    "average_ocr_confidence": 0.7658889889717102,
+                    "named_entities": [
+                        {
+                            "text": "##cor",
+                            "type": "ORG",
+                            "ner_confidence": 0.6059233546257019
+                        }
+                    ]
+                },
+                {
+                    "text": "THANKS",
+                    "average_ocr_confidence": 0.9591724872589111,
+                    "named_entities": []
+                },
+                {
+                    "text": "Sales Associate",
+                    "average_ocr_confidence": 0.9787243008613586,
+                    "named_entities": []
+                },
+                {
+                    "text": "Brooklyn, New York",
+                    "average_ocr_confidence": 0.9926122625668844,
+                    "named_entities": [
+                        {
+                            "text": "Brooklyn",
+                            "type": "LOC",
+                            "ner_confidence": 0.995381236076355
+                        },
+                        {
+                            "text": "New York",
+                            "type": "LOC",
+                            "ner_confidence": 0.9992798566818237
+                        }
+                    ]
+                },
+                {
+                    "text": "+1 123 456 7890",
+                    "average_ocr_confidence": 0.8625635206699371,
+                    "named_entities": []
+                }
+            ]
+        }
+    ]
+}
